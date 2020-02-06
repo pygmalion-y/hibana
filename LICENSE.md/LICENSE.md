@@ -1,4 +1,4 @@
-Copyright (c) [year] [fullname] ([email])
+Copyright (c) 2020 pygmalion (pygmalion.y@asu.edu)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
