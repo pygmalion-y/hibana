@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lmod" format="2">
+	<advance width="247"/>
+	<unicode hex="02E1"/>
+	<outline>
+		<component base="l"/>
+	</outline>
+</glyph>
