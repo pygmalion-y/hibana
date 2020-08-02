@@ -2,13 +2,8 @@
 <glyph name="Ie-cy" format="2">
 	<advance width="625"/>
 	<unicode hex="0415"/>
+	<anchor x="313" y="752" name="top"/>
 	<outline>
 		<component base="E"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

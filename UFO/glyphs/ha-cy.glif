@@ -2,13 +2,8 @@
 <glyph name="ha-cy" format="2">
 	<advance width="584"/>
 	<unicode hex="0445"/>
+	<anchor x="564" y="0" name="bottomright"/>
 	<outline>
 		<component base="x"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

@@ -1,13 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="omicron" format="2">
-	<advance width="600"/>
+	<advance width="637"/>
 	<unicode hex="03BF"/>
+	<anchor x="319" y="504" name="top"/>
 	<outline>
+		<contour>
+			<point x="318" y="-14" type="curve" smooth="yes"/>
+			<point x="520" y="-14"/>
+			<point x="596" y="135"/>
+			<point x="596" y="255" type="curve" smooth="yes"/>
+			<point x="596" y="375"/>
+			<point x="520" y="524"/>
+			<point x="318" y="524" type="curve" smooth="yes"/>
+			<point x="117" y="524"/>
+			<point x="41" y="375"/>
+			<point x="41" y="255" type="curve" smooth="yes"/>
+			<point x="41" y="135"/>
+			<point x="117" y="-14"/>
+		</contour>
+		<contour>
+			<point x="318" y="76" type="curve" smooth="yes"/>
+			<point x="209" y="76"/>
+			<point x="136" y="142"/>
+			<point x="136" y="255" type="curve" smooth="yes"/>
+			<point x="136" y="368"/>
+			<point x="207" y="434"/>
+			<point x="318" y="434" type="curve" smooth="yes"/>
+			<point x="429" y="434"/>
+			<point x="501" y="368"/>
+			<point x="501" y="255" type="curve" smooth="yes"/>
+			<point x="501" y="142"/>
+			<point x="427" y="76"/>
+		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

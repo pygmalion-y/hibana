@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.numr" format="2">
-	<advance width="299"/>
+	<advance width="328"/>
 	<outline>
-		<contour>
-			<point x="81" y="311" type="line"/>
-			<point x="157" y="311" type="line"/>
-			<point x="306" y="646" type="line" smooth="yes"/>
-			<point x="330" y="700"/>
-			<point x="335" y="712"/>
-			<point x="335" y="738" type="curve"/>
-			<point x="335" y="763" type="line"/>
-			<point x="40" y="763" type="line"/>
-			<point x="40" y="702" type="line"/>
-			<point x="258" y="702" type="line"/>
-		</contour>
+		<component base="seveninferior" yOffset="442"/>
 	</outline>
 </glyph>

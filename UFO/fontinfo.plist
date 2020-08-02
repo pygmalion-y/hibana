@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Hibana</string>
 	<key>openTypeHeadCreated</key>
-	<string>2020/02/29 03:33:52</string>
+	<string>2020/07/28 03:16:10</string>
 	<key>openTypeHheaAscender</key>
 	<integer>900</integer>
 	<key>openTypeHheaDescender</key>
@@ -22,18 +22,26 @@
 	<string>pygmalion</string>
 	<key>openTypeNameDesignerURL</key>
 	<string>pygmalion.xyz</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
 	<key>openTypeNameManufacturer</key>
 	<string>ybstudio</string>
 	<key>openTypeNameManufacturerURL</key>
-	<string>ybstudio.me</string>
+	<string>github.com/kenysc/hibana</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>SubMedium</string>
+	<key>openTypeOS2Type</key>
+	<array/>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>870</integer>
 	<key>openTypeOS2TypoDescender</key>
 	<integer>-130</integer>
 	<key>openTypeOS2TypoLineGap</key>
 	<integer>100</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>PYGY</string>
 	<key>openTypeOS2WeightClass</key>
 	<integer>500</integer>
 	<key>openTypeOS2WidthClass</key>
@@ -74,12 +82,14 @@
 	<string>regular</string>
 	<key>styleName</key>
 	<string>SubMedium</string>
+	<key>trademark</key>
+	<string>A project proposed by pygmalion.xyz since 2020.</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>229</integer>
+	<integer>728</integer>
 	<key>xHeight</key>
 	<integer>504</integer>
 </dict>

@@ -2,13 +2,8 @@
 <glyph name="O-cy" format="2">
 	<advance width="800"/>
 	<unicode hex="041E"/>
+	<anchor x="400" y="752" name="top"/>
 	<outline>
 		<component base="O"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

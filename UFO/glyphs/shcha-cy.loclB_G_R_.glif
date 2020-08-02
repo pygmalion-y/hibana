@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shcha-cy.loclBGR" format="2">
+	<advance width="953"/>
+	<outline>
+		<contour>
+			<point x="818" y="-130" type="line"/>
+			<point x="901" y="-130" type="line"/>
+			<point x="901" y="80" type="line"/>
+			<point x="818" y="80" type="line"/>
+		</contour>
+		<component base="m" xScale="-1" yScale="-1" xOffset="913" yOffset="504"/>
+	</outline>
+</glyph>

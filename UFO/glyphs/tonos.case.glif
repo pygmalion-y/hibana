@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tonos.case" format="2">
 	<advance width="600"/>
+	<anchor x="291" y="752" name="_topleft"/>
 	<outline>
+		<contour>
+			<point x="136" y="614" type="line"/>
+			<point x="213" y="614" type="line"/>
+			<point x="271" y="752" type="line"/>
+			<point x="181" y="752" type="line"/>
+		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

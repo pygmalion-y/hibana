@@ -2,13 +2,8 @@
 <glyph name="Iota" format="2">
 	<advance width="256"/>
 	<unicode hex="0399"/>
+	<anchor x="20" y="752" name="topleft"/>
 	<outline>
 		<component base="I"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

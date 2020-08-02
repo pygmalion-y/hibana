@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilontonos" format="2">
-	<advance width="600"/>
+	<advance width="778"/>
 	<unicode hex="038E"/>
 	<outline>
+		<component base="Upsilon" xOffset="130"/>
+		<component base="tonos.case" xOffset="-141"/>
 	</outline>
 	<lib>
 		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>=+130</string>
 		</dict>
 	</lib>
 </glyph>

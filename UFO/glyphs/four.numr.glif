@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.numr" format="2">
-	<advance width="404"/>
+	<advance width="375"/>
 	<outline>
-		<contour>
-			<point x="263" y="311" type="line"/>
-			<point x="325" y="311" type="line"/>
-			<point x="325" y="399" type="line"/>
-			<point x="364" y="399" type="line"/>
-			<point x="364" y="459" type="line"/>
-			<point x="325" y="459" type="line"/>
-			<point x="325" y="763" type="line"/>
-			<point x="261" y="763" type="line"/>
-			<point x="71" y="499" type="line"/>
-			<point x="42" y="466"/>
-			<point x="40" y="442"/>
-			<point x="40" y="399" type="curve"/>
-			<point x="263" y="399" type="line"/>
-		</contour>
-		<contour>
-			<point x="116" y="459" type="line"/>
-			<point x="263" y="667" type="line"/>
-			<point x="263" y="459" type="line"/>
-		</contour>
+		<component base="fourinferior" yOffset="442"/>
 	</outline>
 </glyph>

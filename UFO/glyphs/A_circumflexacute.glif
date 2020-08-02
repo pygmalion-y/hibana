@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Acircumflexacute" format="2">
+	<advance width="692"/>
+	<unicode hex="1EA4"/>
+	<outline>
+		<component base="A"/>
+		<component base="circumflexcomb" xOffset="49" yOffset="248"/>
+		<component base="acutecomb" xOffset="36" yOffset="458"/>
+	</outline>
+</glyph>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="parenright.full" format="2">
-	<advance width="391"/>
+	<advance width="1000"/>
 	<unicode hex="FF09"/>
 	<outline>
-		<component base="parenright" xOffset="87"/>
+		<component base="parenright" xOffset="107"/>
 	</outline>
 </glyph>

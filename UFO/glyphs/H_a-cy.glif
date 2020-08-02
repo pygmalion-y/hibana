@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ha-cy" format="2">
-	<advance width="763"/>
+	<advance width="783"/>
 	<unicode hex="0425"/>
+	<anchor x="743" y="0" name="bottomright"/>
 	<outline>
 		<component base="X"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

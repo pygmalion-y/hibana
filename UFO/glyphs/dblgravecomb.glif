@@ -6,16 +6,16 @@
 	<anchor x="293.5" y="504" name="_top"/>
 	<outline>
 		<contour>
-			<point x="455" y="576" type="line"/>
-			<point x="370" y="714" type="line"/>
-			<point x="280" y="714" type="line"/>
-			<point x="378" y="576" type="line"/>
+			<point x="455" y="571" type="line"/>
+			<point x="370" y="709" type="line"/>
+			<point x="280" y="709" type="line"/>
+			<point x="378" y="571" type="line"/>
 		</contour>
 		<contour>
-			<point x="307" y="576" type="line"/>
-			<point x="222" y="714" type="line"/>
-			<point x="132" y="714" type="line"/>
-			<point x="230" y="576" type="line"/>
+			<point x="307" y="571" type="line"/>
+			<point x="222" y="709" type="line"/>
+			<point x="132" y="709" type="line"/>
+			<point x="230" y="571" type="line"/>
 		</contour>
 	</outline>
 </glyph>

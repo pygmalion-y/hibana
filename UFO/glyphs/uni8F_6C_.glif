@@ -4,4 +4,10 @@
 	<unicode hex="8F6C"/>
 	<outline>
 	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
 </glyph>

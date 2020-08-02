@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t" format="2">
-	<advance width="408"/>
+	<advance width="407"/>
 	<unicode hex="0074"/>
 	<anchor x="204" y="252" name="center"/>
 	<anchor x="204" y="683" name="top"/>
 	<anchor x="252" y="504" name="topright"/>
-	<anchor x="319" y="1" name="bottom"/>
+	<anchor x="253" y="6" name="bottom"/>
 	<outline>
 		<contour>
 			<point x="330" y="0" type="curve" smooth="yes"/>

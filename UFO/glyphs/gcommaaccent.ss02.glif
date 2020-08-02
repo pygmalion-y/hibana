@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="gcommaaccent.ss02" format="2">
-	<advance width="654"/>
+	<advance width="641"/>
 	<outline>
 		<component base="g.ss02"/>
-		<component base="commaturnedabovecomb" xOffset="-29"/>
+		<component base="commaturnedabovecomb" xOffset="-42"/>
 	</outline>
 </glyph>

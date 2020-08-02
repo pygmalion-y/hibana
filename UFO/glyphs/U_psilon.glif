@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilon" format="2">
-	<advance width="600"/>
+	<advance width="648"/>
 	<unicode hex="03A5"/>
+	<anchor x="324" y="752" name="top"/>
+	<anchor x="20" y="752" name="topleft"/>
 	<outline>
+		<component base="Y"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

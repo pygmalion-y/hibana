@@ -3,11 +3,11 @@
 	<advance width="600"/>
 	<unicode hex="0375"/>
 	<outline>
+		<contour>
+			<point x="355" y="310" type="line"/>
+			<point x="287" y="310" type="line"/>
+			<point x="209" y="0" type="line"/>
+			<point x="315" y="0" type="line"/>
+		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

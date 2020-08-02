@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tse-cy" format="2">
-	<advance width="600"/>
+	<advance width="672"/>
 	<unicode hex="0446"/>
 	<outline>
+		<contour>
+			<point x="463" y="504" type="line"/>
+			<point x="463" y="0" type="line"/>
+			<point x="554" y="0" type="line"/>
+			<point x="554" y="504" type="line"/>
+		</contour>
+		<contour>
+			<point x="78" y="504" type="line"/>
+			<point x="78" y="0" type="line"/>
+			<point x="169" y="0" type="line"/>
+			<point x="169" y="504" type="line"/>
+		</contour>
+		<contour>
+			<point x="78" y="80" type="line"/>
+			<point x="78" y="0" type="line"/>
+			<point x="620" y="0" type="line"/>
+			<point x="620" y="80" type="line"/>
+		</contour>
+		<contour>
+			<point x="537" y="-130" type="line"/>
+			<point x="620" y="-130" type="line"/>
+			<point x="620" y="0" type="line"/>
+			<point x="537" y="0" type="line"/>
+		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

@@ -1,13 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ii-cy" format="2">
-	<advance width="600"/>
+	<advance width="666"/>
 	<unicode hex="0438"/>
+	<anchor x="333" y="504" name="top"/>
+	<anchor x="646" y="0" name="bottomright"/>
 	<outline>
+		<contour>
+			<point x="497" y="0" type="line"/>
+			<point x="588" y="0" type="line"/>
+			<point x="588" y="504" type="line"/>
+			<point x="497" y="504" type="line"/>
+		</contour>
+		<contour>
+			<point x="78" y="0" type="line"/>
+			<point x="169" y="0" type="line"/>
+			<point x="169" y="504" type="line"/>
+			<point x="78" y="504" type="line"/>
+		</contour>
+		<contour>
+			<point x="169" y="129" type="line"/>
+			<point x="169" y="0" type="line"/>
+			<point x="497" y="375" type="line"/>
+			<point x="497" y="504" type="line"/>
+		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.tosf" format="2">
+	<advance width="700"/>
+	<outline>
+		<component base="three.osf" xOffset="39"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>three.tf</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>three.tf</string>
+		</dict>
+	</lib>
+</glyph>

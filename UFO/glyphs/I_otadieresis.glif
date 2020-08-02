@@ -6,10 +6,4 @@
 		<component base="Iota"/>
 		<component base="dieresiscomb" xOffset="-174" yOffset="248"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

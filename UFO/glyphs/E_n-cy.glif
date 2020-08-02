@@ -2,13 +2,8 @@
 <glyph name="En-cy" format="2">
 	<advance width="742"/>
 	<unicode hex="041D"/>
+	<anchor x="722" y="0" name="bottomright"/>
 	<outline>
 		<component base="H"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

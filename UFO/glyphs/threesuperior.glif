@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threesuperior" format="2">
-	<advance width="569"/>
+	<advance width="386"/>
 	<unicode hex="00B3"/>
 	<outline>
-		<component base="three"/>
+		<component base="threeinferior" yOffset="584"/>
 	</outline>
 	<lib>
 		<dict>

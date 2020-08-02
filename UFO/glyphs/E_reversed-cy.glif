@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Ereversed-cy" format="2">
-	<advance width="600"/>
+	<advance width="706"/>
 	<unicode hex="042D"/>
 	<outline>
+		<contour>
+			<point x="230" y="341" type="line"/>
+			<point x="559" y="341" type="line"/>
+			<point x="559" y="431" type="line"/>
+			<point x="230" y="431" type="line"/>
+		</contour>
+		<component base="C" xScale="-1" xOffset="706"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ge-cy" format="2">
-	<advance width="600"/>
+	<advance width="513"/>
 	<unicode hex="0433"/>
+	<anchor x="257" y="504" name="top"/>
+	<anchor x="493" y="0" name="bottomright"/>
 	<outline>
+		<contour>
+			<point x="78" y="0" type="line"/>
+			<point x="169" y="0" type="line"/>
+			<point x="169" y="424" type="line"/>
+			<point x="473" y="424" type="line"/>
+			<point x="473" y="504" type="line"/>
+			<point x="78" y="504" type="line"/>
+		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

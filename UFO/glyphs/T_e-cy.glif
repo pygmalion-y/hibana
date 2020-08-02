@@ -2,13 +2,8 @@
 <glyph name="Te-cy" format="2">
 	<advance width="649"/>
 	<unicode hex="0422"/>
+	<anchor x="629" y="0" name="bottomright"/>
 	<outline>
 		<component base="T"/>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>

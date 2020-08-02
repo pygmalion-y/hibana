@@ -1,13 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Xi" format="2">
-	<advance width="600"/>
+	<advance width="688"/>
 	<unicode hex="039E"/>
 	<outline>
+		<contour>
+			<point x="60" y="0" type="line"/>
+			<point x="628" y="0" type="line"/>
+			<point x="628" y="90" type="line"/>
+			<point x="60" y="90" type="line"/>
+		</contour>
+		<contour>
+			<point x="60" y="662" type="line"/>
+			<point x="628" y="662" type="line"/>
+			<point x="628" y="752" type="line"/>
+			<point x="60" y="752" type="line"/>
+		</contour>
+		<contour>
+			<point x="110" y="336" type="line"/>
+			<point x="578" y="336" type="line"/>
+			<point x="578" y="426" type="line"/>
+			<point x="110" y="426" type="line"/>
+		</contour>
 	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
 </glyph>
