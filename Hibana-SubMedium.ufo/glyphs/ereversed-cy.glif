@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ereversed-cy" format="2">
+	<advance width="560"/>
+	<unicode hex="044D"/>
+	<anchor x="280" y="504" name="top"/>
+	<outline>
+		<contour>
+			<point x="145" y="224" type="line"/>
+			<point x="422" y="224" type="line"/>
+			<point x="422" y="309" type="line"/>
+			<point x="145" y="309" type="line"/>
+		</contour>
+		<component base="c" xScale="-1" xOffset="560"/>
+	</outline>
+</glyph>

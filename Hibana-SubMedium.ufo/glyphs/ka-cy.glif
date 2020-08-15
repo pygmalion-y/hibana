@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ka-cy" format="2">
+	<advance width="583"/>
+	<unicode hex="043A"/>
+	<anchor x="285" y="504" name="top"/>
+	<anchor x="550" y="0" name="bottomright"/>
+	<outline>
+		<contour>
+			<point x="78" y="0" type="line"/>
+			<point x="167" y="0" type="line"/>
+			<point x="167" y="504" type="line"/>
+			<point x="78" y="504" type="line"/>
+		</contour>
+		<contour>
+			<point x="84" y="222" type="line"/>
+			<point x="245" y="222" type="line"/>
+			<point x="245" y="298" type="line"/>
+			<point x="84" y="298" type="line"/>
+		</contour>
+		<contour>
+			<point x="417" y="0" type="line"/>
+			<point x="535" y="0" type="line"/>
+			<point x="267" y="280" type="line"/>
+			<point x="194" y="242" type="line"/>
+		</contour>
+		<contour>
+			<point x="260" y="237" type="line"/>
+			<point x="519" y="504" type="line"/>
+			<point x="402" y="504" type="line"/>
+			<point x="155" y="245" type="line"/>
+		</contour>
+	</outline>
+</glyph>

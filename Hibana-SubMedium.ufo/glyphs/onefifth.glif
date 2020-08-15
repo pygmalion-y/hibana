@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onefifth" format="2">
+	<advance width="905"/>
+	<unicode hex="2155"/>
+	<outline>
+		<component base="one.numr"/>
+		<component base="fraction" xOffset="227"/>
+		<component base="five.dnom" xOffset="513"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>five.dnom</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>one.numr</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>one.numr</string>
+		</dict>
+	</lib>
+</glyph>

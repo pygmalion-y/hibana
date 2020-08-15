@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.zero" format="2">
+	<advance width="694"/>
+	<outline>
+		<component base="zero"/>
+		<component base="_slash.zero" xScale="0.9994" xyScale="-0.0349" yScale="0.9994" yxScale="0.0349" xOffset="-18" yOffset="12"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>zero</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>zero</string>
+		</dict>
+	</lib>
+</glyph>

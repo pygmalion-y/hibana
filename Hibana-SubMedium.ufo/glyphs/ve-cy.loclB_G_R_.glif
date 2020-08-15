@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ve-cy.loclBGR" format="2">
+	<advance width="605"/>
+	<outline>
+		<contour>
+			<point x="65" y="180" type="line"/>
+			<point x="162" y="180" type="line"/>
+			<point x="162" y="570" type="line" smooth="yes"/>
+			<point x="162" y="676"/>
+			<point x="237" y="712"/>
+			<point x="315" y="712" type="curve" smooth="yes"/>
+			<point x="396" y="712"/>
+			<point x="449" y="677"/>
+			<point x="449" y="586" type="curve" smooth="yes"/>
+			<point x="449" y="484"/>
+			<point x="422" y="468"/>
+			<point x="253" y="450" type="curve" smooth="yes"/>
+			<point x="220" y="446"/>
+			<point x="179" y="428"/>
+			<point x="162" y="411" type="curve"/>
+			<point x="162" y="238" type="line"/>
+			<point x="162" y="349"/>
+			<point x="241" y="368"/>
+			<point x="320" y="368" type="curve" smooth="yes"/>
+			<point x="401" y="368"/>
+			<point x="470" y="355"/>
+			<point x="470" y="207" type="curve" smooth="yes"/>
+			<point x="470" y="117"/>
+			<point x="431" y="77"/>
+			<point x="308" y="77" type="curve" smooth="yes"/>
+			<point x="219" y="77"/>
+			<point x="162" y="108"/>
+			<point x="162" y="212" type="curve"/>
+			<point x="65" y="180" type="line"/>
+			<point x="65" y="0"/>
+			<point x="259" y="-14"/>
+			<point x="317" y="-14" type="curve" smooth="yes"/>
+			<point x="495" y="-14"/>
+			<point x="563" y="75"/>
+			<point x="563" y="207" type="curve" smooth="yes"/>
+			<point x="563" y="295"/>
+			<point x="525" y="396"/>
+			<point x="421" y="416" type="curve"/>
+			<point x="510" y="433"/>
+			<point x="540" y="492"/>
+			<point x="540" y="586" type="curve" smooth="yes"/>
+			<point x="540" y="714"/>
+			<point x="465" y="796"/>
+			<point x="311" y="796" type="curve" smooth="yes"/>
+			<point x="158" y="796"/>
+			<point x="65" y="708"/>
+			<point x="65" y="570" type="curve" smooth="yes"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.85,0.26,0.06,1</string>
+		</dict>
+	</lib>
+</glyph>

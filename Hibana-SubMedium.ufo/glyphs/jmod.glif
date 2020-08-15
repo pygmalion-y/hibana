@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jmod" format="2">
+	<advance width="126"/>
+	<unicode hex="02B2"/>
+	<outline>
+		<component base="j" xScale="0.5" yScale="0.5" xOffset="16" yOffset="516"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>j</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

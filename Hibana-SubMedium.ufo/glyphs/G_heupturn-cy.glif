@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gheupturn-cy" format="2">
+	<advance width="583"/>
+	<unicode hex="0490"/>
+	<outline>
+		<contour>
+			<point x="78" y="0" type="line"/>
+			<point x="172" y="0" type="line"/>
+			<point x="172" y="662" type="line"/>
+			<point x="543" y="662" type="line"/>
+			<point x="543" y="752" type="line"/>
+			<point x="78" y="752" type="line"/>
+		</contour>
+		<contour>
+			<point x="458" y="752" type="line"/>
+			<point x="543" y="752" type="line"/>
+			<point x="543" y="882" type="line"/>
+			<point x="458" y="882" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>Ge-cy</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>Ge-cy</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iu-cy.loclBGR" format="2">
+	<advance width="814"/>
+	<outline>
+		<contour>
+			<point x="78" y="0" type="line"/>
+			<point x="169" y="0" type="line"/>
+			<point x="169" y="782" type="line"/>
+			<point x="78" y="782" type="line"/>
+		</contour>
+		<contour>
+			<point x="90" y="224" type="line"/>
+			<point x="317" y="224" type="line"/>
+			<point x="317" y="309" type="line"/>
+			<point x="90" y="309" type="line"/>
+		</contour>
+		<component base="o" xOffset="185"/>
+	</outline>
+</glyph>
