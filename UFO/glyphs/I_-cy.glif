@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="I-cy" format="2">
-	<advance width="256"/>
-	<unicode hex="0406"/>
-	<anchor x="128" y="752" name="top"/>
-	<outline>
-		<component base="I"/>
-	</outline>
-</glyph>
