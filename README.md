@@ -1,4 +1,4 @@
-# hibana
+# hibana 火花
 “If our voice is loud enough to threaten the fireworks, there may still be a chance to make a difference, but in fact, our voice is so faint that only those who curious can hear it.”
 
 “如果我们的声音大得足以威胁到烟火，或许还有可能改变什么结果，但实际上我们的声音小得可怜，只有认真想听的人才听得见。”
@@ -11,11 +11,33 @@ hibana is a proof of presence. The design is based on my selfish motives, it is 
 
 hibana 是一份在场证明。它即出于这种私心设计，是我的外化，也是我的倒影。它是开源的无衬线体并致力于支持世界上的所有语言。它在二〇二〇年春只有一种介于常规体和中粗体间的字重（450），并属于一种相对偏高的字宽。火花源于又吉直树（Naoki Matayoshi）的同名中篇小说，它获得了第153回芥川龙之介赏。
 
-## How to use
-Under [release](https://github.com/kenysc/hibana/releases) tab:
+## How to use 如何使用
+Under [release tab](https://github.com/kenysc/hibana/releases): 在[发布页](https://github.com/kenysc/hibana/releases)下：
 
 To create a new approach based on current design: download the ufo file and import to your font editor.
 
-To use current design on your computer: download the otf file and install on your computer.
+如您希望在当前设计下作出改动或演进：请下载发布页内的ufo文件并将其导入您的字体编辑器。
+
+To use current design on your desktop: download the otf file and install on your computer.
+
+如您希望在您的计算机上使用当前设计：请下载发布页内的oft文件并安装。
 
 To use current design on your website: download the woff file and deploy on your server.
+
+如您希望在您的网页上使用当前设计：请下载发布页内的woff文件并在服务器上部署。
+
+## Clarify on license 您可以做什么和不可以做什么
+1. Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+字体软件或其任何个别构件，无论原版或修改版，均不能单独销售。
+
+2. Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+原版或修改版字体软件可以与任何软件捆绑、一并再分发和/或一并销售，但每份副本都需要包含上述版权标记和本许可证。可以采用包括独立文本文件、人类可读信息头或在文本或二进制文件内适当的、用户易于查阅的机器可读元数据字段的形式。
+
+3. No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+修改版字体软件不能使用保留字体名称，除非相应版权持有者授予明确书面许可。此项限制仅适用于对用户显示的主要字体名称。
+
+4. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+除向版权持有者和作者的贡献致谢或具有其明确书面许可外，不得将版权持有者或作者的名字用于推广、认可或宣传任何修改版。
+
+5. The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+字体软件无论修改或未修改，无论部分或整体，均必须完全在本许可证下分发，不得在任何其他许可证下分发。字体处于本许可证下的要求不适用于使用字体软件创建的任何文档。
