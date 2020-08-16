@@ -13,6 +13,9 @@ hibana 是一份在场证明。它即出于这种私心设计，是我的外化�
 
 ## How to use
 Under release tab:
+
 To create a new approach based on current design: download the ufo file and import to your font editor.
+
 To use current design on your computer: download the otf file and install on your computer.
+
 To use current design on your website: download the woff file and deploy on your server.
