@@ -10,3 +10,9 @@ hibana（火花），是突然而宏大的预谋。二〇一二年一月末，�
 hibana is a proof of presence. The design is based on my selfish motives, it is my externalization and my reflection. It’s an open source sans-serif typeface and is committed to supporting all languages in the world. It has only one weight (450) between regular and medium bold in the spring of 2020, and presented as a relatively high character width. Hibana is Naoki Matayoshi's novel, which won the 153rd Akutagawa Award.
 
 hibana 是一份在场证明。它即出于这种私心设计，是我的外化，也是我的倒影。它是开源的无衬线体并致力于支持世界上的所有语言。它在二〇二〇年春只有一种介于常规体和中粗体间的字重（450），并属于一种相对偏高的字宽。火花源于又吉直树（Naoki Matayoshi）的同名中篇小说，它获得了第153回芥川龙之介赏。
+
+## How to use
+Under release tab:
+To create a new approach based on current design: download the ufo file and import to your font editor.
+To use current design on your computer: download the otf file and install on your computer.
+To use current design on your website: download the woff file and deploy on your server.
