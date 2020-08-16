@@ -12,7 +12,7 @@ hibana is a proof of presence. The design is based on my selfish motives, it is 
 hibana 是一份在场证明。它即出于这种私心设计，是我的外化，也是我的倒影。它是开源的无衬线体并致力于支持世界上的所有语言。它在二〇二〇年春只有一种介于常规体和中粗体间的字重（450），并属于一种相对偏高的字宽。火花源于又吉直树（Naoki Matayoshi）的同名中篇小说，它获得了第153回芥川龙之介赏。
 
 ## How to use
-Under release tab:
+Under [release](https://github.com/kenysc/hibana/releases) tab:
 
 To create a new approach based on current design: download the ufo file and import to your font editor.
 
