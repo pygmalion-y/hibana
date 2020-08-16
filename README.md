@@ -20,7 +20,7 @@ To create a new approach based on current design: download the ufo file and impo
 
 To use current design on your desktop: download the otf file and install on your computer.
 
-如您希望在您的计算机上使用当前设计：请下载发布页内的oft文件并安装。
+如您希望在您的计算机上使用当前设计：请下载发布页内的otf文件并安装。
 
 To use current design on your website: download the woff file and deploy on your server.
 
