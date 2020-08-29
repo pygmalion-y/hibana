@@ -4100,9 +4100,8 @@ SEGMENT KERNING
 @MMK_L_two;@MMK_R_two;20
 @MMK_L_two.osf;@MMK_R_four.osf;6
 @MMK_L_u;@MMK_R_a;-14
-@MMK_L_u;@MMK_R_b;-5
 @MMK_L_u;@MMK_R_be-cySRB;-4
-@MMK_L_u;@MMK_R_c;49
+@MMK_L_u;@MMK_R_c;3
 @MMK_L_u;@MMK_R_chi;10
 @MMK_L_u;@MMK_R_decyrillic;-7
 @MMK_L_u;@MMK_R_delta;40

@@ -4686,12 +4686,10 @@
 		<integer>-66</integer>
 		<key>public.kern2.a</key>
 		<integer>-14</integer>
-		<key>public.kern2.b</key>
-		<integer>-5</integer>
 		<key>public.kern2.be-cySRB</key>
 		<integer>-4</integer>
 		<key>public.kern2.c</key>
-		<integer>49</integer>
+		<integer>3</integer>
 		<key>public.kern2.chi</key>
 		<integer>10</integer>
 		<key>public.kern2.decyrillic</key>
