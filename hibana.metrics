@@ -778,7 +778,7 @@ Omegatonos;937;5;68;
 Iotadieresis;256;-27;-26;
 Upsilondieresis;648;20;20;
 KaiSymbol;692;78;43;
-alpha;691;43;35;
+alpha;696;43;34;
 beta;600;65;39;
 gamma;600;54;51;
 delta;627;41;41;
@@ -811,7 +811,7 @@ upsilondieresis;623;67;67;
 upsilondieresistonos;623;62;62;
 omicrontonos;637;41;41;
 omegatonos;800;67;67;
-alphatonos;691;43;35;
+alphatonos;696;43;34;
 epsilontonos;508;48;43;
 etatonos;651;36;65;
 kaiSymbol;693;23;54;
@@ -4100,8 +4100,9 @@ SEGMENT KERNING
 @MMK_L_two;@MMK_R_two;20
 @MMK_L_two.osf;@MMK_R_four.osf;6
 @MMK_L_u;@MMK_R_a;-14
+@MMK_L_u;@MMK_R_b;-5
 @MMK_L_u;@MMK_R_be-cySRB;-4
-@MMK_L_u;@MMK_R_c;3
+@MMK_L_u;@MMK_R_c;49
 @MMK_L_u;@MMK_R_chi;10
 @MMK_L_u;@MMK_R_decyrillic;-7
 @MMK_L_u;@MMK_R_delta;40
