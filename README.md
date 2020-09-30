@@ -22,10 +22,13 @@ To use current design on your desktop: download the otf file and install on your
 
 如您希望在您的计算机上使用当前设计：请下载发布页内的otf文件并安装。
 
-To use current design on your website: download the woff file and deploy on your server.
+To use current design on your website: download the woff &/ woff2 file and deploy on your server.
 
-如您希望在您的网页上使用当前设计：请下载发布页内的woff文件并在服务器上部署。
+如您希望在您的网页上使用当前设计：请下载发布页内的woff和/或woff2文件并在服务器上部署。
 
+There is a complimentary font specimen in the list, enjoy.
+
+一并在列表中附上一份自制字样，请按需取用。
 ## Clarify on license 您可以做什么和不可以做什么
 1. Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
 字体软件或其任何个别构件，无论原版或修改版，均不能单独销售。
