@@ -2997,7 +2997,7 @@ SEGMENT KERNING
 @MMK_L_T;@MMK_R_Zhecyrillic;-60
 @MMK_L_T;@MMK_R_a;-140
 @MMK_L_T;@MMK_R_be-cySRB;-6
-@MMK_L_T;@MMK_R_c;-104
+@MMK_L_T;@MMK_R_c;-114
 @MMK_L_T;@MMK_R_checyrillic;-60
 @MMK_L_T;@MMK_R_chi;-43
 @MMK_L_T;@MMK_R_decyrillic;-70
@@ -3347,13 +3347,18 @@ SEGMENT KERNING
 @MMK_L_a;seven;-39
 @MMK_L_a;three;-25
 @MMK_L_a;two;-11
-@MMK_L_alpha;@MMK_R_chi;10
+@MMK_L_alpha;@MMK_R_chi;-25
+@MMK_L_alpha;@MMK_R_delta;-5
 @MMK_L_alpha;@MMK_R_eta;20
+@MMK_L_alpha;@MMK_R_gamma;-31
 @MMK_L_alpha;@MMK_R_m;2
+@MMK_L_alpha;@MMK_R_pi;-16
+@MMK_L_alpha;@MMK_R_tau;-35
 @MMK_L_alpha;@MMK_R_theta;20
+@MMK_L_alpha;@MMK_R_v;-35
 @MMK_L_alpha;@MMK_R_xi;40
 @MMK_L_alpha;@MMK_R_zeta;10
-@MMK_L_alpha;eta;30
+@MMK_L_alpha;eta;17
 @MMK_L_b;@MMK_R_T;-100
 @MMK_L_b;@MMK_R_a;-7
 @MMK_L_b;@MMK_R_b;-6
@@ -3398,6 +3403,7 @@ SEGMENT KERNING
 @MMK_L_b;seven;-90
 @MMK_L_b;three;-22
 @MMK_L_b;two;-36
+@MMK_L_beta;@MMK_R_c;8
 @MMK_L_beta;@MMK_R_delta;9
 @MMK_L_beta;@MMK_R_epsilon;8
 @MMK_L_beta;@MMK_R_eta;30
@@ -4071,6 +4077,7 @@ SEGMENT KERNING
 @MMK_L_tecyrillic;@MMK_R_yusbig-cy;-160
 @MMK_L_tecyrillic;@MMK_R_zero;3
 @MMK_L_tecyrillic;@MMK_R_zhecyrillic;-40
+@MMK_L_theta;@MMK_R_c;13
 @MMK_L_theta;@MMK_R_eta;46
 @MMK_L_theta;@MMK_R_iotadieresis;30
 @MMK_L_theta;@MMK_R_iotadieresistonos;60

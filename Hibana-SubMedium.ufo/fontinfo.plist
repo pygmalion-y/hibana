@@ -13,7 +13,7 @@
 	<key>familyName</key>
 	<string>Hibana</string>
 	<key>openTypeHeadCreated</key>
-	<string>2020/09/23 18:14:30</string>
+	<string>2020/09/30 18:27:53</string>
 	<key>openTypeHheaAscender</key>
 	<integer>900</integer>
 	<key>openTypeHheaDescender</key>
@@ -89,7 +89,7 @@
 	<key>versionMajor</key>
 	<integer>0</integer>
 	<key>versionMinor</key>
-	<integer>923</integer>
+	<integer>930</integer>
 	<key>xHeight</key>
 	<integer>504</integer>
 </dict>

@@ -2304,7 +2304,7 @@
 		<key>public.kern2.be-cySRB</key>
 		<integer>-6</integer>
 		<key>public.kern2.c</key>
-		<integer>-104</integer>
+		<integer>-114</integer>
 		<key>public.kern2.checyrillic</key>
 		<integer>-60</integer>
 		<key>public.kern2.chi</key>
@@ -3018,15 +3018,25 @@
 	<key>public.kern1.alpha</key>
 	<dict>
 		<key>eta</key>
-		<integer>30</integer>
+		<integer>17</integer>
 		<key>public.kern2.chi</key>
-		<integer>10</integer>
+		<integer>-25</integer>
+		<key>public.kern2.delta</key>
+		<integer>-5</integer>
 		<key>public.kern2.eta</key>
 		<integer>20</integer>
+		<key>public.kern2.gamma</key>
+		<integer>-31</integer>
 		<key>public.kern2.m</key>
 		<integer>2</integer>
+		<key>public.kern2.pi</key>
+		<integer>-16</integer>
+		<key>public.kern2.tau</key>
+		<integer>-35</integer>
 		<key>public.kern2.theta</key>
 		<integer>20</integer>
+		<key>public.kern2.v</key>
+		<integer>-35</integer>
 		<key>public.kern2.xi</key>
 		<integer>40</integer>
 		<key>public.kern2.zeta</key>
@@ -3125,6 +3135,8 @@
 	</dict>
 	<key>public.kern1.beta</key>
 	<dict>
+		<key>public.kern2.c</key>
+		<integer>8</integer>
 		<key>public.kern2.delta</key>
 		<integer>9</integer>
 		<key>public.kern2.epsilon</key>
@@ -4612,6 +4624,8 @@
 	</dict>
 	<key>public.kern1.theta</key>
 	<dict>
+		<key>public.kern2.c</key>
+		<integer>13</integer>
 		<key>public.kern2.eta</key>
 		<integer>46</integer>
 		<key>public.kern2.iotadieresis</key>
