@@ -27,7 +27,7 @@ To use current design on your website: download the woff &/ woff2 file and deplo
 如您希望在您的网页上使用当前设计：请下载发布页内的woff和/或woff2文件并在服务器上部署。
 
 *css would looks like:
-
+```
 @font-face {
     font-family: 'Hibana SubMedium';
     src: url('Hibana-SubMedium.woff2') format('woff2'),
@@ -36,7 +36,7 @@ To use current design on your website: download the woff &/ woff2 file and deplo
     font-style: normal;
     font-display: swap;
 }
-
+```
 
 There is a complimentary font specimen in the list, enjoy.
 
