@@ -25,8 +25,6 @@ To use current design on your desktop: download the otf file and install on your
 To use current design on your website: download the woff &/ woff2 file and deploy on your server.
 
 如您希望在您的网页上使用当前设计：请下载发布页内的woff和/或woff2文件并在服务器上部署。
-
-*css would looks like:
 ```
 @font-face {
     font-family: 'Hibana SubMedium';
