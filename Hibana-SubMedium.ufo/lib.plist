@@ -4,6 +4,15 @@
 <dict>
 	<key>com.schriftgestaltung.disablesAutomaticAlignment</key>
 	<false/>
+	<key>com.schriftgestaltung.font.customParameters</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>localizedFamilyName</string>
+			<key>value</key>
+			<string>Chinese (Simplified);火花</string>
+		</dict>
+	</array>
 	<key>com.schriftgestaltung.font.userData</key>
 	<dict>
 		<key>GSDimensionPlugin.Dimensions</key>

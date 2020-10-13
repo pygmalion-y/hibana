@@ -4705,7 +4705,7 @@
 		<key>public.kern2.be-cySRB</key>
 		<integer>-4</integer>
 		<key>public.kern2.c</key>
-		<integer>49</integer>
+		<integer>-9</integer>
 		<key>public.kern2.chi</key>
 		<integer>10</integer>
 		<key>public.kern2.decyrillic</key>
@@ -4739,7 +4739,7 @@
 		<key>public.kern2.pi</key>
 		<integer>32</integer>
 		<key>public.kern2.rho</key>
-		<integer>70</integer>
+		<integer>0</integer>
 		<key>public.kern2.s</key>
 		<integer>-18</integer>
 		<key>public.kern2.t</key>
@@ -4750,8 +4750,6 @@
 		<integer>-24</integer>
 		<key>public.kern2.theta</key>
 		<integer>50</integer>
-		<key>public.kern2.u</key>
-		<integer>52</integer>
 		<key>public.kern2.v</key>
 		<integer>-10</integer>
 		<key>public.kern2.w</key>

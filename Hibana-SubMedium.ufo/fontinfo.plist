@@ -9,11 +9,11 @@
 	<key>copyright</key>
 	<string>Copyright © 2020 by pygmalion. All rights reserved.</string>
 	<key>descender</key>
-	<integer>-268</integer>
+	<integer>-100</integer>
 	<key>familyName</key>
 	<string>Hibana</string>
 	<key>openTypeHeadCreated</key>
-	<string>2020/09/30 18:27:53</string>
+	<string>2020/10/13 17:10:29</string>
 	<key>openTypeHheaAscender</key>
 	<integer>900</integer>
 	<key>openTypeHheaDescender</key>
@@ -87,9 +87,9 @@
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>
-	<integer>0</integer>
+	<integer>2010</integer>
 	<key>versionMinor</key>
-	<integer>930</integer>
+	<integer>13</integer>
 	<key>xHeight</key>
 	<integer>504</integer>
 </dict>

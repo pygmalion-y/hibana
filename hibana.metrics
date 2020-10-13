@@ -4109,7 +4109,7 @@ SEGMENT KERNING
 @MMK_L_u;@MMK_R_a;-14
 @MMK_L_u;@MMK_R_b;-5
 @MMK_L_u;@MMK_R_be-cySRB;-4
-@MMK_L_u;@MMK_R_c;49
+@MMK_L_u;@MMK_R_c;-9
 @MMK_L_u;@MMK_R_chi;10
 @MMK_L_u;@MMK_R_decyrillic;-7
 @MMK_L_u;@MMK_R_delta;40
@@ -4126,13 +4126,12 @@ SEGMENT KERNING
 @MMK_L_u;@MMK_R_lambda;62
 @MMK_L_u;@MMK_R_omega;10
 @MMK_L_u;@MMK_R_pi;32
-@MMK_L_u;@MMK_R_rho;70
+@MMK_L_u;@MMK_R_rho;0
 @MMK_L_u;@MMK_R_s;-18
 @MMK_L_u;@MMK_R_t;-6
 @MMK_L_u;@MMK_R_tau;10
 @MMK_L_u;@MMK_R_tecyrillic;-24
 @MMK_L_u;@MMK_R_theta;50
-@MMK_L_u;@MMK_R_u;52
 @MMK_L_u;@MMK_R_v;-10
 @MMK_L_u;@MMK_R_w;-11
 @MMK_L_u;@MMK_R_x;-23
