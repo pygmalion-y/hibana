@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aJung-ko" format="2">
+	<advance width="1000"/>
+	<unicode hex="1161"/>
+	<outline>
+		<contour>
+			<point x="630" y="636" type="line"/>
+			<point x="630" y="546" type="line"/>
+			<point x="884" y="546" type="line"/>
+			<point x="884" y="636" type="line"/>
+		</contour>
+		<contour>
+			<point x="630" y="870" type="line"/>
+			<point x="630" y="305" type="line"/>
+			<point x="724" y="305" type="line"/>
+			<point x="724" y="870" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

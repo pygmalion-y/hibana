@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="man-ko" format="2">
+	<advance width="1000"/>
+	<unicode hex="B9CC"/>
+	<outline>
+		<component base="mieumCho-ko"/>
+		<component base="aJung-ko"/>
+		<component base="nieunJong-ko"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

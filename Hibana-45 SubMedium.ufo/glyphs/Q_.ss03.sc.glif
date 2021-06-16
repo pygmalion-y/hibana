@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q.ss03.sc" format="2">
+	<advance width="732"/>
+	<anchor x="404" y="0" name="bottom"/>
+	<anchor x="404" y="752" name="top"/>
+	<outline>
+		<contour>
+			<point x="519" y="-46" type="curve"/>
+			<point x="649" y="-46" type="line"/>
+			<point x="542" y="48"/>
+			<point x="507" y="85"/>
+			<point x="470" y="167" type="curve"/>
+			<point x="357" y="167" type="line"/>
+			<point x="421" y="52"/>
+			<point x="439" y="31"/>
+		</contour>
+		<component base="O.sc"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O.sc</string>
+		</dict>
+	</lib>
+</glyph>

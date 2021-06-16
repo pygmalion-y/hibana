@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kiyeokCho-ko" format="2">
+	<advance width="1000"/>
+	<unicode hex="1100"/>
+	<outline>
+		<contour>
+			<point x="96" y="712" type="line"/>
+			<point x="96" y="622" type="line"/>
+			<point x="470" y="622" type="line"/>
+			<point x="470" y="712" type="line"/>
+		</contour>
+		<contour>
+			<point x="376" y="712" type="line"/>
+			<point x="376" y="447" type="line"/>
+			<point x="470" y="447" type="line"/>
+			<point x="470" y="712" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

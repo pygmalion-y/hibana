@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iJung-ko" format="2">
+	<advance width="1000"/>
+	<unicode hex="1175"/>
+	<outline>
+		<contour>
+			<point x="690" y="870" type="line"/>
+			<point x="690" y="265" type="line"/>
+			<point x="784" y="265" type="line"/>
+			<point x="784" y="870" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

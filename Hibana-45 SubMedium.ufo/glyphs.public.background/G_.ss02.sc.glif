@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="G.ss02.sc" format="2">
+	<advance width="699"/>
+	<outline>
+		<contour>
+			<point x="487" y="461" type="move"/>
+			<point x="556" y="528" type="line"/>
+		</contour>
+	</outline>
+</glyph>

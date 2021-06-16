@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ka-cy.sc" format="2">
+	<advance width="635"/>
+	<anchor x="627" y="0" name="bottomright"/>
+	<anchor x="284" y="575" name="top"/>
+	<outline>
+		<contour>
+			<point x="256" y="253" type="line"/>
+			<point x="563" y="575" type="line"/>
+			<point x="445" y="575" type="line"/>
+			<point x="162" y="280" type="line"/>
+		</contour>
+		<contour>
+			<point x="95" y="0" type="line"/>
+			<point x="189" y="0" type="line"/>
+			<point x="189" y="575" type="line"/>
+			<point x="95" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="460" y="0" type="line"/>
+			<point x="582" y="0" type="line"/>
+			<point x="281" y="320" type="line"/>
+			<point x="198" y="276" type="line"/>
+		</contour>
+		<contour>
+			<point x="126" y="252" type="line"/>
+			<point x="267" y="252" type="line"/>
+			<point x="267" y="321" type="line"/>
+			<point x="126" y="321" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>K.sc</string>
+		</dict>
+	</lib>
+</glyph>

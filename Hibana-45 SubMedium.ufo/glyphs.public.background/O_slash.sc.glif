@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash.sc" format="2">
+	<advance width="732"/>
+	<outline>
+		<contour>
+			<point x="141" y="-79" type="line"/>
+			<point x="337" y="159"/>
+			<point x="536" y="395"/>
+			<point x="736" y="629" type="curve"/>
+			<point x="669" y="682" type="line"/>
+			<point x="473" y="444"/>
+			<point x="276" y="208"/>
+			<point x="76" y="-26" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

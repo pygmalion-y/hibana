@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="El-cy.sc" format="2">
+	<advance width="703"/>
+	<outline>
+		<contour>
+			<point x="514" y="0" type="line"/>
+			<point x="608" y="0" type="line"/>
+			<point x="608" y="575" type="line"/>
+			<point x="254" y="575" type="line"/>
+			<point x="254" y="485" type="line"/>
+			<point x="514" y="485" type="line"/>
+		</contour>
+		<contour>
+			<point x="88" y="90" type="curve"/>
+			<point x="85" y="0" type="line"/>
+			<point x="253" y="0"/>
+			<point x="276" y="23"/>
+			<point x="303" y="188" type="curve" smooth="yes"/>
+			<point x="322" y="300"/>
+			<point x="332" y="449"/>
+			<point x="332" y="575" type="curve"/>
+			<point x="240" y="575" type="line"/>
+			<point x="240" y="447"/>
+			<point x="231" y="304"/>
+			<point x="210" y="192" type="curve" smooth="yes"/>
+			<point x="191" y="92"/>
+			<point x="175" y="88"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>De-cy.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H.sc</string>
+		</dict>
+	</lib>
+</glyph>

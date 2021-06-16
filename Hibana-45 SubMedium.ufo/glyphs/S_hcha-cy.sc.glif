@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Shcha-cy.sc" format="2">
+	<advance width="944"/>
+	<outline>
+		<contour>
+			<point x="777" y="-130" type="line"/>
+			<point x="862" y="-130" type="line"/>
+			<point x="862" y="90" type="line"/>
+			<point x="777" y="90" type="line"/>
+		</contour>
+		<component base="Sha-cy.sc"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H.sc</string>
+		</dict>
+	</lib>
+</glyph>

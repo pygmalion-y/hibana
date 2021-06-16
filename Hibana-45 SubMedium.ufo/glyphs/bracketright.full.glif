@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright.full" format="2">
+	<advance width="384"/>
+	<unicode hex="FF3D"/>
+	<outline>
+		<component base="bracketright"/>
+	</outline>
+</glyph>

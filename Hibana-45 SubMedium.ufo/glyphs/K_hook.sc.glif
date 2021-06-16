@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Khook.sc" format="2">
+	<advance width="633"/>
+	<anchor x="317" y="0" name="bottom"/>
+	<anchor x="317" y="575" name="top"/>
+	<outline>
+		<contour>
+			<point x="95" y="0" type="line"/>
+			<point x="189" y="0" type="line"/>
+			<point x="189" y="575" type="line"/>
+			<point x="95" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="178" y="155" type="line"/>
+			<point x="326" y="382" type="line" smooth="yes"/>
+			<point x="384" y="471"/>
+			<point x="420" y="499"/>
+			<point x="444" y="499" type="curve" smooth="yes"/>
+			<point x="470" y="499"/>
+			<point x="494" y="489"/>
+			<point x="513" y="457" type="curve"/>
+			<point x="570" y="515" type="line"/>
+			<point x="538" y="576"/>
+			<point x="485" y="589"/>
+			<point x="440" y="589" type="curve" smooth="yes"/>
+			<point x="370" y="589"/>
+			<point x="302" y="506"/>
+			<point x="261" y="443" type="curve" smooth="yes"/>
+			<point x="154" y="277" type="line"/>
+		</contour>
+		<contour>
+			<point x="458" y="0" type="line"/>
+			<point x="580" y="0" type="line"/>
+			<point x="274" y="322" type="line"/>
+			<point x="192" y="279" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>K.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>K.sc</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mim-ko" format="2">
+	<advance width="1000"/>
+	<unicode hex="BC08"/>
+	<outline>
+		<component base="mieumCho-ko"/>
+		<component base="iJung-ko"/>
+		<component base="mieumJong-ko"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

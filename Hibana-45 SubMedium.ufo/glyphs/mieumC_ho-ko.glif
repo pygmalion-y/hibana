@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="mieumCho-ko" format="2">
+	<advance width="1000"/>
+	<unicode hex="1106"/>
+	<outline>
+		<contour>
+			<point x="497" y="340" type="line"/>
+			<point x="591" y="340" type="line"/>
+			<point x="591" y="752" type="line"/>
+			<point x="497" y="752" type="line"/>
+		</contour>
+		<contour>
+			<point x="97" y="340" type="line"/>
+			<point x="591" y="340" type="line"/>
+			<point x="591" y="430" type="line"/>
+			<point x="97" y="430" type="line"/>
+		</contour>
+		<contour>
+			<point x="97" y="340" type="line"/>
+			<point x="191" y="340" type="line"/>
+			<point x="191" y="752" type="line"/>
+			<point x="97" y="752" type="line"/>
+		</contour>
+		<contour>
+			<point x="97" y="662" type="line"/>
+			<point x="591" y="662" type="line"/>
+			<point x="591" y="752" type="line"/>
+			<point x="97" y="752" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

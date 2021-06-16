@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>870</integer>
+	<key>capHeight</key>
+	<integer>752</integer>
+	<key>copyright</key>
+	<string>Copyright © 2020-2021 pygmalion. All rights reserved.</string>
+	<key>descender</key>
+	<integer>-278</integer>
+	<key>familyName</key>
+	<string>Hibana</string>
+	<key>openTypeHeadCreated</key>
+	<string>2020/12/20 02:18:36</string>
+	<key>openTypeHheaAscender</key>
+	<integer>957</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-300</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>100</integer>
+	<key>openTypeNameDesigner</key>
+	<string>pygmalion</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>pygmalion.xyz</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This Font Software is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the SIL Open Font License for the specific language, permissions and limitations governing your use of this Font Software.</string>
+	<key>openTypeNameManufacturer</key>
+	<string>ybstudio</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>github.com/kenysc/hibana</string>
+	<key>openTypeOS2Type</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>957</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-300</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>100</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>PYGY</string>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1170</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>300</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<real>-15.0</real>
+		<real>0.0</real>
+		<real>504.0</real>
+		<real>525.0</real>
+		<real>752.0</real>
+		<real>773.0</real>
+		<real>870.0</real>
+		<real>886.0</real>
+	</array>
+	<key>postscriptFontName</key>
+	<string>Hibana-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<real>-293.0</real>
+		<real>-278.0</real>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<real>90.0</real>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<real>94.0</real>
+	</array>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>A project proposed by pygmalion.xyz since 2020.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>2021</integer>
+	<key>versionMinor</key>
+	<integer>1</integer>
+	<key>xHeight</key>
+	<integer>504</integer>
+</dict>
+</plist>

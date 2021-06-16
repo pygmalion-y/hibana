@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omacrongrave" format="2">
+	<advance width="800"/>
+	<unicode hex="1E50"/>
+	<outline>
+		<component base="O"/>
+		<component base="macroncomb" xOffset="105" yOffset="248"/>
+		<component base="gravecomb" xOffset="91" yOffset="425"/>
+	</outline>
+</glyph>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ze-cy.loclBGR" format="2">
+	<advance width="565"/>
+	<outline>
+		<contour>
+			<point x="269" y="-294" type="curve" smooth="yes"/>
+			<point x="457" y="-294"/>
+			<point x="531" y="-195"/>
+			<point x="531" y="-73" type="curve" smooth="yes"/>
+			<point x="531" y="15"/>
+			<point x="495" y="94"/>
+			<point x="418" y="139" type="curve"/>
+			<point x="475" y="175"/>
+			<point x="508" y="240"/>
+			<point x="508" y="314" type="curve" smooth="yes"/>
+			<point x="508" y="442"/>
+			<point x="423" y="524"/>
+			<point x="269" y="524" type="curve" smooth="yes"/>
+			<point x="115" y="524"/>
+			<point x="30" y="432"/>
+			<point x="30" y="314" type="curve"/>
+			<point x="119" y="314" type="line"/>
+			<point x="119" y="403"/>
+			<point x="184" y="443"/>
+			<point x="269" y="443" type="curve" smooth="yes"/>
+			<point x="354" y="443"/>
+			<point x="419" y="403"/>
+			<point x="419" y="314" type="curve" smooth="yes"/>
+			<point x="419" y="225"/>
+			<point x="360" y="176"/>
+			<point x="270" y="176" type="curve" smooth="yes"/>
+			<point x="258" y="176"/>
+			<point x="192" y="176"/>
+			<point x="179" y="176" type="curve"/>
+			<point x="179" y="88" type="line"/>
+			<point x="192" y="88"/>
+			<point x="258" y="88"/>
+			<point x="270" y="88" type="curve" smooth="yes"/>
+			<point x="370" y="88"/>
+			<point x="436" y="28"/>
+			<point x="436" y="-73" type="curve" smooth="yes"/>
+			<point x="436" y="-174"/>
+			<point x="362" y="-204"/>
+			<point x="269" y="-204" type="curve" smooth="yes"/>
+			<point x="180" y="-204"/>
+			<point x="117" y="-172"/>
+			<point x="112" y="-86" type="curve"/>
+			<point x="17" y="-86" type="line"/>
+			<point x="21" y="-198"/>
+			<point x="85" y="-294"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash.sc" format="2">
+	<advance width="732"/>
+	<anchor x="412" y="0" name="bottom"/>
+	<anchor x="412" y="575" name="top"/>
+	<outline>
+		<contour>
+			<point x="177" y="-19" type="line"/>
+			<point x="376" y="221"/>
+			<point x="441" y="299"/>
+			<point x="635" y="529" type="curve"/>
+			<point x="568" y="582" type="line"/>
+			<point x="377" y="350"/>
+			<point x="314" y="274"/>
+			<point x="112" y="34" type="curve"/>
+		</contour>
+		<component base="O.sc"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>O.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O.sc</string>
+		</dict>
+	</lib>
+</glyph>

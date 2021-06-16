@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H.sc" format="2">
+	<advance width="694"/>
+	<anchor x="342" y="0" name="bottom"/>
+	<anchor x="342" y="288" name="center"/>
+	<anchor x="342" y="575" name="top"/>
+	<anchor x="85" y="575" name="topleft"/>
+	<outline>
+		<contour>
+			<point x="95" y="0" type="line"/>
+			<point x="189" y="0" type="line"/>
+			<point x="189" y="251" type="line"/>
+			<point x="505" y="251" type="line"/>
+			<point x="505" y="0" type="line"/>
+			<point x="599" y="0" type="line"/>
+			<point x="599" y="575" type="line"/>
+			<point x="505" y="575" type="line"/>
+			<point x="505" y="341" type="line"/>
+			<point x="189" y="341" type="line"/>
+			<point x="189" y="575" type="line"/>
+			<point x="95" y="575" type="line"/>
+		</contour>
+	</outline>
+</glyph>
