@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Upsilon.sc" format="2">
 	<advance width="593"/>
-	<anchor x="37" y="575" name="topleft"/>
 	<anchor x="297" y="575" name="top"/>
+	<anchor x="37" y="575" name="topleft"/>
 	<outline>
 		<component base="Y.sc"/>
 	</outline>
