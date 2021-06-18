@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Omegatonos.sc" format="2">
-	<advance width="757"/>
+	<advance width="842"/>
 	<outline>
-		<component base="Omega.sc"/>
-		<component base="tonos" xOffset="-250"/>
+		<component base="Omega.sc" xOffset="85"/>
+		<component base="tonos.case" xOffset="-76" yOffset="-177"/>
 	</outline>
 	<lib>
 		<dict>
@@ -16,14 +16,6 @@
 					<integer>0</integer>
 					<key>name</key>
 					<string>Omega.sc</string>
-				</dict>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>tonos</string>
 				</dict>
 			</array>
 		</dict>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Alpha.sc" format="2">
 	<advance width="632"/>
-	<anchor x="159" y="575" name="topleft"/>
+	<anchor x="239" y="575" name="topleft"/>
 	<outline>
 		<component base="A.sc"/>
 	</outline>

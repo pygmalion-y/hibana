@@ -2,7 +2,7 @@
 <glyph name="I.sc" format="2">
 	<advance width="290"/>
 	<anchor x="145" y="0" name="bottom"/>
-	<anchor x="247" y="10" name="ogonek"/>
+	<anchor x="205" y="0" name="ogonek"/>
 	<anchor x="145" y="575" name="top"/>
 	<anchor x="37" y="575" name="topleft"/>
 	<outline>

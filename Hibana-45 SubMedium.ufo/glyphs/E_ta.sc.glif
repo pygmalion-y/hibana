@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eta.sc" format="2">
 	<advance width="694"/>
-	<anchor x="20" y="575" name="topleft"/>
+	<anchor x="80" y="575" name="topleft"/>
 	<outline>
 		<component base="H.sc"/>
 	</outline>

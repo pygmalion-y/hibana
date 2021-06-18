@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Iota.sc" format="2">
 	<advance width="290"/>
-	<anchor x="20" y="575" name="topleft"/>
+	<anchor x="90" y="575" name="topleft"/>
 	<outline>
 		<component base="I.sc"/>
 	</outline>

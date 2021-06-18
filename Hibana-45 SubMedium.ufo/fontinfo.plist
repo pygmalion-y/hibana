@@ -31,9 +31,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>github.com/kenysc/hibana</string>
 	<key>openTypeOS2Type</key>
-	<array>
-		<integer>3</integer>
-	</array>
+	<array/>
 	<key>openTypeOS2TypoAscender</key>
 	<integer>957</integer>
 	<key>openTypeOS2TypoDescender</key>
@@ -81,7 +79,7 @@
 	<key>versionMajor</key>
 	<integer>2021</integer>
 	<key>versionMinor</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>xHeight</key>
 	<integer>504</integer>
 </dict>

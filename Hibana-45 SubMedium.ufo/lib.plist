@@ -3478,8 +3478,8 @@
 		<string>zerowidthspace</string>
 		<string>anoteleia</string>
 		<string>questiongreek</string>
-		<string>period-han</string>
 		<string>comma-han</string>
+		<string>period-han</string>
 		<string>dot-kata</string>
 		<string>mchanrtagsfina-tibet</string>
 		<string>mchanrtagsinit-tibet</string>
@@ -6210,7 +6210,7 @@
 		<string>seven-tibet</string>
 		<string>eight-tibet</string>
 		<string>nine-tibet</string>
-		<string>comma-han</string>
+		<string>dot-kata</string>
 		<string>mchanrtagsfina-tibet</string>
 		<string>mchanrtagsinit-tibet</string>
 		<string>yigMgoMdunMa-tibet</string>
@@ -6309,6 +6309,12 @@
 		<string>dottedCircle</string>
 		<string>brevecomb_hookabovecomb</string>
 		<string>circumflexcomb_hookabovecomb</string>
+		<string>voicedcomb-kana</string>
+		<string>semivoicedcomb-kana</string>
+		<string>iteration-hira</string>
+		<string>voicediteration-hira</string>
+		<string>prolonged-kana</string>
+		<string>iteration-kata</string>
 		<string>overlinecomb</string>
 		<string>hookabovecomb</string>
 		<string>lefttackbelowcomb</string>
