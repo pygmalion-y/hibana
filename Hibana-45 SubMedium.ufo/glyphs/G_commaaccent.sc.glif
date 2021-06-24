@@ -3,6 +3,6 @@
 	<advance width="699"/>
 	<outline>
 		<component base="G.sc"/>
-		<component base="commaaccentcomb" xOffset="-15" yOffset="-12"/>
+		<component base="commaaccentcomb" xOffset="-20"/>
 	</outline>
 </glyph>
