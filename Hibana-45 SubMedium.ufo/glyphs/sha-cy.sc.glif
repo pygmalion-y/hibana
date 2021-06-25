@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sha-cy.sc" format="2">
+	<advance width="890"/>
+	<outline>
+		<contour>
+			<point x="701" y="575" type="line"/>
+			<point x="701" y="0" type="line"/>
+			<point x="795" y="0" type="line"/>
+			<point x="795" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="95" y="575" type="line"/>
+			<point x="95" y="0" type="line"/>
+			<point x="189" y="0" type="line"/>
+			<point x="189" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="117" y="90" type="line"/>
+			<point x="117" y="0" type="line"/>
+			<point x="773" y="0" type="line"/>
+			<point x="773" y="90" type="line"/>
+		</contour>
+		<contour>
+			<point x="398" y="575" type="line"/>
+			<point x="398" y="0" type="line"/>
+			<point x="492" y="0" type="line"/>
+			<point x="492" y="575" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H.sc</string>
+		</dict>
+	</lib>
+</glyph>

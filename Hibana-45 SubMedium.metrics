@@ -557,6 +557,161 @@ Zacute.sc;611;59;59;
 Zcaron.sc;611;59;59;
 Zdotaccent.sc;611;59;59;
 Zdotbelow.sc;611;59;59;
+a.sc;632;44;44;
+aacute.sc;632;44;44;
+abreve.sc;632;44;44;
+abreveacute.sc;632;44;44;
+abrevegrave.sc;632;44;44;
+abrevetilde.sc;632;44;44;
+acaron.sc;632;44;44;
+acircumflex.sc;632;44;44;
+acircumflexacute.sc;632;44;44;
+acircumflexgrave.sc;632;44;44;
+acircumflextilde.sc;632;44;44;
+adieresis.sc;632;44;44;
+adieresismacron.sc;632;44;44;
+agrave.sc;632;44;44;
+amacron.sc;632;44;44;
+aogonek.sc;632;44;38;
+aring.sc;632;44;44;
+atilde.sc;632;44;44;
+b.sc;585;95;64;
+bdotbelow.sc;585;95;64;
+c.sc;623;74;57;
+cacute.sc;623;74;57;
+ccaron.sc;623;74;57;
+ccedilla.sc;623;74;57;
+cdotaccent.sc;623;74;57;
+d.sc;639;95;58;
+eth.sc;639;32;58;
+dcaron.sc;639;95;58;
+dcroat.sc;639;32;58;
+ddotbelow.sc;639;95;58;
+e.sc;580;95;85;
+eacute.sc;580;95;85;
+ecaron.sc;580;95;85;
+ecedilla.sc;580;95;85;
+ecircumflex.sc;580;95;85;
+ecircumflexacute.sc;580;95;85;
+ecircumflexgrave.sc;580;95;85;
+ecircumflextilde.sc;580;95;85;
+edieresis.sc;580;95;85;
+edotaccent.sc;580;95;85;
+egrave.sc;580;95;85;
+emacron.sc;580;95;85;
+eogonek.sc;580;95;73;
+etilde.sc;580;95;85;
+f.sc;537;95;48;
+g.sc;699;74;70;
+gbreve.sc;699;74;70;
+gcaron.sc;699;74;70;
+gcommaaccent.sc;699;74;70;
+gdotaccent.sc;699;74;70;
+h.sc;694;95;95;
+hbar.sc;763;78;78;
+hdotbelow.sc;694;95;95;
+hturned.sc;636;84;95;
+i.sc;290;95;95;
+iacute.sc;290;95;-16;
+icaron.sc;290;-10;-9;
+icircumflex.sc;290;-8;-7;
+idieresis.sc;290;-10;-9;
+idieresisacute.sc;290;-10;-16;
+igrave.sc;290;-12;95;
+imacron.sc;290;0;0;
+iogonek.sc;290;49;85;
+itilde.sc;290;-29;-28;
+j.sc;418;36;73;
+k.sc;633;95;53;
+kcommaaccent.sc;633;95;53;
+khook.sc;633;95;53;
+l.sc;531;95;57;
+lacute.sc;531;95;57;
+lcaron.sc;531;95;57;
+lcommaaccent.sc;531;95;57;
+ldotbelow.sc;531;95;57;
+lslash.sc;610;80;106;
+m.sc;876;95;95;
+macute.sc;876;95;95;
+n.sc;726;95;95;
+nacute.sc;726;95;95;
+ncaron.sc;726;95;95;
+ncommaaccent.sc;726;95;95;
+ndotaccent.sc;726;95;95;
+ndotbelow.sc;726;95;95;
+ntilde.sc;726;95;95;
+eng.sc;726;95;95;
+o.sc;732;74;74;
+oacute.sc;732;74;74;
+ocaron.sc;732;74;74;
+ocircumflex.sc;732;74;74;
+ocircumflexacute.sc;732;74;74;
+ocircumflexgrave.sc;732;74;74;
+ocircumflextilde.sc;732;74;74;
+odieresis.sc;732;74;74;
+odieresismacron.sc;732;74;74;
+ograve.sc;732;74;74;
+ohungarumlaut.sc;732;74;74;
+omacron.sc;732;74;74;
+omacronacute.sc;732;74;74;
+omacrongrave.sc;732;74;74;
+oslash.sc;732;74;74;
+oslashacute.sc;732;74;74;
+otilde.sc;732;74;74;
+otildeacute.sc;732;74;74;
+p.sc;583;95;49;
+thorn.sc;597;95;73;
+q.sc;732;74;74;
+r.sc;612;95;59;
+racute.sc;612;95;59;
+rcaron.sc;612;95;59;
+rcommaaccent.sc;612;95;59;
+s.sc;624;68;69;
+sacute.sc;624;68;69;
+scaron.sc;624;68;69;
+scedilla.sc;624;68;69;
+scommaaccent.sc;624;68;69;
+sdotbelow.sc;624;68;69;
+germandbls.sc;687;87;92;
+t.sc;603;65;64;
+tbar.sc;603;65;64;
+tcaron.sc;603;65;64;
+tcedilla.sc;603;65;64;
+tcommaaccent.sc;603;65;64;
+tdotbelow.sc;603;65;64;
+u.sc;621;69;69;
+uacute.sc;621;69;69;
+ucaron.sc;621;69;69;
+ucircumflex.sc;621;69;69;
+udieresis.sc;621;69;69;
+udieresisacute.sc;621;69;69;
+udieresiscaron.sc;621;69;69;
+udieresisgrave.sc;621;69;69;
+udieresismacron.sc;621;69;69;
+ugrave.sc;621;69;69;
+uhungarumlaut.sc;621;69;69;
+umacron.sc;621;69;69;
+uogonek.sc;621;69;69;
+uring.sc;621;69;69;
+utilde.sc;621;69;69;
+v.sc;670;53;52;
+w.sc;925;57;57;
+wacute.sc;925;57;57;
+wcircumflex.sc;925;57;57;
+wdieresis.sc;925;57;57;
+wgrave.sc;925;57;57;
+x.sc;724;59;59;
+y.sc;593;36;35;
+yacute.sc;593;36;35;
+ycircumflex.sc;593;36;35;
+ydieresis.sc;593;36;35;
+ygrave.sc;593;36;35;
+ytilde.sc;593;36;35;
+z.sc;611;59;59;
+zacute.sc;611;59;59;
+zcaron.sc;611;59;59;
+zdotaccent.sc;611;59;59;
+zdotbelow.sc;611;59;59;
 G.ss02.sc;699;74;70;
 Gbreve.ss02.sc;699;74;70;
 Gcaron.ss02.sc;699;74;70;
@@ -568,7 +723,19 @@ Scaron.ss02.sc;647;68;69;
 Scedilla.ss02.sc;647;68;69;
 Scommaaccent.ss02.sc;647;68;69;
 Sdotbelow.ss02.sc;647;68;69;
+g.ss02.sc;699;74;70;
+gbreve.ss02.sc;699;74;70;
+gcaron.ss02.sc;699;74;70;
+gcommaaccent.ss02.sc;699;74;70;
+gdotaccent.ss02.sc;699;74;70;
+s.ss02.sc;647;68;69;
+sacute.ss02.sc;647;68;69;
+scaron.ss02.sc;647;68;69;
+scedilla.ss02.sc;647;68;69;
+scommaaccent.ss02.sc;647;68;69;
+sdotbelow.ss02.sc;647;68;69;
 Q.ss03.sc;732;74;74;
+q.ss03.sc;732;74;74;
 clickalveolar;600;0;0;
 clickdental;600;0;0;
 clicklateral;600;0;0;
@@ -751,11 +918,64 @@ Tshe-cy.sc;778;65;65;
 Iu-cy.sc;912;95;74;
 Ya-cy.sc;612;59;95;
 Dje-cy.sc;777;88;85;
+a-cy.sc;632;44;44;
+be-cy.sc;577;95;64;
+ve-cy.sc;585;95;64;
+ge-cy.sc;545;95;75;
+gje-cy.sc;545;95;75;
+geupturn-cy.sc;483;78;40;
+de-cy.sc;754;85;78;
+ie-cy.sc;580;95;85;
+iegrave-cy.sc;580;95;85;
+io-cy.sc;580;95;85;
+zhe-cy.sc;981;56;53;
+ze-cy.sc;608;95;103;
+ii-cy.sc;706;95;95;
+iishort-cy.sc;706;95;95;
+iigrave-cy.sc;706;95;95;
+ka-cy.sc;635;95;53;
+kje-cy.sc;635;95;53;
+el-cy.sc;703;85;95;
+em-cy.sc;876;95;95;
+en-cy.sc;694;95;95;
+o-cy.sc;732;74;74;
+pe-cy.sc;668;95;95;
+er-cy.sc;583;95;49;
+es-cy.sc;623;74;57;
+te-cy.sc;603;65;64;
+u-cy.sc;621;62;62;
+ef-cy.sc;728;82;82;
+ha-cy.sc;724;59;59;
+che-cy.sc;640;87;95;
+tse-cy.sc;739;95;90;
+sha-cy.sc;890;95;95;
+shcha-cy.sc;944;95;82;
+dzhe-cy.sc;668;95;95;
+softsign-cy.sc;625;95;85;
+yeru-cy.sc;813;95;95;
+hardsign-cy.sc;735;65;85;
+lje-cy.sc;1044;85;85;
+nje-cy.sc;1045;95;85;
+dze-cy.sc;624;68;69;
+e-cy.sc;620;74;54;
+ereversed-cy.sc;620;54;74;
+i-cy.sc;290;95;95;
+yi-cy.sc;290;-10;-9;
+je-cy.sc;418;36;73;
+tshe-cy.sc;778;65;65;
+yu-cy.sc;912;95;74;
+ya-cy.sc;612;59;95;
+dje-cy.sc;777;88;85;
 Yat-cy.sc;735;67;85;
+yat-cy.sc;735;67;85;
 Yusbig-cy.sc;963;56;53;
+yusbig-cy.sc;963;56;53;
 De-cy.loclBGR.sc;766;85;85;
 El-cy.loclBGR.sc;632;44;44;
 Ef-cy.loclBGR.sc;718;82;82;
+de-cy.loclbgr.sc;766;85;85;
+el-cy.loclbgr.sc;632;44;44;
+ef-cy.loclbgr.sc;718;82;82;
 Alpha;692;23;23;
 Beta;642;78;41;
 Gamma;583;78;40;
@@ -851,6 +1071,30 @@ Phi.sc;728;82;82;
 Chi.sc;724;59;59;
 Psi.sc;662;78;78;
 Omega.sc;757;80;80;
+alpha.sc;632;44;44;
+beta.sc;585;95;64;
+gamma.sc;545;95;75;
+delta.sc;562;44;44;
+epsilon.sc;580;95;85;
+zeta.sc;611;59;59;
+eta.sc;694;95;95;
+theta.sc;732;74;74;
+iota.sc;290;95;95;
+kappa.sc;633;95;53;
+lambda.sc;632;44;44;
+mu.sc;876;95;95;
+nu.sc;726;95;95;
+xi.sc;598;70;70;
+omicron.sc;732;74;74;
+pi.sc;668;95;95;
+rho.sc;583;95;49;
+sigma.sc;525;57;81;
+tau.sc;603;65;64;
+upsilon.sc;593;36;35;
+phi.sc;728;82;82;
+chi.sc;724;59;59;
+psi.sc;662;78;78;
+omega.sc;757;80;80;
 Alphatonos.sc;632;44;44;
 Epsilontonos.sc;730;75;85;
 Etatonos.sc;904;135;95;
@@ -860,6 +1104,15 @@ Upsilontonos.sc;744;33;35;
 Omegatonos.sc;842;60;80;
 Iotadieresis.sc;290;-10;-9;
 Upsilondieresis.sc;593;36;35;
+iotatonos.sc;430;75;95;
+iotadieresis.sc;290;-10;-9;
+upsilontonos.sc;744;33;35;
+upsilondieresis.sc;593;36;35;
+omicrontonos.sc;801;54;74;
+omegatonos.sc;842;60;80;
+alphatonos.sc;632;44;44;
+epsilontonos.sc;730;75;85;
+etatonos.sc;904;135;95;
 KaiSymbol.sc;633;95;53;
 uni4ECA;1000;50;53;
 uni56FD;1000;86;100;
@@ -1806,6 +2059,11 @@ glottalstopreversedmod;600;0;0;
 verticallinelowmod;600;0;0;
 verticallinemod;600;0;0;
 rotate;1680;100;100;
+Oe.sc.001;1045;74;85;
+aE.sc.001;842;44;85;
+aEacute.sc.001;842;44;85;
+iJ.sc.001;696;95;73;
+Kaisymbol.sc.001;633;95;53;
 smallzero;444;32;32;
 _part.diantop;1000;312;298;
 _slash.zero;680;273;264;
@@ -1889,48 +2147,48 @@ SEGMENT CLASSES
 @MMK_L_z;z zacute zcaron zdotaccent zdotbelow
 @MMK_R_g;g.ss02 gbreve.ss02 gcommaaccent.ss02 gdotaccent.ss02 g.ss04 gbreve.ss04 gcommaaccent.ss04 gdotaccent.ss04 de-cy.loclBGR
 @MMK_L_g;g.ss02 gbreve.ss02 gcommaaccent.ss02 gdotaccent.ss02 g.ss04 gbreve.ss04 gcommaaccent.ss04 gdotaccent.ss04 de-cy.loclBGR
-@MMK_R_A.sc;A.sc Aacute.sc Abreve.sc Abreveacute.sc Abrevegrave.sc Abrevetilde.sc Acaron.sc Acircumflex.sc Acircumflexacute.sc Acircumflexgrave.sc Acircumflextilde.sc Adieresis.sc Adieresismacron.sc Agrave.sc Amacron.sc Aogonek.sc Aring.sc Atilde.sc AE.sc AEacute.sc A-cy.sc El-cy.loclBGR.sc Alpha.sc Delta.sc Lambda.sc Alphatonos.sc
-@MMK_L_A.sc;A.sc Aacute.sc Abreve.sc Abreveacute.sc Abrevegrave.sc Abrevetilde.sc Acaron.sc Acircumflex.sc Acircumflexacute.sc Acircumflexgrave.sc Acircumflextilde.sc Adieresis.sc Adieresismacron.sc Agrave.sc Amacron.sc Aogonek.sc Aring.sc Atilde.sc A-cy.sc El-cy.loclBGR.sc Alpha.sc Delta.sc Lambda.sc Alphatonos.sc
-@MMK_L_E.sc;AE.sc AEacute.sc E.sc Eacute.sc Ecaron.sc Ecedilla.sc Ecircumflex.sc Ecircumflexacute.sc Ecircumflexgrave.sc Ecircumflextilde.sc Edieresis.sc Edotaccent.sc Egrave.sc Emacron.sc Eogonek.sc Etilde.sc OE.sc Ie-cy.sc Iegrave-cy.sc Io-cy.sc Epsilon.sc Xi.sc Epsilontonos.sc
-@MMK_R_H.sc;B.sc Bdotbelow.sc D.sc Dcaron.sc Dcroat.sc Ddotbelow.sc E.sc Eacute.sc Ecaron.sc Ecedilla.sc Ecircumflex.sc Ecircumflexacute.sc Ecircumflexgrave.sc Ecircumflextilde.sc Edieresis.sc Edotaccent.sc Egrave.sc Emacron.sc Eogonek.sc Etilde.sc F.sc H.sc Hbar.sc Hdotbelow.sc I.sc IJ.sc Iacute.sc Icaron.sc Icircumflex.sc Idieresis.sc Idieresisacute.sc Igrave.sc Imacron.sc Iogonek.sc Itilde.sc K.sc Kcommaaccent.sc Khook.sc L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldotbelow.sc Lslash.sc M.sc Macute.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ndotaccent.sc Ndotbelow.sc Ntilde.sc Eng.sc P.sc Thorn.sc R.sc Racute.sc Rcaron.sc Rcommaaccent.sc Be-cy.sc Ve-cy.sc Ge-cy.sc Gje-cy.sc Gheupturn-cy.sc Ie-cy.sc Iegrave-cy.sc Io-cy.sc Ii-cy.sc Iishort-cy.sc Iigrave-cy.sc Ka-cy.sc Kje-cy.sc Em-cy.sc En-cy.sc Pe-cy.sc Er-cy.sc Tse-cy.sc Sha-cy.sc Shcha-cy.sc Dzhe-cy.sc Softsign-cy.sc Yeru-cy.sc Nje-cy.sc I-cy.sc Yi-cy.sc Iu-cy.sc Beta.sc Gamma.sc Epsilon.sc Eta.sc Iota.sc Kappa.sc Mu.sc Nu.sc Pi.sc Rho.sc Epsilontonos.sc Etatonos.sc Iotatonos.sc Iotadieresis.sc KaiSymbol.sc
-@MMK_L_B.sc;B.sc Bdotbelow.sc Germandbls.sc Ve-cy.sc Ze-cy.sc Beta.sc
-@MMK_R_O.sc;C.sc Cacute.sc Ccaron.sc Ccedilla.sc Cdotaccent.sc G.sc Gbreve.sc Gcaron.sc Gcommaaccent.sc Gdotaccent.sc O.sc Oacute.sc Ocaron.sc Ocircumflex.sc Ocircumflexacute.sc Ocircumflexgrave.sc Ocircumflextilde.sc Odieresis.sc Odieresismacron.sc Ograve.sc Ohungarumlaut.sc Omacron.sc Omacronacute.sc Omacrongrave.sc Oslash.sc Oslashacute.sc Otilde.sc Otildeacute.sc OE.sc Q.sc G.ss02.sc Gbreve.ss02.sc Gcaron.ss02.sc Gcommaaccent.ss02.sc Gdotaccent.ss02.sc Q.ss03.sc O-cy.sc Es-cy.sc Ef-cy.sc E-cy.sc Ef-cy.loclBGR.sc Theta.sc Omicron.sc Phi.sc Omicrontonos.sc
-@MMK_L_C.sc;C.sc Cacute.sc Ccaron.sc Ccedilla.sc Cdotaccent.sc Es-cy.sc
-@MMK_L_O.sc;D.sc Eth.sc Dcaron.sc Dcroat.sc Ddotbelow.sc O.sc Oacute.sc Ocaron.sc Ocircumflex.sc Ocircumflexacute.sc Ocircumflexgrave.sc Ocircumflextilde.sc Odieresis.sc Odieresismacron.sc Ograve.sc Ohungarumlaut.sc Omacron.sc Omacronacute.sc Omacrongrave.sc Oslash.sc Oslashacute.sc Otilde.sc Otildeacute.sc Q.sc Q.ss03.sc O-cy.sc Ef-cy.sc E-cy.sc Ereversed-cy.sc Iu-cy.sc Ef-cy.loclBGR.sc Theta.sc Omicron.sc Phi.sc Omicrontonos.sc
-@MMK_R_Eth.sc;Eth.sc
-@MMK_L_F.sc;F.sc
-@MMK_L_G.sc;G.sc Gbreve.sc Gcaron.sc Gcommaaccent.sc Gdotaccent.sc G.ss02.sc Gbreve.ss02.sc Gcaron.ss02.sc Gcommaaccent.ss02.sc Gdotaccent.ss02.sc
-@MMK_L_H.sc;H.sc Hbar.sc Hdotbelow.sc Hturned.sc I.sc Iacute.sc Icaron.sc Icircumflex.sc Idieresis.sc Idieresisacute.sc Igrave.sc Imacron.sc Iogonek.sc Itilde.sc M.sc Macute.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ndotaccent.sc Ndotbelow.sc Ntilde.sc Eng.sc Ii-cy.sc Iishort-cy.sc Iigrave-cy.sc El-cy.sc Em-cy.sc En-cy.sc Pe-cy.sc Che-cy.sc Sha-cy.sc Dzhe-cy.sc Yeru-cy.sc I-cy.sc Yi-cy.sc Ya-cy.sc Eta.sc Iota.sc Mu.sc Nu.sc Pi.sc Etatonos.sc Iotatonos.sc Iotadieresis.sc
-@MMK_R_Hturned.sc;Hturned.sc Che-cy.sc
-@MMK_L_J.sc;IJ.sc J.sc Je-cy.sc
-@MMK_R_J.sc;J.sc Je-cy.sc
-@MMK_L_K.sc;K.sc Kcommaaccent.sc Khook.sc Zhe-cy.sc Ka-cy.sc Kje-cy.sc Yusbig-cy.sc Kappa.sc KaiSymbol.sc
-@MMK_L_L.sc;L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldotbelow.sc Lslash.sc
-@MMK_L_P.sc;P.sc Thorn.sc Er-cy.sc Rho.sc
-@MMK_L_R.sc;R.sc Racute.sc Rcaron.sc Rcommaaccent.sc
-@MMK_R_S.sc;S.sc Sacute.sc Scaron.sc Scedilla.sc Scommaaccent.sc Sdotbelow.sc S.ss02.sc Sacute.ss02.sc Scaron.ss02.sc Scedilla.ss02.sc Scommaaccent.ss02.sc Sdotbelow.ss02.sc Dze-cy.sc
-@MMK_L_S.sc;S.sc Sacute.sc Scaron.sc Scedilla.sc Scommaaccent.sc Sdotbelow.sc S.ss02.sc Sacute.ss02.sc Scaron.ss02.sc Scedilla.ss02.sc Scommaaccent.ss02.sc Sdotbelow.ss02.sc Dze-cy.sc
-@MMK_R_Germandbls.sc;Germandbls.sc
-@MMK_R_T.sc;T.sc Tbar.sc Tcaron.sc Tcedilla.sc Tcommaaccent.sc Tdotbelow.sc Te-cy.sc Tshe-cy.sc Dje-cy.sc Tau.sc
-@MMK_L_T.sc;T.sc Tbar.sc Tcaron.sc Tcedilla.sc Tcommaaccent.sc Tdotbelow.sc Te-cy.sc Tau.sc
-@MMK_R_U.sc;U.sc Uacute.sc Ucaron.sc Ucircumflex.sc Udieresis.sc Udieresisacute.sc Udieresiscaron.sc Udieresisgrave.sc Udieresismacron.sc Ugrave.sc Uhungarumlaut.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc
-@MMK_L_U.sc;U.sc Uacute.sc Ucaron.sc Ucircumflex.sc Udieresis.sc Udieresisacute.sc Udieresiscaron.sc Udieresisgrave.sc Udieresismacron.sc Ugrave.sc Uhungarumlaut.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc
-@MMK_R_V.sc;V.sc
-@MMK_L_V.sc;V.sc U-cy.sc
-@MMK_R_W.sc;W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc
-@MMK_L_W.sc;W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc
-@MMK_R_X.sc;X.sc Ha-cy.sc Chi.sc
-@MMK_L_X.sc;X.sc Ha-cy.sc Chi.sc
-@MMK_R_Y.sc;Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Ytilde.sc Upsilon.sc Upsilontonos.sc Upsilondieresis.sc
-@MMK_L_Y.sc;Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Ytilde.sc Upsilon.sc Upsilontonos.sc Upsilondieresis.sc
-@MMK_R_Z.sc;Z.sc Zacute.sc Zcaron.sc Zdotaccent.sc Zdotbelow.sc Zeta.sc
-@MMK_L_Z.sc;Z.sc Zacute.sc Zcaron.sc Zdotaccent.sc Zdotbelow.sc Zeta.sc
+@MMK_R_A.sc;A.sc Aacute.sc Abreve.sc Abreveacute.sc Abrevegrave.sc Abrevetilde.sc Acaron.sc Acircumflex.sc Acircumflexacute.sc Acircumflexgrave.sc Acircumflextilde.sc Adieresis.sc Adieresismacron.sc Agrave.sc Amacron.sc Aogonek.sc Aring.sc Atilde.sc AE.sc AEacute.sc a.sc aacute.sc abreve.sc abreveacute.sc abrevegrave.sc abrevetilde.sc acaron.sc acircumflex.sc acircumflexacute.sc acircumflexgrave.sc acircumflextilde.sc adieresis.sc adieresismacron.sc agrave.sc amacron.sc aogonek.sc aring.sc atilde.sc A-cy.sc a-cy.sc El-cy.loclBGR.sc el-cy.loclbgr.sc Alpha.sc Delta.sc Lambda.sc alpha.sc delta.sc lambda.sc Alphatonos.sc alphatonos.sc aE.sc.001 aEacute.sc.001
+@MMK_L_A.sc;A.sc Aacute.sc Abreve.sc Abreveacute.sc Abrevegrave.sc Abrevetilde.sc Acaron.sc Acircumflex.sc Acircumflexacute.sc Acircumflexgrave.sc Acircumflextilde.sc Adieresis.sc Adieresismacron.sc Agrave.sc Amacron.sc Aogonek.sc Aring.sc Atilde.sc a.sc aacute.sc abreve.sc abreveacute.sc abrevegrave.sc abrevetilde.sc acaron.sc acircumflex.sc acircumflexacute.sc acircumflexgrave.sc acircumflextilde.sc adieresis.sc adieresismacron.sc agrave.sc amacron.sc aogonek.sc aring.sc atilde.sc A-cy.sc a-cy.sc El-cy.loclBGR.sc el-cy.loclbgr.sc Alpha.sc Delta.sc Lambda.sc alpha.sc delta.sc lambda.sc Alphatonos.sc alphatonos.sc
+@MMK_L_E.sc;AE.sc AEacute.sc E.sc Eacute.sc Ecaron.sc Ecedilla.sc Ecircumflex.sc Ecircumflexacute.sc Ecircumflexgrave.sc Ecircumflextilde.sc Edieresis.sc Edotaccent.sc Egrave.sc Emacron.sc Eogonek.sc Etilde.sc OE.sc e.sc eacute.sc ecaron.sc ecedilla.sc ecircumflex.sc ecircumflexacute.sc ecircumflexgrave.sc ecircumflextilde.sc edieresis.sc edotaccent.sc egrave.sc emacron.sc eogonek.sc etilde.sc Ie-cy.sc Iegrave-cy.sc Io-cy.sc ie-cy.sc iegrave-cy.sc io-cy.sc Epsilon.sc Xi.sc epsilon.sc xi.sc Epsilontonos.sc epsilontonos.sc Oe.sc.001 aE.sc.001 aEacute.sc.001
+@MMK_R_H.sc;B.sc Bdotbelow.sc D.sc Dcaron.sc Dcroat.sc Ddotbelow.sc E.sc Eacute.sc Ecaron.sc Ecedilla.sc Ecircumflex.sc Ecircumflexacute.sc Ecircumflexgrave.sc Ecircumflextilde.sc Edieresis.sc Edotaccent.sc Egrave.sc Emacron.sc Eogonek.sc Etilde.sc F.sc H.sc Hbar.sc Hdotbelow.sc I.sc IJ.sc Iacute.sc Icaron.sc Icircumflex.sc Idieresis.sc Idieresisacute.sc Igrave.sc Imacron.sc Iogonek.sc Itilde.sc K.sc Kcommaaccent.sc Khook.sc L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldotbelow.sc Lslash.sc M.sc Macute.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ndotaccent.sc Ndotbelow.sc Ntilde.sc Eng.sc P.sc Thorn.sc R.sc Racute.sc Rcaron.sc Rcommaaccent.sc b.sc bdotbelow.sc d.sc dcaron.sc dcroat.sc ddotbelow.sc e.sc eacute.sc ecaron.sc ecedilla.sc ecircumflex.sc ecircumflexacute.sc ecircumflexgrave.sc ecircumflextilde.sc edieresis.sc edotaccent.sc egrave.sc emacron.sc eogonek.sc etilde.sc f.sc h.sc hbar.sc hdotbelow.sc i.sc iacute.sc icaron.sc icircumflex.sc idieresis.sc idieresisacute.sc igrave.sc imacron.sc iogonek.sc itilde.sc k.sc kcommaaccent.sc khook.sc l.sc lacute.sc lcaron.sc lcommaaccent.sc ldotbelow.sc lslash.sc m.sc macute.sc n.sc nacute.sc ncaron.sc ncommaaccent.sc ndotaccent.sc ndotbelow.sc ntilde.sc eng.sc p.sc thorn.sc r.sc racute.sc rcaron.sc rcommaaccent.sc Be-cy.sc Ve-cy.sc Ge-cy.sc Gje-cy.sc Gheupturn-cy.sc Ie-cy.sc Iegrave-cy.sc Io-cy.sc Ii-cy.sc Iishort-cy.sc Iigrave-cy.sc Ka-cy.sc Kje-cy.sc Em-cy.sc En-cy.sc Pe-cy.sc Er-cy.sc Tse-cy.sc Sha-cy.sc Shcha-cy.sc Dzhe-cy.sc Softsign-cy.sc Yeru-cy.sc Nje-cy.sc I-cy.sc Yi-cy.sc Iu-cy.sc be-cy.sc ve-cy.sc ge-cy.sc gje-cy.sc geupturn-cy.sc ie-cy.sc iegrave-cy.sc io-cy.sc ii-cy.sc iishort-cy.sc iigrave-cy.sc ka-cy.sc kje-cy.sc em-cy.sc en-cy.sc pe-cy.sc er-cy.sc tse-cy.sc sha-cy.sc shcha-cy.sc dzhe-cy.sc softsign-cy.sc yeru-cy.sc nje-cy.sc i-cy.sc yi-cy.sc yu-cy.sc Beta.sc Gamma.sc Epsilon.sc Eta.sc Iota.sc Kappa.sc Mu.sc Nu.sc Pi.sc Rho.sc beta.sc gamma.sc epsilon.sc eta.sc iota.sc kappa.sc mu.sc nu.sc pi.sc rho.sc Epsilontonos.sc Etatonos.sc Iotatonos.sc Iotadieresis.sc iotatonos.sc iotadieresis.sc epsilontonos.sc etatonos.sc KaiSymbol.sc iJ.sc.001 Kaisymbol.sc.001
+@MMK_L_B.sc;B.sc Bdotbelow.sc Germandbls.sc b.sc bdotbelow.sc germandbls.sc Ve-cy.sc Ze-cy.sc ve-cy.sc ze-cy.sc Beta.sc beta.sc
+@MMK_R_O.sc;C.sc Cacute.sc Ccaron.sc Ccedilla.sc Cdotaccent.sc G.sc Gbreve.sc Gcaron.sc Gcommaaccent.sc Gdotaccent.sc O.sc Oacute.sc Ocaron.sc Ocircumflex.sc Ocircumflexacute.sc Ocircumflexgrave.sc Ocircumflextilde.sc Odieresis.sc Odieresismacron.sc Ograve.sc Ohungarumlaut.sc Omacron.sc Omacronacute.sc Omacrongrave.sc Oslash.sc Oslashacute.sc Otilde.sc Otildeacute.sc OE.sc Q.sc c.sc cacute.sc ccaron.sc ccedilla.sc cdotaccent.sc g.sc gbreve.sc gcaron.sc gcommaaccent.sc gdotaccent.sc o.sc oacute.sc ocaron.sc ocircumflex.sc ocircumflexacute.sc ocircumflexgrave.sc ocircumflextilde.sc odieresis.sc odieresismacron.sc ograve.sc ohungarumlaut.sc omacron.sc omacronacute.sc omacrongrave.sc oslash.sc oslashacute.sc otilde.sc otildeacute.sc q.sc G.ss02.sc Gbreve.ss02.sc Gcaron.ss02.sc Gcommaaccent.ss02.sc Gdotaccent.ss02.sc g.ss02.sc gbreve.ss02.sc gcaron.ss02.sc gcommaaccent.ss02.sc gdotaccent.ss02.sc Q.ss03.sc q.ss03.sc O-cy.sc Es-cy.sc Ef-cy.sc E-cy.sc o-cy.sc es-cy.sc ef-cy.sc e-cy.sc Ef-cy.loclBGR.sc ef-cy.loclbgr.sc Theta.sc Omicron.sc Phi.sc theta.sc omicron.sc phi.sc Omicrontonos.sc omicrontonos.sc Oe.sc.001
+@MMK_L_C.sc;C.sc Cacute.sc Ccaron.sc Ccedilla.sc Cdotaccent.sc c.sc cacute.sc ccaron.sc ccedilla.sc cdotaccent.sc Es-cy.sc es-cy.sc
+@MMK_L_O.sc;D.sc Eth.sc Dcaron.sc Dcroat.sc Ddotbelow.sc O.sc Oacute.sc Ocaron.sc Ocircumflex.sc Ocircumflexacute.sc Ocircumflexgrave.sc Ocircumflextilde.sc Odieresis.sc Odieresismacron.sc Ograve.sc Ohungarumlaut.sc Omacron.sc Omacronacute.sc Omacrongrave.sc Oslash.sc Oslashacute.sc Otilde.sc Otildeacute.sc Q.sc d.sc eth.sc dcaron.sc dcroat.sc ddotbelow.sc o.sc oacute.sc ocaron.sc ocircumflex.sc ocircumflexacute.sc ocircumflexgrave.sc ocircumflextilde.sc odieresis.sc odieresismacron.sc ograve.sc ohungarumlaut.sc omacron.sc omacronacute.sc omacrongrave.sc oslash.sc oslashacute.sc otilde.sc otildeacute.sc q.sc Q.ss03.sc q.ss03.sc O-cy.sc Ef-cy.sc E-cy.sc Ereversed-cy.sc Iu-cy.sc o-cy.sc ef-cy.sc e-cy.sc ereversed-cy.sc yu-cy.sc Ef-cy.loclBGR.sc ef-cy.loclbgr.sc Theta.sc Omicron.sc Phi.sc theta.sc omicron.sc phi.sc Omicrontonos.sc omicrontonos.sc
+@MMK_R_Eth.sc;Eth.sc eth.sc
+@MMK_L_F.sc;F.sc f.sc
+@MMK_L_G.sc;G.sc Gbreve.sc Gcaron.sc Gcommaaccent.sc Gdotaccent.sc g.sc gbreve.sc gcaron.sc gcommaaccent.sc gdotaccent.sc G.ss02.sc Gbreve.ss02.sc Gcaron.ss02.sc Gcommaaccent.ss02.sc Gdotaccent.ss02.sc g.ss02.sc gbreve.ss02.sc gcaron.ss02.sc gcommaaccent.ss02.sc gdotaccent.ss02.sc
+@MMK_L_H.sc;H.sc Hbar.sc Hdotbelow.sc Hturned.sc I.sc Iacute.sc Icaron.sc Icircumflex.sc Idieresis.sc Idieresisacute.sc Igrave.sc Imacron.sc Iogonek.sc Itilde.sc M.sc Macute.sc N.sc Nacute.sc Ncaron.sc Ncommaaccent.sc Ndotaccent.sc Ndotbelow.sc Ntilde.sc Eng.sc h.sc hbar.sc hdotbelow.sc hturned.sc i.sc iacute.sc icaron.sc icircumflex.sc idieresis.sc idieresisacute.sc igrave.sc imacron.sc iogonek.sc itilde.sc m.sc macute.sc n.sc nacute.sc ncaron.sc ncommaaccent.sc ndotaccent.sc ndotbelow.sc ntilde.sc eng.sc Ii-cy.sc Iishort-cy.sc Iigrave-cy.sc El-cy.sc Em-cy.sc En-cy.sc Pe-cy.sc Che-cy.sc Sha-cy.sc Dzhe-cy.sc Yeru-cy.sc I-cy.sc Yi-cy.sc Ya-cy.sc ii-cy.sc iishort-cy.sc iigrave-cy.sc el-cy.sc em-cy.sc en-cy.sc pe-cy.sc che-cy.sc sha-cy.sc dzhe-cy.sc yeru-cy.sc i-cy.sc yi-cy.sc ya-cy.sc Eta.sc Iota.sc Mu.sc Nu.sc Pi.sc eta.sc iota.sc mu.sc nu.sc pi.sc Etatonos.sc Iotatonos.sc Iotadieresis.sc iotatonos.sc iotadieresis.sc etatonos.sc
+@MMK_R_Hturned.sc;Hturned.sc hturned.sc Che-cy.sc che-cy.sc
+@MMK_L_J.sc;IJ.sc J.sc j.sc Je-cy.sc je-cy.sc iJ.sc.001
+@MMK_R_J.sc;J.sc j.sc Je-cy.sc je-cy.sc
+@MMK_L_K.sc;K.sc Kcommaaccent.sc Khook.sc k.sc kcommaaccent.sc khook.sc Zhe-cy.sc Ka-cy.sc Kje-cy.sc zhe-cy.sc ka-cy.sc kje-cy.sc Yusbig-cy.sc yusbig-cy.sc Kappa.sc kappa.sc KaiSymbol.sc Kaisymbol.sc.001
+@MMK_L_L.sc;L.sc Lacute.sc Lcaron.sc Lcommaaccent.sc Ldotbelow.sc Lslash.sc l.sc lacute.sc lcaron.sc lcommaaccent.sc ldotbelow.sc lslash.sc
+@MMK_L_P.sc;P.sc Thorn.sc p.sc thorn.sc Er-cy.sc er-cy.sc Rho.sc rho.sc
+@MMK_L_R.sc;R.sc Racute.sc Rcaron.sc Rcommaaccent.sc r.sc racute.sc rcaron.sc rcommaaccent.sc
+@MMK_R_S.sc;S.sc Sacute.sc Scaron.sc Scedilla.sc Scommaaccent.sc Sdotbelow.sc s.sc sacute.sc scaron.sc scedilla.sc scommaaccent.sc sdotbelow.sc S.ss02.sc Sacute.ss02.sc Scaron.ss02.sc Scedilla.ss02.sc Scommaaccent.ss02.sc Sdotbelow.ss02.sc s.ss02.sc sacute.ss02.sc scaron.ss02.sc scedilla.ss02.sc scommaaccent.ss02.sc sdotbelow.ss02.sc Dze-cy.sc dze-cy.sc
+@MMK_L_S.sc;S.sc Sacute.sc Scaron.sc Scedilla.sc Scommaaccent.sc Sdotbelow.sc s.sc sacute.sc scaron.sc scedilla.sc scommaaccent.sc sdotbelow.sc S.ss02.sc Sacute.ss02.sc Scaron.ss02.sc Scedilla.ss02.sc Scommaaccent.ss02.sc Sdotbelow.ss02.sc s.ss02.sc sacute.ss02.sc scaron.ss02.sc scedilla.ss02.sc scommaaccent.ss02.sc sdotbelow.ss02.sc Dze-cy.sc dze-cy.sc
+@MMK_R_Germandbls.sc;Germandbls.sc germandbls.sc
+@MMK_R_T.sc;T.sc Tbar.sc Tcaron.sc Tcedilla.sc Tcommaaccent.sc Tdotbelow.sc t.sc tbar.sc tcaron.sc tcedilla.sc tcommaaccent.sc tdotbelow.sc Te-cy.sc Tshe-cy.sc Dje-cy.sc te-cy.sc tshe-cy.sc dje-cy.sc Tau.sc tau.sc
+@MMK_L_T.sc;T.sc Tbar.sc Tcaron.sc Tcedilla.sc Tcommaaccent.sc Tdotbelow.sc t.sc tbar.sc tcaron.sc tcedilla.sc tcommaaccent.sc tdotbelow.sc Te-cy.sc te-cy.sc Tau.sc tau.sc
+@MMK_R_U.sc;U.sc Uacute.sc Ucaron.sc Ucircumflex.sc Udieresis.sc Udieresisacute.sc Udieresiscaron.sc Udieresisgrave.sc Udieresismacron.sc Ugrave.sc Uhungarumlaut.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc u.sc uacute.sc ucaron.sc ucircumflex.sc udieresis.sc udieresisacute.sc udieresiscaron.sc udieresisgrave.sc udieresismacron.sc ugrave.sc uhungarumlaut.sc umacron.sc uogonek.sc uring.sc utilde.sc
+@MMK_L_U.sc;U.sc Uacute.sc Ucaron.sc Ucircumflex.sc Udieresis.sc Udieresisacute.sc Udieresiscaron.sc Udieresisgrave.sc Udieresismacron.sc Ugrave.sc Uhungarumlaut.sc Umacron.sc Uogonek.sc Uring.sc Utilde.sc u.sc uacute.sc ucaron.sc ucircumflex.sc udieresis.sc udieresisacute.sc udieresiscaron.sc udieresisgrave.sc udieresismacron.sc ugrave.sc uhungarumlaut.sc umacron.sc uogonek.sc uring.sc utilde.sc
+@MMK_R_V.sc;V.sc v.sc
+@MMK_L_V.sc;V.sc v.sc U-cy.sc u-cy.sc
+@MMK_R_W.sc;W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc w.sc wacute.sc wcircumflex.sc wdieresis.sc wgrave.sc
+@MMK_L_W.sc;W.sc Wacute.sc Wcircumflex.sc Wdieresis.sc Wgrave.sc w.sc wacute.sc wcircumflex.sc wdieresis.sc wgrave.sc
+@MMK_R_X.sc;X.sc x.sc Ha-cy.sc ha-cy.sc Chi.sc chi.sc
+@MMK_L_X.sc;X.sc x.sc Ha-cy.sc ha-cy.sc Chi.sc chi.sc
+@MMK_R_Y.sc;Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Ytilde.sc y.sc yacute.sc ycircumflex.sc ydieresis.sc ygrave.sc ytilde.sc Upsilon.sc upsilon.sc Upsilontonos.sc Upsilondieresis.sc upsilontonos.sc upsilondieresis.sc
+@MMK_L_Y.sc;Y.sc Yacute.sc Ycircumflex.sc Ydieresis.sc Ygrave.sc Ytilde.sc y.sc yacute.sc ycircumflex.sc ydieresis.sc ygrave.sc ytilde.sc Upsilon.sc upsilon.sc Upsilontonos.sc Upsilondieresis.sc upsilontonos.sc upsilondieresis.sc
+@MMK_R_Z.sc;Z.sc Zacute.sc Zcaron.sc Zdotaccent.sc Zdotbelow.sc z.sc zacute.sc zcaron.sc zdotaccent.sc zdotbelow.sc Zeta.sc zeta.sc
+@MMK_L_Z.sc;Z.sc Zacute.sc Zcaron.sc Zdotaccent.sc Zdotbelow.sc z.sc zacute.sc zcaron.sc zdotaccent.sc zdotbelow.sc Zeta.sc zeta.sc
 @MMK_L_Becyrillic;Be-cy
 @MMK_L_Gecyrillic;Ge-cy Gje-cy Gheupturn-cy
 @MMK_R_Decyrillic;De-cy
 @MMK_L_Decyrillic;De-cy Tse-cy Shcha-cy De-cy.loclBGR
 @MMK_R_Zhecyrillic;Zhe-cy
-@MMK_R_three;Ze-cy Ze-cy.sc three three.osf
+@MMK_R_three;Ze-cy Ze-cy.sc ze-cy.sc three three.osf
 @MMK_R_Elcyrillic;El-cy Lje-cy
 @MMK_R_Ucyrillic;U-cy
 @MMK_R_Efcyrillic;Ef-cy Ef-cy.loclBGR
@@ -1972,18 +2230,18 @@ SEGMENT CLASSES
 @MMK_L_el-cyBGR;el-cy.loclBGR
 @MMK_L_softsign-cyBGR;softsign-cy.loclBGR hardsign-cy.loclBGR
 @MMK_R_be-cySRB;be-cy.loclSRB
-@MMK_L_Be-cy.sc;Be-cy.sc
-@MMK_L_Ge-cy.sc;Ge-cy.sc Gje-cy.sc Gheupturn-cy.sc Gamma.sc
-@MMK_R_De-cy.sc;De-cy.sc El-cy.sc Lje-cy.sc De-cy.loclBGR.sc
-@MMK_L_De-cy.sc;De-cy.sc Tse-cy.sc Shcha-cy.sc De-cy.loclBGR.sc
-@MMK_R_Zhe-cy.sc;Zhe-cy.sc Yusbig-cy.sc
-@MMK_R_U-cy.sc;U-cy.sc
-@MMK_L_Softsign-cy.sc;Softsign-cy.sc Hardsign-cy.sc Lje-cy.sc Nje-cy.sc Yat-cy.sc
-@MMK_R_Hardsign-cy.sc;Hardsign-cy.sc
-@MMK_R_Ereversed-cy.sc;Ereversed-cy.sc
-@MMK_L_Tshe-cy.sc;Tshe-cy.sc Dje-cy.sc
-@MMK_R_Ya-cy.sc;Ya-cy.sc
-@MMK_R_Yat-cy.sc;Yat-cy.sc
+@MMK_L_Be-cy.sc;Be-cy.sc be-cy.sc
+@MMK_L_Ge-cy.sc;Ge-cy.sc Gje-cy.sc Gheupturn-cy.sc ge-cy.sc gje-cy.sc geupturn-cy.sc Gamma.sc gamma.sc
+@MMK_R_De-cy.sc;De-cy.sc El-cy.sc Lje-cy.sc de-cy.sc el-cy.sc lje-cy.sc De-cy.loclBGR.sc de-cy.loclbgr.sc
+@MMK_L_De-cy.sc;De-cy.sc Tse-cy.sc Shcha-cy.sc de-cy.sc tse-cy.sc shcha-cy.sc De-cy.loclBGR.sc de-cy.loclbgr.sc
+@MMK_R_Zhe-cy.sc;Zhe-cy.sc zhe-cy.sc Yusbig-cy.sc yusbig-cy.sc
+@MMK_R_U-cy.sc;U-cy.sc u-cy.sc
+@MMK_L_Softsign-cy.sc;Softsign-cy.sc Hardsign-cy.sc Lje-cy.sc Nje-cy.sc softsign-cy.sc hardsign-cy.sc lje-cy.sc nje-cy.sc Yat-cy.sc yat-cy.sc
+@MMK_R_Hardsign-cy.sc;Hardsign-cy.sc hardsign-cy.sc
+@MMK_R_Ereversed-cy.sc;Ereversed-cy.sc ereversed-cy.sc
+@MMK_L_Tshe-cy.sc;Tshe-cy.sc Dje-cy.sc tshe-cy.sc dje-cy.sc
+@MMK_R_Ya-cy.sc;Ya-cy.sc ya-cy.sc
+@MMK_R_Yat-cy.sc;Yat-cy.sc yat-cy.sc
 @MMK_L_Gamma;Gamma
 @MMK_R_Delta;Delta
 @MMK_L_Delta;Delta
@@ -2035,13 +2293,13 @@ SEGMENT CLASSES
 @MMK_R_iotadieresis;iotadieresis
 @MMK_R_iotadieresistonos;iotadieresistonos
 @MMK_L_kaiSymbol;kaiSymbol
-@MMK_R_Xi.sc;Xi.sc
-@MMK_R_Sigma.sc;Sigma.sc
-@MMK_L_Sigma.sc;Sigma.sc
-@MMK_R_Psi.sc;Psi.sc
-@MMK_L_Psi.sc;Psi.sc
-@MMK_R_Omega.sc;Omega.sc Omegatonos.sc
-@MMK_L_Omega.sc;Omega.sc Omegatonos.sc
+@MMK_R_Xi.sc;Xi.sc xi.sc
+@MMK_R_Sigma.sc;Sigma.sc sigma.sc
+@MMK_L_Sigma.sc;Sigma.sc sigma.sc
+@MMK_R_Psi.sc;Psi.sc psi.sc
+@MMK_L_Psi.sc;Psi.sc psi.sc
+@MMK_R_Omega.sc;Omega.sc omega.sc Omegatonos.sc omegatonos.sc
+@MMK_L_Omega.sc;Omega.sc omega.sc Omegatonos.sc omegatonos.sc
 @MMK_L_zero;zero nine zero.zero nine.osf
 @MMK_R_one;one
 @MMK_L_one;one

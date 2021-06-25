@@ -58,6 +58,8 @@
 	<string>at.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>c.sc</key>
+	<string>c.sc.glif</string>
 	<key>clubBlackSuit</key>
 	<string>clubB_lackS_uit.glif</string>
 	<key>comma</key>
@@ -96,20 +98,32 @@
 	<string>fl.glif</string>
 	<key>g.ss02</key>
 	<string>g.ss02.glif</string>
+	<key>g.ss02.sc</key>
+	<string>g.ss02.sc.glif</string>
+	<key>j.sc</key>
+	<string>j.sc.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>oe</key>
 	<string>oe.glif</string>
+	<key>omega.sc</key>
+	<string>omega.sc.glif</string>
+	<key>oslash.sc</key>
+	<string>oslash.sc.glif</string>
 	<key>paragraph</key>
 	<string>paragraph.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
 	<key>phi</key>
 	<string>phi.glif</string>
+	<key>q.sc</key>
+	<string>q.sc.glif</string>
 	<key>question</key>
 	<string>question.glif</string>
 	<key>s.ss02</key>
 	<string>s.ss02.glif</string>
+	<key>s.ss02.sc</key>
+	<string>s.ss02.sc.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>softsign-cy</key>

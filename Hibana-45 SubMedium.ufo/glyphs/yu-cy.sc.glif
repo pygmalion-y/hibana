@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yu-cy.sc" format="2">
+	<advance width="912"/>
+	<anchor x="529" y="575" name="top"/>
+	<outline>
+		<contour>
+			<point x="119" y="245" type="line"/>
+			<point x="323" y="245" type="line"/>
+			<point x="323" y="335" type="line"/>
+			<point x="119" y="335" type="line"/>
+		</contour>
+		<component base="I.sc"/>
+		<component base="O.sc" xOffset="180"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>O.sc</string>
+		</dict>
+	</lib>
+</glyph>

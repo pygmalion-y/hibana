@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="alpha.sc" format="2">
+	<advance width="632"/>
+	<anchor x="239" y="575" name="topleft"/>
+	<outline>
+		<component base="A.sc"/>
+	</outline>
+</glyph>

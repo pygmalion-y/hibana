@@ -498,6 +498,8 @@
 	<string>K_aiS_ymbol.glif</string>
 	<key>KaiSymbol.sc</key>
 	<string>K_aiS_ymbol.sc.glif</string>
+	<key>Kaisymbol.sc.001</key>
+	<string>K_aisymbol.sc.001.glif</string>
 	<key>Kappa</key>
 	<string>K_appa.glif</string>
 	<key>Kappa.sc</key>
@@ -638,6 +640,8 @@
 	<string>O_dieresismacron.glif</string>
 	<key>Odieresismacron.sc</key>
 	<string>O_dieresismacron.sc.glif</string>
+	<key>Oe.sc.001</key>
+	<string>O_e.sc.001.glif</string>
 	<key>Ograve</key>
 	<string>O_grave.glif</string>
 	<key>Ograve.sc</key>
@@ -1046,6 +1050,8 @@
 	<string>a.glif</string>
 	<key>a-cy</key>
 	<string>a-cy.glif</string>
+	<key>a-cy.sc</key>
+	<string>a-cy.sc.glif</string>
 	<key>a-cy.ss01</key>
 	<string>a-cy.ss01.glif</string>
 	<key>a-hira</key>
@@ -1054,50 +1060,76 @@
 	<string>a-kata.glif</string>
 	<key>a-tibet</key>
 	<string>a-tibet.glif</string>
+	<key>a.sc</key>
+	<string>a.sc.glif</string>
 	<key>a.ss01</key>
 	<string>a.ss01.glif</string>
 	<key>a.ss02</key>
 	<string>a.ss02.glif</string>
+	<key>aE.sc.001</key>
+	<string>aE_.sc.001.glif</string>
+	<key>aEacute.sc.001</key>
+	<string>aE_acute.sc.001.glif</string>
 	<key>aJung-ko</key>
 	<string>aJ_ung-ko.glif</string>
 	<key>aa-tibet</key>
 	<string>aa-tibet.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
+	<key>aacute.sc</key>
+	<string>aacute.sc.glif</string>
 	<key>aacute.ss01</key>
 	<string>aacute.ss01.glif</string>
 	<key>aacute.ss02</key>
 	<string>aacute.ss02.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
+	<key>abreve.sc</key>
+	<string>abreve.sc.glif</string>
 	<key>abreve.ss01</key>
 	<string>abreve.ss01.glif</string>
 	<key>abreve.ss02</key>
 	<string>abreve.ss02.glif</string>
 	<key>abreveacute</key>
 	<string>abreveacute.glif</string>
+	<key>abreveacute.sc</key>
+	<string>abreveacute.sc.glif</string>
 	<key>abrevegrave</key>
 	<string>abrevegrave.glif</string>
+	<key>abrevegrave.sc</key>
+	<string>abrevegrave.sc.glif</string>
 	<key>abrevetilde</key>
 	<string>abrevetilde.glif</string>
+	<key>abrevetilde.sc</key>
+	<string>abrevetilde.sc.glif</string>
 	<key>acaron</key>
 	<string>acaron.glif</string>
+	<key>acaron.sc</key>
+	<string>acaron.sc.glif</string>
 	<key>acaron.ss01</key>
 	<string>acaron.ss01.glif</string>
 	<key>acaron.ss02</key>
 	<string>acaron.ss02.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
+	<key>acircumflex.sc</key>
+	<string>acircumflex.sc.glif</string>
 	<key>acircumflex.ss01</key>
 	<string>acircumflex.ss01.glif</string>
 	<key>acircumflex.ss02</key>
 	<string>acircumflex.ss02.glif</string>
 	<key>acircumflexacute</key>
 	<string>acircumflexacute.glif</string>
+	<key>acircumflexacute.sc</key>
+	<string>acircumflexacute.sc.glif</string>
 	<key>acircumflexgrave</key>
 	<string>acircumflexgrave.glif</string>
+	<key>acircumflexgrave.sc</key>
+	<string>acircumflexgrave.sc.glif</string>
 	<key>acircumflextilde</key>
 	<string>acircumflextilde.glif</string>
+	<key>acircumflextilde.sc</key>
+	<string>acircumflextilde.sc.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
 	<key>acutecomb</key>
@@ -1110,12 +1142,16 @@
 	<string>acutemacroncomb.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
+	<key>adieresis.sc</key>
+	<string>adieresis.sc.glif</string>
 	<key>adieresis.ss01</key>
 	<string>adieresis.ss01.glif</string>
 	<key>adieresis.ss02</key>
 	<string>adieresis.ss02.glif</string>
 	<key>adieresismacron</key>
 	<string>adieresismacron.glif</string>
+	<key>adieresismacron.sc</key>
+	<string>adieresismacron.sc.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
 	<key>aeJung-ko</key>
@@ -1124,6 +1160,8 @@
 	<string>aeacute.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
+	<key>agrave.sc</key>
+	<string>agrave.sc.glif</string>
 	<key>agrave.ss01</key>
 	<string>agrave.ss01.glif</string>
 	<key>agrave.ss02</key>
@@ -1132,10 +1170,16 @@
 	<string>almostequaltoabovecomb.glif</string>
 	<key>alpha</key>
 	<string>alpha.glif</string>
+	<key>alpha.sc</key>
+	<string>alpha.sc.glif</string>
 	<key>alphatonos</key>
 	<string>alphatonos.glif</string>
+	<key>alphatonos.sc</key>
+	<string>alphatonos.sc.glif</string>
 	<key>amacron</key>
 	<string>amacron.glif</string>
+	<key>amacron.sc</key>
+	<string>amacron.sc.glif</string>
 	<key>amacron.ss01</key>
 	<string>amacron.ss01.glif</string>
 	<key>amacron.ss02</key>
@@ -1154,6 +1198,8 @@
 	<string>anoteleia.glif</string>
 	<key>aogonek</key>
 	<string>aogonek.glif</string>
+	<key>aogonek.sc</key>
+	<string>aogonek.sc.glif</string>
 	<key>aogonek.ss01</key>
 	<string>aogonek.ss01.glif</string>
 	<key>aogonek.ss02</key>
@@ -1164,6 +1210,8 @@
 	<string>approxequal.glif</string>
 	<key>aring</key>
 	<string>aring.glif</string>
+	<key>aring.sc</key>
+	<string>aring.sc.glif</string>
 	<key>aring.ss01</key>
 	<string>aring.ss01.glif</string>
 	<key>aring.ss02</key>
@@ -1192,12 +1240,16 @@
 	<string>at.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
+	<key>atilde.sc</key>
+	<string>atilde.sc.glif</string>
 	<key>atilde.ss01</key>
 	<string>atilde.ss01.glif</string>
 	<key>atilde.ss02</key>
 	<string>atilde.ss02.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
+	<key>b.sc</key>
+	<string>b.sc.glif</string>
 	<key>ba-hira</key>
 	<string>ba-hira.glif</string>
 	<key>ba-kata</key>
@@ -1214,10 +1266,14 @@
 	<string>bar.glif</string>
 	<key>bdotbelow</key>
 	<string>bdotbelow.glif</string>
+	<key>bdotbelow.sc</key>
+	<string>bdotbelow.sc.glif</string>
 	<key>be-cy</key>
 	<string>be-cy.glif</string>
 	<key>be-cy.loclSRB</key>
 	<string>be-cy.loclS_R_B_.glif</string>
+	<key>be-cy.sc</key>
+	<string>be-cy.sc.glif</string>
 	<key>be-hira</key>
 	<string>be-hira.glif</string>
 	<key>be-kata</key>
@@ -1226,6 +1282,8 @@
 	<string>beamedsixteenthnotes-musical.glif</string>
 	<key>beta</key>
 	<string>beta.glif</string>
+	<key>beta.sc</key>
+	<string>beta.sc.glif</string>
 	<key>bha-tibet</key>
 	<string>bha-tibet.glif</string>
 	<key>bi-hira</key>
@@ -1298,10 +1356,14 @@
 	<string>bullet.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
+	<key>c.sc</key>
+	<string>c.sc.glif</string>
 	<key>ca-tibet</key>
 	<string>ca-tibet.glif</string>
 	<key>cacute</key>
 	<string>cacute.glif</string>
+	<key>cacute.sc</key>
+	<string>cacute.sc.glif</string>
 	<key>cangTeU-tibet</key>
 	<string>cangT_eU_-tibet.glif</string>
 	<key>caretDzudRtagsBzhiMigCan-tibet</key>
@@ -1320,10 +1382,16 @@
 	<string>caroncomb.alt.glif</string>
 	<key>ccaron</key>
 	<string>ccaron.glif</string>
+	<key>ccaron.sc</key>
+	<string>ccaron.sc.glif</string>
 	<key>ccedilla</key>
 	<string>ccedilla.glif</string>
+	<key>ccedilla.sc</key>
+	<string>ccedilla.sc.glif</string>
 	<key>cdotaccent</key>
 	<string>cdotaccent.glif</string>
+	<key>cdotaccent.sc</key>
+	<string>cdotaccent.sc.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
 	<key>cedillacomb</key>
@@ -1336,10 +1404,14 @@
 	<string>chadR_tags-tibet.glif</string>
 	<key>che-cy</key>
 	<string>che-cy.glif</string>
+	<key>che-cy.sc</key>
+	<string>che-cy.sc.glif</string>
 	<key>cheMgo-tibet</key>
 	<string>cheM_go-tibet.glif</string>
 	<key>chi</key>
 	<string>chi.glif</string>
+	<key>chi.sc</key>
+	<string>chi.sc.glif</string>
 	<key>chieuchCho-ko</key>
 	<string>chieuchC_ho-ko.glif</string>
 	<key>chieuchJong-ko</key>
@@ -1400,6 +1472,8 @@
 	<string>currency.glif</string>
 	<key>d</key>
 	<string>d.glif</string>
+	<key>d.sc</key>
+	<string>d.sc.glif</string>
 	<key>da-hira</key>
 	<string>da-hira.glif</string>
 	<key>da-kata</key>
@@ -1420,18 +1494,28 @@
 	<string>dblverticalbar.glif</string>
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
+	<key>dcaron.sc</key>
+	<string>dcaron.sc.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
+	<key>dcroat.sc</key>
+	<string>dcroat.sc.glif</string>
 	<key>dda-tibet</key>
 	<string>dda-tibet.glif</string>
 	<key>ddha-tibet</key>
 	<string>ddha-tibet.glif</string>
 	<key>ddotbelow</key>
 	<string>ddotbelow.glif</string>
+	<key>ddotbelow.sc</key>
+	<string>ddotbelow.sc.glif</string>
 	<key>de-cy</key>
 	<string>de-cy.glif</string>
 	<key>de-cy.loclBGR</key>
 	<string>de-cy.loclB_G_R_.glif</string>
+	<key>de-cy.loclbgr.sc</key>
+	<string>de-cy.loclbgr.sc.glif</string>
+	<key>de-cy.sc</key>
+	<string>de-cy.sc.glif</string>
 	<key>de-hira</key>
 	<string>de-hira.glif</string>
 	<key>de-kata</key>
@@ -1442,6 +1526,8 @@
 	<string>delimitertshegbstar-tibet.glif</string>
 	<key>delta</key>
 	<string>delta.glif</string>
+	<key>delta.sc</key>
+	<string>delta.sc.glif</string>
 	<key>dha-tibet</key>
 	<string>dha-tibet.glif</string>
 	<key>di-hira</key>
@@ -1464,6 +1550,8 @@
 	<string>divide.glif</string>
 	<key>dje-cy</key>
 	<string>dje-cy.glif</string>
+	<key>dje-cy.sc</key>
+	<string>dje-cy.sc.glif</string>
 	<key>do-hira</key>
 	<string>do-hira.glif</string>
 	<key>do-kata</key>
@@ -1502,54 +1590,86 @@
 	<string>dza-tibet.glif</string>
 	<key>dze-cy</key>
 	<string>dze-cy.glif</string>
+	<key>dze-cy.sc</key>
+	<string>dze-cy.sc.glif</string>
 	<key>dzha-tibet</key>
 	<string>dzha-tibet.glif</string>
 	<key>dzhe-cy</key>
 	<string>dzhe-cy.glif</string>
+	<key>dzhe-cy.sc</key>
+	<string>dzhe-cy.sc.glif</string>
 	<key>e</key>
 	<string>e.glif</string>
 	<key>e-cy</key>
 	<string>e-cy.glif</string>
+	<key>e-cy.sc</key>
+	<string>e-cy.sc.glif</string>
 	<key>e-hira</key>
 	<string>e-hira.glif</string>
 	<key>e-kata</key>
 	<string>e-kata.glif</string>
+	<key>e.sc</key>
+	<string>e.sc.glif</string>
 	<key>e.ss02</key>
 	<string>e.ss02.glif</string>
 	<key>eJung-ko</key>
 	<string>eJ_ung-ko.glif</string>
 	<key>eacute</key>
 	<string>eacute.glif</string>
+	<key>eacute.sc</key>
+	<string>eacute.sc.glif</string>
 	<key>eacute.ss02</key>
 	<string>eacute.ss02.glif</string>
 	<key>ecaron</key>
 	<string>ecaron.glif</string>
+	<key>ecaron.sc</key>
+	<string>ecaron.sc.glif</string>
 	<key>ecaron.ss02</key>
 	<string>ecaron.ss02.glif</string>
 	<key>ecedilla</key>
 	<string>ecedilla.glif</string>
+	<key>ecedilla.sc</key>
+	<string>ecedilla.sc.glif</string>
 	<key>ecircumflex</key>
 	<string>ecircumflex.glif</string>
+	<key>ecircumflex.sc</key>
+	<string>ecircumflex.sc.glif</string>
 	<key>ecircumflex.ss02</key>
 	<string>ecircumflex.ss02.glif</string>
 	<key>ecircumflexacute</key>
 	<string>ecircumflexacute.glif</string>
+	<key>ecircumflexacute.sc</key>
+	<string>ecircumflexacute.sc.glif</string>
 	<key>ecircumflexgrave</key>
 	<string>ecircumflexgrave.glif</string>
+	<key>ecircumflexgrave.sc</key>
+	<string>ecircumflexgrave.sc.glif</string>
 	<key>ecircumflextilde</key>
 	<string>ecircumflextilde.glif</string>
+	<key>ecircumflextilde.sc</key>
+	<string>ecircumflextilde.sc.glif</string>
 	<key>edieresis</key>
 	<string>edieresis.glif</string>
+	<key>edieresis.sc</key>
+	<string>edieresis.sc.glif</string>
 	<key>edieresis.ss02</key>
 	<string>edieresis.ss02.glif</string>
 	<key>edotaccent</key>
 	<string>edotaccent.glif</string>
+	<key>edotaccent.sc</key>
+	<string>edotaccent.sc.glif</string>
 	<key>edotaccent.ss02</key>
 	<string>edotaccent.ss02.glif</string>
 	<key>ef-cy</key>
 	<string>ef-cy.glif</string>
+	<key>ef-cy.loclbgr.sc</key>
+	<string>ef-cy.loclbgr.sc.glif</string>
+	<key>ef-cy.sc</key>
+	<string>ef-cy.sc.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
+	<key>egrave.sc</key>
+	<string>egrave.sc.glif</string>
 	<key>egrave.ss02</key>
 	<string>egrave.ss02.glif</string>
 	<key>eight</key>
@@ -1576,12 +1696,20 @@
 	<string>el-cy.glif</string>
 	<key>el-cy.loclBGR</key>
 	<string>el-cy.loclB_G_R_.glif</string>
+	<key>el-cy.loclbgr.sc</key>
+	<string>el-cy.loclbgr.sc.glif</string>
+	<key>el-cy.sc</key>
+	<string>el-cy.sc.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
 	<key>em-cy</key>
 	<string>em-cy.glif</string>
+	<key>em-cy.sc</key>
+	<string>em-cy.sc.glif</string>
 	<key>emacron</key>
 	<string>emacron.glif</string>
+	<key>emacron.sc</key>
+	<string>emacron.sc.glif</string>
 	<key>emacron.ss02</key>
 	<string>emacron.ss02.glif</string>
 	<key>emdash</key>
@@ -1594,10 +1722,14 @@
 	<string>emspace.glif</string>
 	<key>en-cy</key>
 	<string>en-cy.glif</string>
+	<key>en-cy.sc</key>
+	<string>en-cy.sc.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
 	<key>eng</key>
 	<string>eng.glif</string>
+	<key>eng.sc</key>
+	<string>eng.sc.glif</string>
 	<key>enquad</key>
 	<string>enquad.glif</string>
 	<key>enspace</key>
@@ -1606,22 +1738,34 @@
 	<string>eoJ_ung-ko.glif</string>
 	<key>eogonek</key>
 	<string>eogonek.glif</string>
+	<key>eogonek.sc</key>
+	<string>eogonek.sc.glif</string>
 	<key>eogonek.ss02</key>
 	<string>eogonek.ss02.glif</string>
 	<key>epsilon</key>
 	<string>epsilon.glif</string>
+	<key>epsilon.sc</key>
+	<string>epsilon.sc.glif</string>
 	<key>epsilontonos</key>
 	<string>epsilontonos.glif</string>
+	<key>epsilontonos.sc</key>
+	<string>epsilontonos.sc.glif</string>
 	<key>equal</key>
 	<string>equal.glif</string>
 	<key>equalbelowcomb</key>
 	<string>equalbelowcomb.glif</string>
 	<key>er-cy</key>
 	<string>er-cy.glif</string>
+	<key>er-cy.sc</key>
+	<string>er-cy.sc.glif</string>
 	<key>ereversed-cy</key>
 	<string>ereversed-cy.glif</string>
+	<key>ereversed-cy.sc</key>
+	<string>ereversed-cy.sc.glif</string>
 	<key>es-cy</key>
 	<string>es-cy.glif</string>
+	<key>es-cy.sc</key>
+	<string>es-cy.sc.glif</string>
 	<key>esmall-hira</key>
 	<string>esmall-hira.glif</string>
 	<key>esmall-kata</key>
@@ -1630,12 +1774,20 @@
 	<string>estimated.glif</string>
 	<key>eta</key>
 	<string>eta.glif</string>
+	<key>eta.sc</key>
+	<string>eta.sc.glif</string>
 	<key>etatonos</key>
 	<string>etatonos.glif</string>
+	<key>etatonos.sc</key>
+	<string>etatonos.sc.glif</string>
 	<key>eth</key>
 	<string>eth.glif</string>
+	<key>eth.sc</key>
+	<string>eth.sc.glif</string>
 	<key>etilde</key>
 	<string>etilde.glif</string>
+	<key>etilde.sc</key>
+	<string>etilde.sc.glif</string>
 	<key>euJung-ko</key>
 	<string>euJ_ung-ko.glif</string>
 	<key>euro</key>
@@ -1648,6 +1800,8 @@
 	<string>exclamdown.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>f.sc</key>
+	<string>f.sc.glif</string>
 	<key>fClef-musical</key>
 	<string>fC_lef-musical.glif</string>
 	<key>f_b</key>
@@ -1740,8 +1894,12 @@
 	<string>franc.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
+	<key>g.sc</key>
+	<string>g.sc.glif</string>
 	<key>g.ss02</key>
 	<string>g.ss02.glif</string>
+	<key>g.ss02.sc</key>
+	<string>g.ss02.sc.glif</string>
 	<key>g.ss04</key>
 	<string>g.ss04.glif</string>
 	<key>gClef-musical</key>
@@ -1754,40 +1912,64 @@
 	<string>ga-tibet.glif</string>
 	<key>gamma</key>
 	<string>gamma.glif</string>
+	<key>gamma.sc</key>
+	<string>gamma.sc.glif</string>
 	<key>gammamod-latin</key>
 	<string>gammamod-latin.glif</string>
 	<key>gbreve</key>
 	<string>gbreve.glif</string>
+	<key>gbreve.sc</key>
+	<string>gbreve.sc.glif</string>
 	<key>gbreve.ss02</key>
 	<string>gbreve.ss02.glif</string>
+	<key>gbreve.ss02.sc</key>
+	<string>gbreve.ss02.sc.glif</string>
 	<key>gbreve.ss04</key>
 	<string>gbreve.ss04.glif</string>
 	<key>gbridgeabovecomb</key>
 	<string>gbridgeabovecomb.glif</string>
 	<key>gcaron</key>
 	<string>gcaron.glif</string>
+	<key>gcaron.sc</key>
+	<string>gcaron.sc.glif</string>
+	<key>gcaron.ss02.sc</key>
+	<string>gcaron.ss02.sc.glif</string>
 	<key>gcommaaccent</key>
 	<string>gcommaaccent.glif</string>
+	<key>gcommaaccent.sc</key>
+	<string>gcommaaccent.sc.glif</string>
 	<key>gcommaaccent.ss02</key>
 	<string>gcommaaccent.ss02.glif</string>
+	<key>gcommaaccent.ss02.sc</key>
+	<string>gcommaaccent.ss02.sc.glif</string>
 	<key>gcommaaccent.ss04</key>
 	<string>gcommaaccent.ss04.glif</string>
 	<key>gdotaccent</key>
 	<string>gdotaccent.glif</string>
+	<key>gdotaccent.sc</key>
+	<string>gdotaccent.sc.glif</string>
 	<key>gdotaccent.ss02</key>
 	<string>gdotaccent.ss02.glif</string>
+	<key>gdotaccent.ss02.sc</key>
+	<string>gdotaccent.ss02.sc.glif</string>
 	<key>gdotaccent.ss04</key>
 	<string>gdotaccent.ss04.glif</string>
 	<key>ge-cy</key>
 	<string>ge-cy.glif</string>
 	<key>ge-cy.loclBGR</key>
 	<string>ge-cy.loclB_G_R_.glif</string>
+	<key>ge-cy.sc</key>
+	<string>ge-cy.sc.glif</string>
 	<key>ge-hira</key>
 	<string>ge-hira.glif</string>
 	<key>ge-kata</key>
 	<string>ge-kata.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
+	<key>germandbls.sc</key>
+	<string>germandbls.sc.glif</string>
+	<key>geupturn-cy.sc</key>
+	<string>geupturn-cy.sc.glif</string>
 	<key>gha-tibet</key>
 	<string>gha-tibet.glif</string>
 	<key>gheupturn-cy</key>
@@ -1798,6 +1980,8 @@
 	<string>gi-kata.glif</string>
 	<key>gje-cy</key>
 	<string>gje-cy.glif</string>
+	<key>gje-cy.sc</key>
+	<string>gje-cy.sc.glif</string>
 	<key>glottalstopreversedmod</key>
 	<string>glottalstopreversedmod.glif</string>
 	<key>go-hira</key>
@@ -1848,8 +2032,12 @@
 	<string>guilsinglright.glif</string>
 	<key>h</key>
 	<string>h.glif</string>
+	<key>h.sc</key>
+	<string>h.sc.glif</string>
 	<key>ha-cy</key>
 	<string>ha-cy.glif</string>
+	<key>ha-cy.sc</key>
+	<string>ha-cy.sc.glif</string>
 	<key>ha-hira</key>
 	<string>ha-hira.glif</string>
 	<key>ha-kata</key>
@@ -1882,10 +2070,16 @@
 	<string>hardsign-cy.glif</string>
 	<key>hardsign-cy.loclBGR</key>
 	<string>hardsign-cy.loclB_G_R_.glif</string>
+	<key>hardsign-cy.sc</key>
+	<string>hardsign-cy.sc.glif</string>
 	<key>hbar</key>
 	<string>hbar.glif</string>
+	<key>hbar.sc</key>
+	<string>hbar.sc.glif</string>
 	<key>hdotbelow</key>
 	<string>hdotbelow.glif</string>
+	<key>hdotbelow.sc</key>
+	<string>hdotbelow.sc.glif</string>
 	<key>he-hira</key>
 	<string>he-hira.glif</string>
 	<key>he-kata</key>
@@ -1914,6 +2108,8 @@
 	<string>hookabovecomb.glif</string>
 	<key>horncomb</key>
 	<string>horncomb.glif</string>
+	<key>hturned.sc</key>
+	<string>hturned.sc.glif</string>
 	<key>hu-hira</key>
 	<string>hu-hira.glif</string>
 	<key>hu-kata</key>
@@ -1930,54 +2126,84 @@
 	<string>i.glif</string>
 	<key>i-cy</key>
 	<string>i-cy.glif</string>
+	<key>i-cy.sc</key>
+	<string>i-cy.sc.glif</string>
 	<key>i-hira</key>
 	<string>i-hira.glif</string>
 	<key>i-kata</key>
 	<string>i-kata.glif</string>
+	<key>i.sc</key>
+	<string>i.sc.glif</string>
+	<key>iJ.sc.001</key>
+	<string>iJ_.sc.001.glif</string>
 	<key>iJung-ko</key>
 	<string>iJ_ung-ko.glif</string>
 	<key>ia-cy</key>
 	<string>ia-cy.glif</string>
 	<key>iacute</key>
 	<string>iacute.glif</string>
+	<key>iacute.sc</key>
+	<string>iacute.sc.glif</string>
 	<key>icaron</key>
 	<string>icaron.glif</string>
+	<key>icaron.sc</key>
+	<string>icaron.sc.glif</string>
 	<key>icircumflex</key>
 	<string>icircumflex.glif</string>
+	<key>icircumflex.sc</key>
+	<string>icircumflex.sc.glif</string>
 	<key>idieresis</key>
 	<string>idieresis.glif</string>
+	<key>idieresis.sc</key>
+	<string>idieresis.sc.glif</string>
 	<key>idieresisacute</key>
 	<string>idieresisacute.glif</string>
+	<key>idieresisacute.sc</key>
+	<string>idieresisacute.sc.glif</string>
 	<key>idotaccent</key>
 	<string>idotaccent.glif</string>
 	<key>idotless</key>
 	<string>idotless.glif</string>
 	<key>ie-cy</key>
 	<string>ie-cy.glif</string>
+	<key>ie-cy.sc</key>
+	<string>ie-cy.sc.glif</string>
 	<key>iegrave-cy</key>
 	<string>iegrave-cy.glif</string>
+	<key>iegrave-cy.sc</key>
+	<string>iegrave-cy.sc.glif</string>
 	<key>ieungCho-ko</key>
 	<string>ieungC_ho-ko.glif</string>
 	<key>ieungJong-ko</key>
 	<string>ieungJ_ong-ko.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
+	<key>igrave.sc</key>
+	<string>igrave.sc.glif</string>
 	<key>ii-cy</key>
 	<string>ii-cy.glif</string>
 	<key>ii-cy.loclBGR</key>
 	<string>ii-cy.loclB_G_R_.glif</string>
+	<key>ii-cy.sc</key>
+	<string>ii-cy.sc.glif</string>
 	<key>iigrave-cy</key>
 	<string>iigrave-cy.glif</string>
 	<key>iigrave-cy.loclBGR</key>
 	<string>iigrave-cy.loclB_G_R_.glif</string>
+	<key>iigrave-cy.sc</key>
+	<string>iigrave-cy.sc.glif</string>
 	<key>iishort-cy</key>
 	<string>iishort-cy.glif</string>
 	<key>iishort-cy.loclBGR</key>
 	<string>iishort-cy.loclB_G_R_.glif</string>
+	<key>iishort-cy.sc</key>
+	<string>iishort-cy.sc.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
 	<key>imacron</key>
 	<string>imacron.glif</string>
+	<key>imacron.sc</key>
+	<string>imacron.sc.glif</string>
 	<key>infinity</key>
 	<string>infinity.glif</string>
 	<key>integral</key>
@@ -1986,16 +2212,26 @@
 	<string>intersyllabictsheg-tibet.glif</string>
 	<key>io-cy</key>
 	<string>io-cy.glif</string>
+	<key>io-cy.sc</key>
+	<string>io-cy.sc.glif</string>
 	<key>iogonek</key>
 	<string>iogonek.glif</string>
+	<key>iogonek.sc</key>
+	<string>iogonek.sc.glif</string>
 	<key>iota</key>
 	<string>iota.glif</string>
+	<key>iota.sc</key>
+	<string>iota.sc.glif</string>
 	<key>iotadieresis</key>
 	<string>iotadieresis.glif</string>
+	<key>iotadieresis.sc</key>
+	<string>iotadieresis.sc.glif</string>
 	<key>iotadieresistonos</key>
 	<string>iotadieresistonos.glif</string>
 	<key>iotatonos</key>
 	<string>iotatonos.glif</string>
+	<key>iotatonos.sc</key>
+	<string>iotatonos.sc.glif</string>
 	<key>ismall-hira</key>
 	<string>ismall-hira.glif</string>
 	<key>ismall-kata</key>
@@ -2006,22 +2242,32 @@
 	<string>iteration-kata.glif</string>
 	<key>itilde</key>
 	<string>itilde.glif</string>
+	<key>itilde.sc</key>
+	<string>itilde.sc.glif</string>
 	<key>iu-cy</key>
 	<string>iu-cy.glif</string>
 	<key>j</key>
 	<string>j.glif</string>
+	<key>j.sc</key>
+	<string>j.sc.glif</string>
 	<key>ja-tibet</key>
 	<string>ja-tibet.glif</string>
 	<key>je-cy</key>
 	<string>je-cy.glif</string>
+	<key>je-cy.sc</key>
+	<string>je-cy.sc.glif</string>
 	<key>jmod</key>
 	<string>jmod.glif</string>
 	<key>k</key>
 	<string>k.glif</string>
+	<key>k.sc</key>
+	<string>k.sc.glif</string>
 	<key>ka-cy</key>
 	<string>ka-cy.glif</string>
 	<key>ka-cy.loclBGR</key>
 	<string>ka-cy.loclB_G_R_.glif</string>
+	<key>ka-cy.sc</key>
+	<string>ka-cy.sc.glif</string>
 	<key>ka-hira</key>
 	<string>ka-hira.glif</string>
 	<key>ka-kata</key>
@@ -2032,10 +2278,14 @@
 	<string>kaiS_ymbol.glif</string>
 	<key>kappa</key>
 	<string>kappa.glif</string>
+	<key>kappa.sc</key>
+	<string>kappa.sc.glif</string>
 	<key>kasmall-kata</key>
 	<string>kasmall-kata.glif</string>
 	<key>kcommaaccent</key>
 	<string>kcommaaccent.glif</string>
+	<key>kcommaaccent.sc</key>
+	<string>kcommaaccent.sc.glif</string>
 	<key>ke-hira</key>
 	<string>ke-hira.glif</string>
 	<key>ke-kata</key>
@@ -2052,6 +2302,8 @@
 	<string>khieukhJ_ong-ko.glif</string>
 	<key>khook</key>
 	<string>khook.glif</string>
+	<key>khook.sc</key>
+	<string>khook.sc.glif</string>
 	<key>ki-hira</key>
 	<string>ki-hira.glif</string>
 	<key>ki-kata</key>
@@ -2064,6 +2316,8 @@
 	<string>kiyeokS_iosJ_ong-ko.glif</string>
 	<key>kje-cy</key>
 	<string>kje-cy.glif</string>
+	<key>kje-cy.sc</key>
+	<string>kje-cy.sc.glif</string>
 	<key>kka-tibet</key>
 	<string>kka-tibet.glif</string>
 	<key>ko-hira</key>
@@ -2082,20 +2336,32 @@
 	<string>kuR_uK_haB_zhiM_igC_an-tibet.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
+	<key>l.sc</key>
+	<string>l.sc.glif</string>
 	<key>la-tibet</key>
 	<string>la-tibet.glif</string>
 	<key>lacute</key>
 	<string>lacute.glif</string>
+	<key>lacute.sc</key>
+	<string>lacute.sc.glif</string>
 	<key>lambda</key>
 	<string>lambda.glif</string>
+	<key>lambda.sc</key>
+	<string>lambda.sc.glif</string>
 	<key>lcaron</key>
 	<string>lcaron.glif</string>
+	<key>lcaron.sc</key>
+	<string>lcaron.sc.glif</string>
 	<key>lceTsaCan-tibet</key>
 	<string>lceT_saC_an-tibet.glif</string>
 	<key>lcommaaccent</key>
 	<string>lcommaaccent.glif</string>
+	<key>lcommaaccent.sc</key>
+	<string>lcommaaccent.sc.glif</string>
 	<key>ldotbelow</key>
 	<string>ldotbelow.glif</string>
+	<key>ldotbelow.sc</key>
+	<string>ldotbelow.sc.glif</string>
 	<key>leftArrow</key>
 	<string>leftA_rrow.glif</string>
 	<key>leftRightArrow</key>
@@ -2116,6 +2382,8 @@
 	<string>lightB_eat-tibet.glif</string>
 	<key>lje-cy</key>
 	<string>lje-cy.glif</string>
+	<key>lje-cy.sc</key>
+	<string>lje-cy.sc.glif</string>
 	<key>lmod</key>
 	<string>lmod.glif</string>
 	<key>logicalnot</key>
@@ -2136,8 +2404,12 @@
 	<string>lozenge.glif</string>
 	<key>lslash</key>
 	<string>lslash.glif</string>
+	<key>lslash.sc</key>
+	<string>lslash.sc.glif</string>
 	<key>m</key>
 	<string>m.glif</string>
+	<key>m.sc</key>
+	<string>m.sc.glif</string>
 	<key>ma-hira</key>
 	<string>ma-hira.glif</string>
 	<key>ma-kata</key>
@@ -2160,6 +2432,8 @@
 	<string>macrongravecomb.glif</string>
 	<key>macute</key>
 	<string>macute.glif</string>
+	<key>macute.sc</key>
+	<string>macute.sc.glif</string>
 	<key>man-ko</key>
 	<string>man-ko.glif</string>
 	<key>mchanrtagsfina-tibet</key>
@@ -2204,6 +2478,8 @@
 	<string>mu-hira.glif</string>
 	<key>mu-kata</key>
 	<string>mu-kata.glif</string>
+	<key>mu.sc</key>
+	<string>mu.sc.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
@@ -2212,6 +2488,8 @@
 	<string>n-hira.glif</string>
 	<key>n-kata</key>
 	<string>n-kata.glif</string>
+	<key>n.sc</key>
+	<string>n.sc.glif</string>
 	<key>na-hira</key>
 	<string>na-hira.glif</string>
 	<key>na-kata</key>
@@ -2220,6 +2498,8 @@
 	<string>na-tibet.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
+	<key>nacute.sc</key>
+	<string>nacute.sc.glif</string>
 	<key>narrownbspace</key>
 	<string>narrownbspace.glif</string>
 	<key>natural-musical</key>
@@ -2228,12 +2508,20 @@
 	<string>nbspace.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
+	<key>ncaron.sc</key>
+	<string>ncaron.sc.glif</string>
 	<key>ncommaaccent</key>
 	<string>ncommaaccent.glif</string>
+	<key>ncommaaccent.sc</key>
+	<string>ncommaaccent.sc.glif</string>
 	<key>ndotaccent</key>
 	<string>ndotaccent.glif</string>
+	<key>ndotaccent.sc</key>
+	<string>ndotaccent.sc.glif</string>
 	<key>ndotbelow</key>
 	<string>ndotbelow.glif</string>
+	<key>ndotbelow.sc</key>
+	<string>ndotbelow.sc.glif</string>
 	<key>ne-hira</key>
 	<string>ne-hira.glif</string>
 	<key>ne-kata</key>
@@ -2274,6 +2562,8 @@
 	<string>ninesuperior.glif</string>
 	<key>nje-cy</key>
 	<string>nje-cy.glif</string>
+	<key>nje-cy.sc</key>
+	<string>nje-cy.sc.glif</string>
 	<key>nmod</key>
 	<string>nmod.glif</string>
 	<key>nna-tibet</key>
@@ -2304,12 +2594,16 @@
 	<string>nottildeabovecomb.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
+	<key>ntilde.sc</key>
+	<string>ntilde.sc.glif</string>
 	<key>nu</key>
 	<string>nu.glif</string>
 	<key>nu-hira</key>
 	<string>nu-hira.glif</string>
 	<key>nu-kata</key>
 	<string>nu-kata.glif</string>
+	<key>nu.sc</key>
+	<string>nu.sc.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>numeral-greek</key>
@@ -2328,28 +2622,48 @@
 	<string>o.glif</string>
 	<key>o-cy</key>
 	<string>o-cy.glif</string>
+	<key>o-cy.sc</key>
+	<string>o-cy.sc.glif</string>
 	<key>o-hira</key>
 	<string>o-hira.glif</string>
 	<key>o-kata</key>
 	<string>o-kata.glif</string>
+	<key>o.sc</key>
+	<string>o.sc.glif</string>
 	<key>oJung-ko</key>
 	<string>oJ_ung-ko.glif</string>
 	<key>oacute</key>
 	<string>oacute.glif</string>
+	<key>oacute.sc</key>
+	<string>oacute.sc.glif</string>
 	<key>ocaron</key>
 	<string>ocaron.glif</string>
+	<key>ocaron.sc</key>
+	<string>ocaron.sc.glif</string>
 	<key>ocircumflex</key>
 	<string>ocircumflex.glif</string>
+	<key>ocircumflex.sc</key>
+	<string>ocircumflex.sc.glif</string>
 	<key>ocircumflexacute</key>
 	<string>ocircumflexacute.glif</string>
+	<key>ocircumflexacute.sc</key>
+	<string>ocircumflexacute.sc.glif</string>
 	<key>ocircumflexgrave</key>
 	<string>ocircumflexgrave.glif</string>
+	<key>ocircumflexgrave.sc</key>
+	<string>ocircumflexgrave.sc.glif</string>
 	<key>ocircumflextilde</key>
 	<string>ocircumflextilde.glif</string>
+	<key>ocircumflextilde.sc</key>
+	<string>ocircumflextilde.sc.glif</string>
 	<key>odieresis</key>
 	<string>odieresis.glif</string>
+	<key>odieresis.sc</key>
+	<string>odieresis.sc.glif</string>
 	<key>odieresismacron</key>
 	<string>odieresismacron.glif</string>
+	<key>odieresismacron.sc</key>
+	<string>odieresismacron.sc.glif</string>
 	<key>oe</key>
 	<string>oe.glif</string>
 	<key>oeJung-ko</key>
@@ -2360,24 +2674,42 @@
 	<string>ogonekcomb.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
+	<key>ograve.sc</key>
+	<string>ograve.sc.glif</string>
 	<key>ohungarumlaut</key>
 	<string>ohungarumlaut.glif</string>
+	<key>ohungarumlaut.sc</key>
+	<string>ohungarumlaut.sc.glif</string>
 	<key>om-tibet</key>
 	<string>om-tibet.glif</string>
 	<key>omacron</key>
 	<string>omacron.glif</string>
+	<key>omacron.sc</key>
+	<string>omacron.sc.glif</string>
 	<key>omacronacute</key>
 	<string>omacronacute.glif</string>
+	<key>omacronacute.sc</key>
+	<string>omacronacute.sc.glif</string>
 	<key>omacrongrave</key>
 	<string>omacrongrave.glif</string>
+	<key>omacrongrave.sc</key>
+	<string>omacrongrave.sc.glif</string>
 	<key>omega</key>
 	<string>omega.glif</string>
+	<key>omega.sc</key>
+	<string>omega.sc.glif</string>
 	<key>omegatonos</key>
 	<string>omegatonos.glif</string>
+	<key>omegatonos.sc</key>
+	<string>omegatonos.sc.glif</string>
 	<key>omicron</key>
 	<string>omicron.glif</string>
+	<key>omicron.sc</key>
+	<string>omicron.sc.glif</string>
 	<key>omicrontonos</key>
 	<string>omicrontonos.glif</string>
+	<key>omicrontonos.sc</key>
+	<string>omicrontonos.sc.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
 	<key>one-tibet</key>
@@ -2424,20 +2756,30 @@
 	<string>ordmasculine.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
+	<key>oslash.sc</key>
+	<string>oslash.sc.glif</string>
 	<key>oslashacute</key>
 	<string>oslashacute.glif</string>
+	<key>oslashacute.sc</key>
+	<string>oslashacute.sc.glif</string>
 	<key>osmall-hira</key>
 	<string>osmall-hira.glif</string>
 	<key>osmall-kata</key>
 	<string>osmall-kata.glif</string>
 	<key>otilde</key>
 	<string>otilde.glif</string>
+	<key>otilde.sc</key>
+	<string>otilde.sc.glif</string>
 	<key>otildeacute</key>
 	<string>otildeacute.glif</string>
+	<key>otildeacute.sc</key>
+	<string>otildeacute.sc.glif</string>
 	<key>overlinecomb</key>
 	<string>overlinecomb.glif</string>
 	<key>p</key>
 	<string>p.glif</string>
+	<key>p.sc</key>
+	<string>p.sc.glif</string>
 	<key>pa-hira</key>
 	<string>pa-hira.glif</string>
 	<key>pa-kata</key>
@@ -2466,6 +2808,8 @@
 	<string>pe-cy.glif</string>
 	<key>pe-cy.loclBGR</key>
 	<string>pe-cy.loclB_G_R_.glif</string>
+	<key>pe-cy.sc</key>
+	<string>pe-cy.sc.glif</string>
 	<key>pe-hira</key>
 	<string>pe-hira.glif</string>
 	<key>pe-kata</key>
@@ -2486,6 +2830,8 @@
 	<string>pha-tibet.glif</string>
 	<key>phi</key>
 	<string>phi.glif</string>
+	<key>phi.sc</key>
+	<string>phi.sc.glif</string>
 	<key>phieuphCho-ko</key>
 	<string>phieuphC_ho-ko.glif</string>
 	<key>phieuphJong-ko</key>
@@ -2498,6 +2844,8 @@
 	<string>pi-hira.glif</string>
 	<key>pi-kata</key>
 	<string>pi-kata.glif</string>
+	<key>pi.sc</key>
+	<string>pi.sc.glif</string>
 	<key>pieupCho-ko</key>
 	<string>pieupC_ho-ko.glif</string>
 	<key>pieupJong-ko</key>
@@ -2520,6 +2868,8 @@
 	<string>prolonged-kana.glif</string>
 	<key>psi</key>
 	<string>psi.glif</string>
+	<key>psi.sc</key>
+	<string>psi.sc.glif</string>
 	<key>pu-hira</key>
 	<string>pu-hira.glif</string>
 	<key>pu-kata</key>
@@ -2530,6 +2880,10 @@
 	<string>punctuationspace.glif</string>
 	<key>q</key>
 	<string>q.glif</string>
+	<key>q.sc</key>
+	<string>q.sc.glif</string>
+	<key>q.ss03.sc</key>
+	<string>q.ss03.sc.glif</string>
 	<key>quarternote-musical</key>
 	<string>quarternote-musical.glif</string>
 	<key>question</key>
@@ -2562,6 +2916,8 @@
 	<string>quotesingle.full.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
+	<key>r.sc</key>
+	<string>r.sc.glif</string>
 	<key>ra-hira</key>
 	<string>ra-hira.glif</string>
 	<key>ra-kata</key>
@@ -2572,6 +2928,8 @@
 	<string>raF_ixedform-tibet.glif</string>
 	<key>racute</key>
 	<string>racute.glif</string>
+	<key>racute.sc</key>
+	<string>racute.sc.glif</string>
 	<key>radical</key>
 	<string>radical.glif</string>
 	<key>raiseddownarrowmod</key>
@@ -2580,8 +2938,12 @@
 	<string>raiseduparrowmod.glif</string>
 	<key>rcaron</key>
 	<string>rcaron.glif</string>
+	<key>rcaron.sc</key>
+	<string>rcaron.sc.glif</string>
 	<key>rcommaaccent</key>
 	<string>rcommaaccent.glif</string>
+	<key>rcommaaccent.sc</key>
+	<string>rcommaaccent.sc.glif</string>
 	<key>rdelDkarGcig-tibet</key>
 	<string>rdelD_karG_cig-tibet.glif</string>
 	<key>rdelDkarGnyis-tibet</key>
@@ -2612,6 +2974,8 @@
 	<string>rgyagramshad-tibet.glif</string>
 	<key>rho</key>
 	<string>rho.glif</string>
+	<key>rho.sc</key>
+	<string>rho.sc.glif</string>
 	<key>rhotichookmod</key>
 	<string>rhotichookmod.glif</string>
 	<key>ri-hira</key>
@@ -2672,8 +3036,12 @@
 	<string>ru-kata.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
+	<key>s.sc</key>
+	<string>s.sc.glif</string>
 	<key>s.ss02</key>
 	<string>s.ss02.glif</string>
+	<key>s.ss02.sc</key>
+	<string>s.ss02.sc.glif</string>
 	<key>sa-hira</key>
 	<string>sa-hira.glif</string>
 	<key>sa-kata</key>
@@ -2682,26 +3050,46 @@
 	<string>sa-tibet.glif</string>
 	<key>sacute</key>
 	<string>sacute.glif</string>
+	<key>sacute.sc</key>
+	<string>sacute.sc.glif</string>
 	<key>sacute.ss02</key>
 	<string>sacute.ss02.glif</string>
+	<key>sacute.ss02.sc</key>
+	<string>sacute.ss02.sc.glif</string>
 	<key>sbrulshad-tibet</key>
 	<string>sbrulshad-tibet.glif</string>
 	<key>sbubChal-tibet</key>
 	<string>sbubC_hal-tibet.glif</string>
 	<key>scaron</key>
 	<string>scaron.glif</string>
+	<key>scaron.sc</key>
+	<string>scaron.sc.glif</string>
 	<key>scaron.ss02</key>
 	<string>scaron.ss02.glif</string>
+	<key>scaron.ss02.sc</key>
+	<string>scaron.ss02.sc.glif</string>
 	<key>scedilla</key>
 	<string>scedilla.glif</string>
+	<key>scedilla.sc</key>
+	<string>scedilla.sc.glif</string>
 	<key>scedilla.ss02</key>
 	<string>scedilla.ss02.glif</string>
+	<key>scedilla.ss02.sc</key>
+	<string>scedilla.ss02.sc.glif</string>
 	<key>scommaaccent</key>
 	<string>scommaaccent.glif</string>
+	<key>scommaaccent.sc</key>
+	<string>scommaaccent.sc.glif</string>
 	<key>scommaaccent.ss02</key>
 	<string>scommaaccent.ss02.glif</string>
+	<key>scommaaccent.ss02.sc</key>
+	<string>scommaaccent.ss02.sc.glif</string>
 	<key>sdotbelow</key>
 	<string>sdotbelow.glif</string>
+	<key>sdotbelow.sc</key>
+	<string>sdotbelow.sc.glif</string>
+	<key>sdotbelow.ss02.sc</key>
+	<string>sdotbelow.ss02.sc.glif</string>
 	<key>se-hira</key>
 	<string>se-hira.glif</string>
 	<key>se-kata</key>
@@ -2742,6 +3130,8 @@
 	<string>sha-cy.glif</string>
 	<key>sha-cy.loclBGR</key>
 	<string>sha-cy.loclB_G_R_.glif</string>
+	<key>sha-cy.sc</key>
+	<string>sha-cy.sc.glif</string>
 	<key>sha-tibet</key>
 	<string>sha-tibet.glif</string>
 	<key>shad-tibet</key>
@@ -2752,12 +3142,16 @@
 	<string>shcha-cy.glif</string>
 	<key>shcha-cy.loclBGR</key>
 	<string>shcha-cy.loclB_G_R_.glif</string>
+	<key>shcha-cy.sc</key>
+	<string>shcha-cy.sc.glif</string>
 	<key>si-hira</key>
 	<string>si-hira.glif</string>
 	<key>si-kata</key>
 	<string>si-kata.glif</string>
 	<key>sigma</key>
 	<string>sigma.glif</string>
+	<key>sigma.sc</key>
+	<string>sigma.sc.glif</string>
 	<key>sigmafinal</key>
 	<string>sigmafinal.glif</string>
 	<key>siosCho-ko</key>
@@ -2802,6 +3196,8 @@
 	<string>softsign-cy.glif</string>
 	<key>softsign-cy.loclBGR</key>
 	<string>softsign-cy.loclB_G_R_.glif</string>
+	<key>softsign-cy.sc</key>
+	<string>softsign-cy.sc.glif</string>
 	<key>southEastArrow</key>
 	<string>southE_astA_rrow.glif</string>
 	<key>southWestArrow</key>
@@ -2840,6 +3236,8 @@
 	<string>summation.glif</string>
 	<key>t</key>
 	<string>t.glif</string>
+	<key>t.sc</key>
+	<string>t.sc.glif</string>
 	<key>ta-hira</key>
 	<string>ta-hira.glif</string>
 	<key>ta-kata</key>
@@ -2848,20 +3246,34 @@
 	<string>ta-tibet.glif</string>
 	<key>tau</key>
 	<string>tau.glif</string>
+	<key>tau.sc</key>
+	<string>tau.sc.glif</string>
 	<key>tbar</key>
 	<string>tbar.glif</string>
+	<key>tbar.sc</key>
+	<string>tbar.sc.glif</string>
 	<key>tcaron</key>
 	<string>tcaron.glif</string>
+	<key>tcaron.sc</key>
+	<string>tcaron.sc.glif</string>
 	<key>tcedilla</key>
 	<string>tcedilla.glif</string>
+	<key>tcedilla.sc</key>
+	<string>tcedilla.sc.glif</string>
 	<key>tcommaaccent</key>
 	<string>tcommaaccent.glif</string>
+	<key>tcommaaccent.sc</key>
+	<string>tcommaaccent.sc.glif</string>
 	<key>tdotbelow</key>
 	<string>tdotbelow.glif</string>
+	<key>tdotbelow.sc</key>
+	<string>tdotbelow.sc.glif</string>
 	<key>te-cy</key>
 	<string>te-cy.glif</string>
 	<key>te-cy.loclBGR</key>
 	<string>te-cy.loclB_G_R_.glif</string>
+	<key>te-cy.sc</key>
+	<string>te-cy.sc.glif</string>
 	<key>te-hira</key>
 	<string>te-hira.glif</string>
 	<key>te-kata</key>
@@ -2870,6 +3282,8 @@
 	<string>tha-tibet.glif</string>
 	<key>theta</key>
 	<string>theta.glif</string>
+	<key>theta.sc</key>
+	<string>theta.sc.glif</string>
 	<key>thieuthCho-ko</key>
 	<string>thieuthC_ho-ko.glif</string>
 	<key>thieuthJong-ko</key>
@@ -2878,6 +3292,8 @@
 	<string>thinspace.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
+	<key>thorn.sc</key>
+	<string>thorn.sc.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
 	<key>three-tibet</key>
@@ -2952,10 +3368,14 @@
 	<string>tse-cy.glif</string>
 	<key>tse-cy.loclBGR</key>
 	<string>tse-cy.loclB_G_R_.glif</string>
+	<key>tse-cy.sc</key>
+	<string>tse-cy.sc.glif</string>
 	<key>tsha-tibet</key>
 	<string>tsha-tibet.glif</string>
 	<key>tshe-cy</key>
 	<string>tshe-cy.glif</string>
+	<key>tshe-cy.sc</key>
+	<string>tshe-cy.sc.glif</string>
 	<key>tshegshad-tibet</key>
 	<string>tshegshad-tibet.glif</string>
 	<key>tta-tibet</key>
@@ -2998,34 +3418,60 @@
 	<string>u.glif</string>
 	<key>u-cy</key>
 	<string>u-cy.glif</string>
+	<key>u-cy.sc</key>
+	<string>u-cy.sc.glif</string>
 	<key>u-hira</key>
 	<string>u-hira.glif</string>
 	<key>u-kata</key>
 	<string>u-kata.glif</string>
+	<key>u.sc</key>
+	<string>u.sc.glif</string>
 	<key>uJung-ko</key>
 	<string>uJ_ung-ko.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
+	<key>uacute.sc</key>
+	<string>uacute.sc.glif</string>
 	<key>ucaron</key>
 	<string>ucaron.glif</string>
+	<key>ucaron.sc</key>
+	<string>ucaron.sc.glif</string>
 	<key>ucircumflex</key>
 	<string>ucircumflex.glif</string>
+	<key>ucircumflex.sc</key>
+	<string>ucircumflex.sc.glif</string>
 	<key>udieresis</key>
 	<string>udieresis.glif</string>
+	<key>udieresis.sc</key>
+	<string>udieresis.sc.glif</string>
 	<key>udieresisacute</key>
 	<string>udieresisacute.glif</string>
+	<key>udieresisacute.sc</key>
+	<string>udieresisacute.sc.glif</string>
 	<key>udieresiscaron</key>
 	<string>udieresiscaron.glif</string>
+	<key>udieresiscaron.sc</key>
+	<string>udieresiscaron.sc.glif</string>
 	<key>udieresisgrave</key>
 	<string>udieresisgrave.glif</string>
+	<key>udieresisgrave.sc</key>
+	<string>udieresisgrave.sc.glif</string>
 	<key>udieresismacron</key>
 	<string>udieresismacron.glif</string>
+	<key>udieresismacron.sc</key>
+	<string>udieresismacron.sc.glif</string>
 	<key>ugrave</key>
 	<string>ugrave.glif</string>
+	<key>ugrave.sc</key>
+	<string>ugrave.sc.glif</string>
 	<key>uhungarumlaut</key>
 	<string>uhungarumlaut.glif</string>
+	<key>uhungarumlaut.sc</key>
+	<string>uhungarumlaut.sc.glif</string>
 	<key>umacron</key>
 	<string>umacron.glif</string>
+	<key>umacron.sc</key>
+	<string>umacron.sc.glif</string>
 	<key>unaspiratedmod</key>
 	<string>unaspiratedmod.glif</string>
 	<key>underscore</key>
@@ -3346,36 +3792,52 @@
 	<string>uni9E_70.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
+	<key>uogonek.sc</key>
+	<string>uogonek.sc.glif</string>
 	<key>upArrow</key>
 	<string>upA_rrow.glif</string>
 	<key>upDownArrow</key>
 	<string>upD_ownA_rrow.glif</string>
 	<key>upsilon</key>
 	<string>upsilon.glif</string>
+	<key>upsilon.sc</key>
+	<string>upsilon.sc.glif</string>
 	<key>upsilondieresis</key>
 	<string>upsilondieresis.glif</string>
+	<key>upsilondieresis.sc</key>
+	<string>upsilondieresis.sc.glif</string>
 	<key>upsilondieresistonos</key>
 	<string>upsilondieresistonos.glif</string>
 	<key>upsilontonos</key>
 	<string>upsilontonos.glif</string>
+	<key>upsilontonos.sc</key>
+	<string>upsilontonos.sc.glif</string>
 	<key>uptackbelowcomb</key>
 	<string>uptackbelowcomb.glif</string>
 	<key>uring</key>
 	<string>uring.glif</string>
+	<key>uring.sc</key>
+	<string>uring.sc.glif</string>
 	<key>usmall-hira</key>
 	<string>usmall-hira.glif</string>
 	<key>usmall-kata</key>
 	<string>usmall-kata.glif</string>
 	<key>utilde</key>
 	<string>utilde.glif</string>
+	<key>utilde.sc</key>
+	<string>utilde.sc.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
+	<key>v.sc</key>
+	<string>v.sc.glif</string>
 	<key>va-kata</key>
 	<string>va-kata.glif</string>
 	<key>ve-cy</key>
 	<string>ve-cy.glif</string>
 	<key>ve-cy.loclBGR</key>
 	<string>ve-cy.loclB_G_R_.glif</string>
+	<key>ve-cy.sc</key>
+	<string>ve-cy.sc.glif</string>
 	<key>ve-kata</key>
 	<string>ve-kata.glif</string>
 	<key>verticallinebelowcomb</key>
@@ -3400,6 +3862,8 @@
 	<string>vu-kata.glif</string>
 	<key>w</key>
 	<string>w.glif</string>
+	<key>w.sc</key>
+	<string>w.sc.glif</string>
 	<key>wa-hira</key>
 	<string>wa-hira.glif</string>
 	<key>wa-kata</key>
@@ -3410,6 +3874,8 @@
 	<string>waJ_ung-ko.glif</string>
 	<key>wacute</key>
 	<string>wacute.glif</string>
+	<key>wacute.sc</key>
+	<string>wacute.sc.glif</string>
 	<key>waeJung-ko</key>
 	<string>waeJ_ung-ko.glif</string>
 	<key>wasmall-hira</key>
@@ -3420,8 +3886,12 @@
 	<string>wavedash.glif</string>
 	<key>wcircumflex</key>
 	<string>wcircumflex.glif</string>
+	<key>wcircumflex.sc</key>
+	<string>wcircumflex.sc.glif</string>
 	<key>wdieresis</key>
 	<string>wdieresis.glif</string>
+	<key>wdieresis.sc</key>
+	<string>wdieresis.sc.glif</string>
 	<key>we-hira</key>
 	<string>we-hira.glif</string>
 	<key>we-kata</key>
@@ -3432,6 +3902,8 @@
 	<string>weoJ_ung-ko.glif</string>
 	<key>wgrave</key>
 	<string>wgrave.glif</string>
+	<key>wgrave.sc</key>
+	<string>wgrave.sc.glif</string>
 	<key>whitecornerbracketleft</key>
 	<string>whitecornerbracketleft.glif</string>
 	<key>whitecornerbracketright</key>
@@ -3456,12 +3928,20 @@
 	<string>won.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
+	<key>x.sc</key>
+	<string>x.sc.glif</string>
 	<key>xabovecomb</key>
 	<string>xabovecomb.glif</string>
 	<key>xi</key>
 	<string>xi.glif</string>
+	<key>xi.sc</key>
+	<string>xi.sc.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
+	<key>y.sc</key>
+	<string>y.sc.glif</string>
+	<key>ya-cy.sc</key>
+	<string>ya-cy.sc.glif</string>
 	<key>ya-hira</key>
 	<string>ya-hira.glif</string>
 	<key>ya-kata</key>
@@ -3472,6 +3952,8 @@
 	<string>yaJ_ung-ko.glif</string>
 	<key>yacute</key>
 	<string>yacute.glif</string>
+	<key>yacute.sc</key>
+	<string>yacute.sc.glif</string>
 	<key>yaeJung-ko</key>
 	<string>yaeJ_ung-ko.glif</string>
 	<key>yasmall-hira</key>
@@ -3480,10 +3962,16 @@
 	<string>yasmall-kata.glif</string>
 	<key>yat-cy</key>
 	<string>yat-cy.glif</string>
+	<key>yat-cy.sc</key>
+	<string>yat-cy.sc.glif</string>
 	<key>ycircumflex</key>
 	<string>ycircumflex.glif</string>
+	<key>ycircumflex.sc</key>
+	<string>ycircumflex.sc.glif</string>
 	<key>ydieresis</key>
 	<string>ydieresis.glif</string>
+	<key>ydieresis.sc</key>
+	<string>ydieresis.sc.glif</string>
 	<key>yeJung-ko</key>
 	<string>yeJ_ung-ko.glif</string>
 	<key>yen</key>
@@ -3492,10 +3980,16 @@
 	<string>yeoJ_ung-ko.glif</string>
 	<key>yeru-cy</key>
 	<string>yeru-cy.glif</string>
+	<key>yeru-cy.sc</key>
+	<string>yeru-cy.sc.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
+	<key>ygrave.sc</key>
+	<string>ygrave.sc.glif</string>
 	<key>yi-cy</key>
 	<string>yi-cy.glif</string>
+	<key>yi-cy.sc</key>
+	<string>yi-cy.sc.glif</string>
 	<key>yiJung-ko</key>
 	<string>yiJ_ung-ko.glif</string>
 	<key>yigMgoMdunMa-tibet</key>
@@ -3516,8 +4010,12 @@
 	<string>yosmall-kata.glif</string>
 	<key>ytilde</key>
 	<string>ytilde.glif</string>
+	<key>ytilde.sc</key>
+	<string>ytilde.sc.glif</string>
 	<key>yu-cy.loclBGR</key>
 	<string>yu-cy.loclB_G_R_.glif</string>
+	<key>yu-cy.sc</key>
+	<string>yu-cy.sc.glif</string>
 	<key>yu-hira</key>
 	<string>yu-hira.glif</string>
 	<key>yu-kata</key>
@@ -3526,12 +4024,16 @@
 	<string>yuJ_ung-ko.glif</string>
 	<key>yusbig-cy</key>
 	<string>yusbig-cy.glif</string>
+	<key>yusbig-cy.sc</key>
+	<string>yusbig-cy.sc.glif</string>
 	<key>yusmall-hira</key>
 	<string>yusmall-hira.glif</string>
 	<key>yusmall-kata</key>
 	<string>yusmall-kata.glif</string>
 	<key>z</key>
 	<string>z.glif</string>
+	<key>z.sc</key>
+	<string>z.sc.glif</string>
 	<key>za-hira</key>
 	<string>za-hira.glif</string>
 	<key>za-kata</key>
@@ -3540,16 +4042,26 @@
 	<string>za-tibet.glif</string>
 	<key>zacute</key>
 	<string>zacute.glif</string>
+	<key>zacute.sc</key>
+	<string>zacute.sc.glif</string>
 	<key>zcaron</key>
 	<string>zcaron.glif</string>
+	<key>zcaron.sc</key>
+	<string>zcaron.sc.glif</string>
 	<key>zdotaccent</key>
 	<string>zdotaccent.glif</string>
+	<key>zdotaccent.sc</key>
+	<string>zdotaccent.sc.glif</string>
 	<key>zdotbelow</key>
 	<string>zdotbelow.glif</string>
+	<key>zdotbelow.sc</key>
+	<string>zdotbelow.sc.glif</string>
 	<key>ze-cy</key>
 	<string>ze-cy.glif</string>
 	<key>ze-cy.loclBGR</key>
 	<string>ze-cy.loclB_G_R_.glif</string>
+	<key>ze-cy.sc</key>
+	<string>ze-cy.sc.glif</string>
 	<key>ze-hira</key>
 	<string>ze-hira.glif</string>
 	<key>ze-kata</key>
@@ -3600,12 +4112,16 @@
 	<string>zerowidthspace.glif</string>
 	<key>zeta</key>
 	<string>zeta.glif</string>
+	<key>zeta.sc</key>
+	<string>zeta.sc.glif</string>
 	<key>zha-tibet</key>
 	<string>zha-tibet.glif</string>
 	<key>zhe-cy</key>
 	<string>zhe-cy.glif</string>
 	<key>zhe-cy.loclBGR</key>
 	<string>zhe-cy.loclB_G_R_.glif</string>
+	<key>zhe-cy.sc</key>
+	<string>zhe-cy.sc.glif</string>
 	<key>zi-hira</key>
 	<string>zi-hira.glif</string>
 	<key>zi-kata</key>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="q.sc" format="2">
+	<advance width="732"/>
+	<outline>
+		<contour>
+			<point x="604" y="-147" type="curve"/>
+			<point x="623" y="-128"/>
+			<point x="649" y="-102"/>
+			<point x="679" y="-74" type="curve"/>
+			<point x="600" y="-29"/>
+			<point x="558" y="-5"/>
+			<point x="504" y="43" type="curve"/>
+			<point x="394" y="43" type="line"/>
+			<point x="450" y="-29"/>
+			<point x="526" y="-110"/>
+		</contour>
+	</outline>
+</glyph>

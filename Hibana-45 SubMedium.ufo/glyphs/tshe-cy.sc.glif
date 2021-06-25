@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tshe-cy.sc" format="2">
+	<advance width="778"/>
+	<outline>
+		<component base="T.sc"/>
+		<component base="Che-cy.sc" xScale="-1" yScale="-1" xOffset="800" yOffset="575"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>Che-cy.sc</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>T.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>n</string>
+		</dict>
+	</lib>
+</glyph>

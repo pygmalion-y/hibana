@@ -48,12 +48,36 @@
 		<string>Aogonek.sc</string>
 		<string>Aring.sc</string>
 		<string>Atilde.sc</string>
+		<string>a.sc</string>
+		<string>aacute.sc</string>
+		<string>abreve.sc</string>
+		<string>abreveacute.sc</string>
+		<string>abrevegrave.sc</string>
+		<string>abrevetilde.sc</string>
+		<string>acaron.sc</string>
+		<string>acircumflex.sc</string>
+		<string>acircumflexacute.sc</string>
+		<string>acircumflexgrave.sc</string>
+		<string>acircumflextilde.sc</string>
+		<string>adieresis.sc</string>
+		<string>adieresismacron.sc</string>
+		<string>agrave.sc</string>
+		<string>amacron.sc</string>
+		<string>aogonek.sc</string>
+		<string>aring.sc</string>
+		<string>atilde.sc</string>
 		<string>A-cy.sc</string>
+		<string>a-cy.sc</string>
 		<string>El-cy.loclBGR.sc</string>
+		<string>el-cy.loclbgr.sc</string>
 		<string>Alpha.sc</string>
 		<string>Delta.sc</string>
 		<string>Lambda.sc</string>
+		<string>alpha.sc</string>
+		<string>delta.sc</string>
+		<string>lambda.sc</string>
 		<string>Alphatonos.sc</string>
+		<string>alphatonos.sc</string>
 	</array>
 	<key>public.kern1.B</key>
 	<array>
@@ -71,13 +95,20 @@
 		<string>B.sc</string>
 		<string>Bdotbelow.sc</string>
 		<string>Germandbls.sc</string>
+		<string>b.sc</string>
+		<string>bdotbelow.sc</string>
+		<string>germandbls.sc</string>
 		<string>Ve-cy.sc</string>
 		<string>Ze-cy.sc</string>
+		<string>ve-cy.sc</string>
+		<string>ze-cy.sc</string>
 		<string>Beta.sc</string>
+		<string>beta.sc</string>
 	</array>
 	<key>public.kern1.Be-cy.sc</key>
 	<array>
 		<string>Be-cy.sc</string>
+		<string>be-cy.sc</string>
 	</array>
 	<key>public.kern1.Becyrillic</key>
 	<array>
@@ -100,7 +131,13 @@
 		<string>Ccaron.sc</string>
 		<string>Ccedilla.sc</string>
 		<string>Cdotaccent.sc</string>
+		<string>c.sc</string>
+		<string>cacute.sc</string>
+		<string>ccaron.sc</string>
+		<string>ccedilla.sc</string>
+		<string>cdotaccent.sc</string>
 		<string>Es-cy.sc</string>
+		<string>es-cy.sc</string>
 	</array>
 	<key>public.kern1.D</key>
 	<array>
@@ -141,7 +178,11 @@
 		<string>De-cy.sc</string>
 		<string>Tse-cy.sc</string>
 		<string>Shcha-cy.sc</string>
+		<string>de-cy.sc</string>
+		<string>tse-cy.sc</string>
+		<string>shcha-cy.sc</string>
 		<string>De-cy.loclBGR.sc</string>
+		<string>de-cy.loclbgr.sc</string>
 	</array>
 	<key>public.kern1.Decyrillic</key>
 	<array>
@@ -203,12 +244,35 @@
 		<string>Eogonek.sc</string>
 		<string>Etilde.sc</string>
 		<string>OE.sc</string>
+		<string>e.sc</string>
+		<string>eacute.sc</string>
+		<string>ecaron.sc</string>
+		<string>ecedilla.sc</string>
+		<string>ecircumflex.sc</string>
+		<string>ecircumflexacute.sc</string>
+		<string>ecircumflexgrave.sc</string>
+		<string>ecircumflextilde.sc</string>
+		<string>edieresis.sc</string>
+		<string>edotaccent.sc</string>
+		<string>egrave.sc</string>
+		<string>emacron.sc</string>
+		<string>eogonek.sc</string>
+		<string>etilde.sc</string>
 		<string>Ie-cy.sc</string>
 		<string>Iegrave-cy.sc</string>
 		<string>Io-cy.sc</string>
+		<string>ie-cy.sc</string>
+		<string>iegrave-cy.sc</string>
+		<string>io-cy.sc</string>
 		<string>Epsilon.sc</string>
 		<string>Xi.sc</string>
+		<string>epsilon.sc</string>
+		<string>xi.sc</string>
 		<string>Epsilontonos.sc</string>
+		<string>epsilontonos.sc</string>
+		<string>Oe.sc.001</string>
+		<string>aE.sc.001</string>
+		<string>aEacute.sc.001</string>
 	</array>
 	<key>public.kern1.Efcyrillic</key>
 	<array>
@@ -222,6 +286,7 @@
 	<key>public.kern1.F.sc</key>
 	<array>
 		<string>F.sc</string>
+		<string>f.sc</string>
 	</array>
 	<key>public.kern1.G</key>
 	<array>
@@ -243,11 +308,21 @@
 		<string>Gcaron.sc</string>
 		<string>Gcommaaccent.sc</string>
 		<string>Gdotaccent.sc</string>
+		<string>g.sc</string>
+		<string>gbreve.sc</string>
+		<string>gcaron.sc</string>
+		<string>gcommaaccent.sc</string>
+		<string>gdotaccent.sc</string>
 		<string>G.ss02.sc</string>
 		<string>Gbreve.ss02.sc</string>
 		<string>Gcaron.ss02.sc</string>
 		<string>Gcommaaccent.ss02.sc</string>
 		<string>Gdotaccent.ss02.sc</string>
+		<string>g.ss02.sc</string>
+		<string>gbreve.ss02.sc</string>
+		<string>gcaron.ss02.sc</string>
+		<string>gcommaaccent.ss02.sc</string>
+		<string>gdotaccent.ss02.sc</string>
 	</array>
 	<key>public.kern1.Gamma</key>
 	<array>
@@ -258,7 +333,11 @@
 		<string>Ge-cy.sc</string>
 		<string>Gje-cy.sc</string>
 		<string>Gheupturn-cy.sc</string>
+		<string>ge-cy.sc</string>
+		<string>gje-cy.sc</string>
+		<string>geupturn-cy.sc</string>
 		<string>Gamma.sc</string>
+		<string>gamma.sc</string>
 	</array>
 	<key>public.kern1.Gecyrillic</key>
 	<array>
@@ -342,6 +421,30 @@
 		<string>Ndotbelow.sc</string>
 		<string>Ntilde.sc</string>
 		<string>Eng.sc</string>
+		<string>h.sc</string>
+		<string>hbar.sc</string>
+		<string>hdotbelow.sc</string>
+		<string>hturned.sc</string>
+		<string>i.sc</string>
+		<string>iacute.sc</string>
+		<string>icaron.sc</string>
+		<string>icircumflex.sc</string>
+		<string>idieresis.sc</string>
+		<string>idieresisacute.sc</string>
+		<string>igrave.sc</string>
+		<string>imacron.sc</string>
+		<string>iogonek.sc</string>
+		<string>itilde.sc</string>
+		<string>m.sc</string>
+		<string>macute.sc</string>
+		<string>n.sc</string>
+		<string>nacute.sc</string>
+		<string>ncaron.sc</string>
+		<string>ncommaaccent.sc</string>
+		<string>ndotaccent.sc</string>
+		<string>ndotbelow.sc</string>
+		<string>ntilde.sc</string>
+		<string>eng.sc</string>
 		<string>Ii-cy.sc</string>
 		<string>Iishort-cy.sc</string>
 		<string>Iigrave-cy.sc</string>
@@ -356,14 +459,36 @@
 		<string>I-cy.sc</string>
 		<string>Yi-cy.sc</string>
 		<string>Ya-cy.sc</string>
+		<string>ii-cy.sc</string>
+		<string>iishort-cy.sc</string>
+		<string>iigrave-cy.sc</string>
+		<string>el-cy.sc</string>
+		<string>em-cy.sc</string>
+		<string>en-cy.sc</string>
+		<string>pe-cy.sc</string>
+		<string>che-cy.sc</string>
+		<string>sha-cy.sc</string>
+		<string>dzhe-cy.sc</string>
+		<string>yeru-cy.sc</string>
+		<string>i-cy.sc</string>
+		<string>yi-cy.sc</string>
+		<string>ya-cy.sc</string>
 		<string>Eta.sc</string>
 		<string>Iota.sc</string>
 		<string>Mu.sc</string>
 		<string>Nu.sc</string>
 		<string>Pi.sc</string>
+		<string>eta.sc</string>
+		<string>iota.sc</string>
+		<string>mu.sc</string>
+		<string>nu.sc</string>
+		<string>pi.sc</string>
 		<string>Etatonos.sc</string>
 		<string>Iotatonos.sc</string>
 		<string>Iotadieresis.sc</string>
+		<string>iotatonos.sc</string>
+		<string>iotadieresis.sc</string>
+		<string>etatonos.sc</string>
 	</array>
 	<key>public.kern1.Hardsigncyrillic</key>
 	<array>
@@ -383,7 +508,10 @@
 	<array>
 		<string>IJ.sc</string>
 		<string>J.sc</string>
+		<string>j.sc</string>
 		<string>Je-cy.sc</string>
+		<string>je-cy.sc</string>
+		<string>iJ.sc.001</string>
 	</array>
 	<key>public.kern1.K</key>
 	<array>
@@ -402,12 +530,21 @@
 		<string>K.sc</string>
 		<string>Kcommaaccent.sc</string>
 		<string>Khook.sc</string>
+		<string>k.sc</string>
+		<string>kcommaaccent.sc</string>
+		<string>khook.sc</string>
 		<string>Zhe-cy.sc</string>
 		<string>Ka-cy.sc</string>
 		<string>Kje-cy.sc</string>
+		<string>zhe-cy.sc</string>
+		<string>ka-cy.sc</string>
+		<string>kje-cy.sc</string>
 		<string>Yusbig-cy.sc</string>
+		<string>yusbig-cy.sc</string>
 		<string>Kappa.sc</string>
+		<string>kappa.sc</string>
 		<string>KaiSymbol.sc</string>
+		<string>Kaisymbol.sc.001</string>
 	</array>
 	<key>public.kern1.L</key>
 	<array>
@@ -426,6 +563,12 @@
 		<string>Lcommaaccent.sc</string>
 		<string>Ldotbelow.sc</string>
 		<string>Lslash.sc</string>
+		<string>l.sc</string>
+		<string>lacute.sc</string>
+		<string>lcaron.sc</string>
+		<string>lcommaaccent.sc</string>
+		<string>ldotbelow.sc</string>
+		<string>lslash.sc</string>
 	</array>
 	<key>public.kern1.O.sc</key>
 	<array>
@@ -453,17 +596,52 @@
 		<string>Otilde.sc</string>
 		<string>Otildeacute.sc</string>
 		<string>Q.sc</string>
+		<string>d.sc</string>
+		<string>eth.sc</string>
+		<string>dcaron.sc</string>
+		<string>dcroat.sc</string>
+		<string>ddotbelow.sc</string>
+		<string>o.sc</string>
+		<string>oacute.sc</string>
+		<string>ocaron.sc</string>
+		<string>ocircumflex.sc</string>
+		<string>ocircumflexacute.sc</string>
+		<string>ocircumflexgrave.sc</string>
+		<string>ocircumflextilde.sc</string>
+		<string>odieresis.sc</string>
+		<string>odieresismacron.sc</string>
+		<string>ograve.sc</string>
+		<string>ohungarumlaut.sc</string>
+		<string>omacron.sc</string>
+		<string>omacronacute.sc</string>
+		<string>omacrongrave.sc</string>
+		<string>oslash.sc</string>
+		<string>oslashacute.sc</string>
+		<string>otilde.sc</string>
+		<string>otildeacute.sc</string>
+		<string>q.sc</string>
 		<string>Q.ss03.sc</string>
+		<string>q.ss03.sc</string>
 		<string>O-cy.sc</string>
 		<string>Ef-cy.sc</string>
 		<string>E-cy.sc</string>
 		<string>Ereversed-cy.sc</string>
 		<string>Iu-cy.sc</string>
+		<string>o-cy.sc</string>
+		<string>ef-cy.sc</string>
+		<string>e-cy.sc</string>
+		<string>ereversed-cy.sc</string>
+		<string>yu-cy.sc</string>
 		<string>Ef-cy.loclBGR.sc</string>
+		<string>ef-cy.loclbgr.sc</string>
 		<string>Theta.sc</string>
 		<string>Omicron.sc</string>
 		<string>Phi.sc</string>
+		<string>theta.sc</string>
+		<string>omicron.sc</string>
+		<string>phi.sc</string>
 		<string>Omicrontonos.sc</string>
+		<string>omicrontonos.sc</string>
 	</array>
 	<key>public.kern1.Omega</key>
 	<array>
@@ -473,7 +651,9 @@
 	<key>public.kern1.Omega.sc</key>
 	<array>
 		<string>Omega.sc</string>
+		<string>omega.sc</string>
 		<string>Omegatonos.sc</string>
+		<string>omegatonos.sc</string>
 	</array>
 	<key>public.kern1.P</key>
 	<array>
@@ -486,8 +666,12 @@
 	<array>
 		<string>P.sc</string>
 		<string>Thorn.sc</string>
+		<string>p.sc</string>
+		<string>thorn.sc</string>
 		<string>Er-cy.sc</string>
+		<string>er-cy.sc</string>
 		<string>Rho.sc</string>
+		<string>rho.sc</string>
 	</array>
 	<key>public.kern1.Phi</key>
 	<array>
@@ -500,6 +684,7 @@
 	<key>public.kern1.Psi.sc</key>
 	<array>
 		<string>Psi.sc</string>
+		<string>psi.sc</string>
 	</array>
 	<key>public.kern1.R</key>
 	<array>
@@ -514,6 +699,10 @@
 		<string>Racute.sc</string>
 		<string>Rcaron.sc</string>
 		<string>Rcommaaccent.sc</string>
+		<string>r.sc</string>
+		<string>racute.sc</string>
+		<string>rcaron.sc</string>
+		<string>rcommaaccent.sc</string>
 	</array>
 	<key>public.kern1.S</key>
 	<array>
@@ -541,13 +730,26 @@
 		<string>Scedilla.sc</string>
 		<string>Scommaaccent.sc</string>
 		<string>Sdotbelow.sc</string>
+		<string>s.sc</string>
+		<string>sacute.sc</string>
+		<string>scaron.sc</string>
+		<string>scedilla.sc</string>
+		<string>scommaaccent.sc</string>
+		<string>sdotbelow.sc</string>
 		<string>S.ss02.sc</string>
 		<string>Sacute.ss02.sc</string>
 		<string>Scaron.ss02.sc</string>
 		<string>Scedilla.ss02.sc</string>
 		<string>Scommaaccent.ss02.sc</string>
 		<string>Sdotbelow.ss02.sc</string>
+		<string>s.ss02.sc</string>
+		<string>sacute.ss02.sc</string>
+		<string>scaron.ss02.sc</string>
+		<string>scedilla.ss02.sc</string>
+		<string>scommaaccent.ss02.sc</string>
+		<string>sdotbelow.ss02.sc</string>
 		<string>Dze-cy.sc</string>
+		<string>dze-cy.sc</string>
 	</array>
 	<key>public.kern1.Sigma</key>
 	<array>
@@ -556,6 +758,7 @@
 	<key>public.kern1.Sigma.sc</key>
 	<array>
 		<string>Sigma.sc</string>
+		<string>sigma.sc</string>
 	</array>
 	<key>public.kern1.Softsign-cy.sc</key>
 	<array>
@@ -563,7 +766,12 @@
 		<string>Hardsign-cy.sc</string>
 		<string>Lje-cy.sc</string>
 		<string>Nje-cy.sc</string>
+		<string>softsign-cy.sc</string>
+		<string>hardsign-cy.sc</string>
+		<string>lje-cy.sc</string>
+		<string>nje-cy.sc</string>
 		<string>Yat-cy.sc</string>
+		<string>yat-cy.sc</string>
 	</array>
 	<key>public.kern1.T</key>
 	<array>
@@ -584,13 +792,23 @@
 		<string>Tcedilla.sc</string>
 		<string>Tcommaaccent.sc</string>
 		<string>Tdotbelow.sc</string>
+		<string>t.sc</string>
+		<string>tbar.sc</string>
+		<string>tcaron.sc</string>
+		<string>tcedilla.sc</string>
+		<string>tcommaaccent.sc</string>
+		<string>tdotbelow.sc</string>
 		<string>Te-cy.sc</string>
+		<string>te-cy.sc</string>
 		<string>Tau.sc</string>
+		<string>tau.sc</string>
 	</array>
 	<key>public.kern1.Tshe-cy.sc</key>
 	<array>
 		<string>Tshe-cy.sc</string>
 		<string>Dje-cy.sc</string>
+		<string>tshe-cy.sc</string>
+		<string>dje-cy.sc</string>
 	</array>
 	<key>public.kern1.U</key>
 	<array>
@@ -627,6 +845,21 @@
 		<string>Uogonek.sc</string>
 		<string>Uring.sc</string>
 		<string>Utilde.sc</string>
+		<string>u.sc</string>
+		<string>uacute.sc</string>
+		<string>ucaron.sc</string>
+		<string>ucircumflex.sc</string>
+		<string>udieresis.sc</string>
+		<string>udieresisacute.sc</string>
+		<string>udieresiscaron.sc</string>
+		<string>udieresisgrave.sc</string>
+		<string>udieresismacron.sc</string>
+		<string>ugrave.sc</string>
+		<string>uhungarumlaut.sc</string>
+		<string>umacron.sc</string>
+		<string>uogonek.sc</string>
+		<string>uring.sc</string>
+		<string>utilde.sc</string>
 	</array>
 	<key>public.kern1.V</key>
 	<array>
@@ -636,7 +869,9 @@
 	<key>public.kern1.V.sc</key>
 	<array>
 		<string>V.sc</string>
+		<string>v.sc</string>
 		<string>U-cy.sc</string>
+		<string>u-cy.sc</string>
 	</array>
 	<key>public.kern1.W</key>
 	<array>
@@ -653,6 +888,11 @@
 		<string>Wcircumflex.sc</string>
 		<string>Wdieresis.sc</string>
 		<string>Wgrave.sc</string>
+		<string>w.sc</string>
+		<string>wacute.sc</string>
+		<string>wcircumflex.sc</string>
+		<string>wdieresis.sc</string>
+		<string>wgrave.sc</string>
 	</array>
 	<key>public.kern1.X</key>
 	<array>
@@ -663,8 +903,11 @@
 	<key>public.kern1.X.sc</key>
 	<array>
 		<string>X.sc</string>
+		<string>x.sc</string>
 		<string>Ha-cy.sc</string>
+		<string>ha-cy.sc</string>
 		<string>Chi.sc</string>
+		<string>chi.sc</string>
 	</array>
 	<key>public.kern1.Y</key>
 	<array>
@@ -686,9 +929,18 @@
 		<string>Ydieresis.sc</string>
 		<string>Ygrave.sc</string>
 		<string>Ytilde.sc</string>
+		<string>y.sc</string>
+		<string>yacute.sc</string>
+		<string>ycircumflex.sc</string>
+		<string>ydieresis.sc</string>
+		<string>ygrave.sc</string>
+		<string>ytilde.sc</string>
 		<string>Upsilon.sc</string>
+		<string>upsilon.sc</string>
 		<string>Upsilontonos.sc</string>
 		<string>Upsilondieresis.sc</string>
+		<string>upsilontonos.sc</string>
+		<string>upsilondieresis.sc</string>
 	</array>
 	<key>public.kern1.Z</key>
 	<array>
@@ -706,7 +958,13 @@
 		<string>Zcaron.sc</string>
 		<string>Zdotaccent.sc</string>
 		<string>Zdotbelow.sc</string>
+		<string>z.sc</string>
+		<string>zacute.sc</string>
+		<string>zcaron.sc</string>
+		<string>zdotaccent.sc</string>
+		<string>zdotbelow.sc</string>
 		<string>Zeta.sc</string>
+		<string>zeta.sc</string>
 	</array>
 	<key>public.kern1.a</key>
 	<array>
@@ -1360,12 +1618,38 @@
 		<string>Atilde.sc</string>
 		<string>AE.sc</string>
 		<string>AEacute.sc</string>
+		<string>a.sc</string>
+		<string>aacute.sc</string>
+		<string>abreve.sc</string>
+		<string>abreveacute.sc</string>
+		<string>abrevegrave.sc</string>
+		<string>abrevetilde.sc</string>
+		<string>acaron.sc</string>
+		<string>acircumflex.sc</string>
+		<string>acircumflexacute.sc</string>
+		<string>acircumflexgrave.sc</string>
+		<string>acircumflextilde.sc</string>
+		<string>adieresis.sc</string>
+		<string>adieresismacron.sc</string>
+		<string>agrave.sc</string>
+		<string>amacron.sc</string>
+		<string>aogonek.sc</string>
+		<string>aring.sc</string>
+		<string>atilde.sc</string>
 		<string>A-cy.sc</string>
+		<string>a-cy.sc</string>
 		<string>El-cy.loclBGR.sc</string>
+		<string>el-cy.loclbgr.sc</string>
 		<string>Alpha.sc</string>
 		<string>Delta.sc</string>
 		<string>Lambda.sc</string>
+		<string>alpha.sc</string>
+		<string>delta.sc</string>
+		<string>lambda.sc</string>
 		<string>Alphatonos.sc</string>
+		<string>alphatonos.sc</string>
+		<string>aE.sc.001</string>
+		<string>aEacute.sc.001</string>
 	</array>
 	<key>public.kern2.Alphatonos</key>
 	<array>
@@ -1531,7 +1815,11 @@
 		<string>De-cy.sc</string>
 		<string>El-cy.sc</string>
 		<string>Lje-cy.sc</string>
+		<string>de-cy.sc</string>
+		<string>el-cy.sc</string>
+		<string>lje-cy.sc</string>
 		<string>De-cy.loclBGR.sc</string>
+		<string>de-cy.loclbgr.sc</string>
 	</array>
 	<key>public.kern2.De-cyBGR</key>
 	<array>
@@ -1558,6 +1846,7 @@
 	<key>public.kern2.Ereversed-cy.sc</key>
 	<array>
 		<string>Ereversed-cy.sc</string>
+		<string>ereversed-cy.sc</string>
 	</array>
 	<key>public.kern2.Ereversedcyrillic</key>
 	<array>
@@ -1577,10 +1866,12 @@
 	<key>public.kern2.Eth.sc</key>
 	<array>
 		<string>Eth.sc</string>
+		<string>eth.sc</string>
 	</array>
 	<key>public.kern2.Germandbls.sc</key>
 	<array>
 		<string>Germandbls.sc</string>
+		<string>germandbls.sc</string>
 	</array>
 	<key>public.kern2.H.sc</key>
 	<array>
@@ -1644,6 +1935,65 @@
 		<string>Racute.sc</string>
 		<string>Rcaron.sc</string>
 		<string>Rcommaaccent.sc</string>
+		<string>b.sc</string>
+		<string>bdotbelow.sc</string>
+		<string>d.sc</string>
+		<string>dcaron.sc</string>
+		<string>dcroat.sc</string>
+		<string>ddotbelow.sc</string>
+		<string>e.sc</string>
+		<string>eacute.sc</string>
+		<string>ecaron.sc</string>
+		<string>ecedilla.sc</string>
+		<string>ecircumflex.sc</string>
+		<string>ecircumflexacute.sc</string>
+		<string>ecircumflexgrave.sc</string>
+		<string>ecircumflextilde.sc</string>
+		<string>edieresis.sc</string>
+		<string>edotaccent.sc</string>
+		<string>egrave.sc</string>
+		<string>emacron.sc</string>
+		<string>eogonek.sc</string>
+		<string>etilde.sc</string>
+		<string>f.sc</string>
+		<string>h.sc</string>
+		<string>hbar.sc</string>
+		<string>hdotbelow.sc</string>
+		<string>i.sc</string>
+		<string>iacute.sc</string>
+		<string>icaron.sc</string>
+		<string>icircumflex.sc</string>
+		<string>idieresis.sc</string>
+		<string>idieresisacute.sc</string>
+		<string>igrave.sc</string>
+		<string>imacron.sc</string>
+		<string>iogonek.sc</string>
+		<string>itilde.sc</string>
+		<string>k.sc</string>
+		<string>kcommaaccent.sc</string>
+		<string>khook.sc</string>
+		<string>l.sc</string>
+		<string>lacute.sc</string>
+		<string>lcaron.sc</string>
+		<string>lcommaaccent.sc</string>
+		<string>ldotbelow.sc</string>
+		<string>lslash.sc</string>
+		<string>m.sc</string>
+		<string>macute.sc</string>
+		<string>n.sc</string>
+		<string>nacute.sc</string>
+		<string>ncaron.sc</string>
+		<string>ncommaaccent.sc</string>
+		<string>ndotaccent.sc</string>
+		<string>ndotbelow.sc</string>
+		<string>ntilde.sc</string>
+		<string>eng.sc</string>
+		<string>p.sc</string>
+		<string>thorn.sc</string>
+		<string>r.sc</string>
+		<string>racute.sc</string>
+		<string>rcaron.sc</string>
+		<string>rcommaaccent.sc</string>
 		<string>Be-cy.sc</string>
 		<string>Ve-cy.sc</string>
 		<string>Ge-cy.sc</string>
@@ -1671,6 +2021,33 @@
 		<string>I-cy.sc</string>
 		<string>Yi-cy.sc</string>
 		<string>Iu-cy.sc</string>
+		<string>be-cy.sc</string>
+		<string>ve-cy.sc</string>
+		<string>ge-cy.sc</string>
+		<string>gje-cy.sc</string>
+		<string>geupturn-cy.sc</string>
+		<string>ie-cy.sc</string>
+		<string>iegrave-cy.sc</string>
+		<string>io-cy.sc</string>
+		<string>ii-cy.sc</string>
+		<string>iishort-cy.sc</string>
+		<string>iigrave-cy.sc</string>
+		<string>ka-cy.sc</string>
+		<string>kje-cy.sc</string>
+		<string>em-cy.sc</string>
+		<string>en-cy.sc</string>
+		<string>pe-cy.sc</string>
+		<string>er-cy.sc</string>
+		<string>tse-cy.sc</string>
+		<string>sha-cy.sc</string>
+		<string>shcha-cy.sc</string>
+		<string>dzhe-cy.sc</string>
+		<string>softsign-cy.sc</string>
+		<string>yeru-cy.sc</string>
+		<string>nje-cy.sc</string>
+		<string>i-cy.sc</string>
+		<string>yi-cy.sc</string>
+		<string>yu-cy.sc</string>
 		<string>Beta.sc</string>
 		<string>Gamma.sc</string>
 		<string>Epsilon.sc</string>
@@ -1681,15 +2058,32 @@
 		<string>Nu.sc</string>
 		<string>Pi.sc</string>
 		<string>Rho.sc</string>
+		<string>beta.sc</string>
+		<string>gamma.sc</string>
+		<string>epsilon.sc</string>
+		<string>eta.sc</string>
+		<string>iota.sc</string>
+		<string>kappa.sc</string>
+		<string>mu.sc</string>
+		<string>nu.sc</string>
+		<string>pi.sc</string>
+		<string>rho.sc</string>
 		<string>Epsilontonos.sc</string>
 		<string>Etatonos.sc</string>
 		<string>Iotatonos.sc</string>
 		<string>Iotadieresis.sc</string>
+		<string>iotatonos.sc</string>
+		<string>iotadieresis.sc</string>
+		<string>epsilontonos.sc</string>
+		<string>etatonos.sc</string>
 		<string>KaiSymbol.sc</string>
+		<string>iJ.sc.001</string>
+		<string>Kaisymbol.sc.001</string>
 	</array>
 	<key>public.kern2.Hardsign-cy.sc</key>
 	<array>
 		<string>Hardsign-cy.sc</string>
+		<string>hardsign-cy.sc</string>
 	</array>
 	<key>public.kern2.Hardsigncyrillic</key>
 	<array>
@@ -1698,7 +2092,9 @@
 	<key>public.kern2.Hturned.sc</key>
 	<array>
 		<string>Hturned.sc</string>
+		<string>hturned.sc</string>
 		<string>Che-cy.sc</string>
+		<string>che-cy.sc</string>
 	</array>
 	<key>public.kern2.Iacyrillic</key>
 	<array>
@@ -1712,7 +2108,9 @@
 	<key>public.kern2.J.sc</key>
 	<array>
 		<string>J.sc</string>
+		<string>j.sc</string>
 		<string>Je-cy.sc</string>
+		<string>je-cy.sc</string>
 	</array>
 	<key>public.kern2.O.sc</key>
 	<array>
@@ -1746,21 +2144,66 @@
 		<string>Otildeacute.sc</string>
 		<string>OE.sc</string>
 		<string>Q.sc</string>
+		<string>c.sc</string>
+		<string>cacute.sc</string>
+		<string>ccaron.sc</string>
+		<string>ccedilla.sc</string>
+		<string>cdotaccent.sc</string>
+		<string>g.sc</string>
+		<string>gbreve.sc</string>
+		<string>gcaron.sc</string>
+		<string>gcommaaccent.sc</string>
+		<string>gdotaccent.sc</string>
+		<string>o.sc</string>
+		<string>oacute.sc</string>
+		<string>ocaron.sc</string>
+		<string>ocircumflex.sc</string>
+		<string>ocircumflexacute.sc</string>
+		<string>ocircumflexgrave.sc</string>
+		<string>ocircumflextilde.sc</string>
+		<string>odieresis.sc</string>
+		<string>odieresismacron.sc</string>
+		<string>ograve.sc</string>
+		<string>ohungarumlaut.sc</string>
+		<string>omacron.sc</string>
+		<string>omacronacute.sc</string>
+		<string>omacrongrave.sc</string>
+		<string>oslash.sc</string>
+		<string>oslashacute.sc</string>
+		<string>otilde.sc</string>
+		<string>otildeacute.sc</string>
+		<string>q.sc</string>
 		<string>G.ss02.sc</string>
 		<string>Gbreve.ss02.sc</string>
 		<string>Gcaron.ss02.sc</string>
 		<string>Gcommaaccent.ss02.sc</string>
 		<string>Gdotaccent.ss02.sc</string>
+		<string>g.ss02.sc</string>
+		<string>gbreve.ss02.sc</string>
+		<string>gcaron.ss02.sc</string>
+		<string>gcommaaccent.ss02.sc</string>
+		<string>gdotaccent.ss02.sc</string>
 		<string>Q.ss03.sc</string>
+		<string>q.ss03.sc</string>
 		<string>O-cy.sc</string>
 		<string>Es-cy.sc</string>
 		<string>Ef-cy.sc</string>
 		<string>E-cy.sc</string>
+		<string>o-cy.sc</string>
+		<string>es-cy.sc</string>
+		<string>ef-cy.sc</string>
+		<string>e-cy.sc</string>
 		<string>Ef-cy.loclBGR.sc</string>
+		<string>ef-cy.loclbgr.sc</string>
 		<string>Theta.sc</string>
 		<string>Omicron.sc</string>
 		<string>Phi.sc</string>
+		<string>theta.sc</string>
+		<string>omicron.sc</string>
+		<string>phi.sc</string>
 		<string>Omicrontonos.sc</string>
+		<string>omicrontonos.sc</string>
+		<string>Oe.sc.001</string>
 	</array>
 	<key>public.kern2.Omega</key>
 	<array>
@@ -1769,7 +2212,9 @@
 	<key>public.kern2.Omega.sc</key>
 	<array>
 		<string>Omega.sc</string>
+		<string>omega.sc</string>
 		<string>Omegatonos.sc</string>
+		<string>omegatonos.sc</string>
 	</array>
 	<key>public.kern2.Omegatonos</key>
 	<array>
@@ -1790,6 +2235,7 @@
 	<key>public.kern2.Psi.sc</key>
 	<array>
 		<string>Psi.sc</string>
+		<string>psi.sc</string>
 	</array>
 	<key>public.kern2.S</key>
 	<array>
@@ -1817,13 +2263,26 @@
 		<string>Scedilla.sc</string>
 		<string>Scommaaccent.sc</string>
 		<string>Sdotbelow.sc</string>
+		<string>s.sc</string>
+		<string>sacute.sc</string>
+		<string>scaron.sc</string>
+		<string>scedilla.sc</string>
+		<string>scommaaccent.sc</string>
+		<string>sdotbelow.sc</string>
 		<string>S.ss02.sc</string>
 		<string>Sacute.ss02.sc</string>
 		<string>Scaron.ss02.sc</string>
 		<string>Scedilla.ss02.sc</string>
 		<string>Scommaaccent.ss02.sc</string>
 		<string>Sdotbelow.ss02.sc</string>
+		<string>s.ss02.sc</string>
+		<string>sacute.ss02.sc</string>
+		<string>scaron.ss02.sc</string>
+		<string>scedilla.ss02.sc</string>
+		<string>scommaaccent.ss02.sc</string>
+		<string>sdotbelow.ss02.sc</string>
 		<string>Dze-cy.sc</string>
+		<string>dze-cy.sc</string>
 	</array>
 	<key>public.kern2.Sigma</key>
 	<array>
@@ -1832,6 +2291,7 @@
 	<key>public.kern2.Sigma.sc</key>
 	<array>
 		<string>Sigma.sc</string>
+		<string>sigma.sc</string>
 	</array>
 	<key>public.kern2.T</key>
 	<array>
@@ -1855,10 +2315,20 @@
 		<string>Tcedilla.sc</string>
 		<string>Tcommaaccent.sc</string>
 		<string>Tdotbelow.sc</string>
+		<string>t.sc</string>
+		<string>tbar.sc</string>
+		<string>tcaron.sc</string>
+		<string>tcedilla.sc</string>
+		<string>tcommaaccent.sc</string>
+		<string>tdotbelow.sc</string>
 		<string>Te-cy.sc</string>
 		<string>Tshe-cy.sc</string>
 		<string>Dje-cy.sc</string>
+		<string>te-cy.sc</string>
+		<string>tshe-cy.sc</string>
+		<string>dje-cy.sc</string>
 		<string>Tau.sc</string>
+		<string>tau.sc</string>
 	</array>
 	<key>public.kern2.U</key>
 	<array>
@@ -1881,6 +2351,7 @@
 	<key>public.kern2.U-cy.sc</key>
 	<array>
 		<string>U-cy.sc</string>
+		<string>u-cy.sc</string>
 	</array>
 	<key>public.kern2.U.sc</key>
 	<array>
@@ -1899,6 +2370,21 @@
 		<string>Uogonek.sc</string>
 		<string>Uring.sc</string>
 		<string>Utilde.sc</string>
+		<string>u.sc</string>
+		<string>uacute.sc</string>
+		<string>ucaron.sc</string>
+		<string>ucircumflex.sc</string>
+		<string>udieresis.sc</string>
+		<string>udieresisacute.sc</string>
+		<string>udieresiscaron.sc</string>
+		<string>udieresisgrave.sc</string>
+		<string>udieresismacron.sc</string>
+		<string>ugrave.sc</string>
+		<string>uhungarumlaut.sc</string>
+		<string>umacron.sc</string>
+		<string>uogonek.sc</string>
+		<string>uring.sc</string>
+		<string>utilde.sc</string>
 	</array>
 	<key>public.kern2.Ucyrillic</key>
 	<array>
@@ -1915,6 +2401,7 @@
 	<key>public.kern2.V.sc</key>
 	<array>
 		<string>V.sc</string>
+		<string>v.sc</string>
 	</array>
 	<key>public.kern2.W</key>
 	<array>
@@ -1931,6 +2418,11 @@
 		<string>Wcircumflex.sc</string>
 		<string>Wdieresis.sc</string>
 		<string>Wgrave.sc</string>
+		<string>w.sc</string>
+		<string>wacute.sc</string>
+		<string>wcircumflex.sc</string>
+		<string>wdieresis.sc</string>
+		<string>wgrave.sc</string>
 	</array>
 	<key>public.kern2.X</key>
 	<array>
@@ -1941,8 +2433,11 @@
 	<key>public.kern2.X.sc</key>
 	<array>
 		<string>X.sc</string>
+		<string>x.sc</string>
 		<string>Ha-cy.sc</string>
+		<string>ha-cy.sc</string>
 		<string>Chi.sc</string>
+		<string>chi.sc</string>
 	</array>
 	<key>public.kern2.Xi</key>
 	<array>
@@ -1951,6 +2446,7 @@
 	<key>public.kern2.Xi.sc</key>
 	<array>
 		<string>Xi.sc</string>
+		<string>xi.sc</string>
 	</array>
 	<key>public.kern2.Y</key>
 	<array>
@@ -1971,17 +2467,28 @@
 		<string>Ydieresis.sc</string>
 		<string>Ygrave.sc</string>
 		<string>Ytilde.sc</string>
+		<string>y.sc</string>
+		<string>yacute.sc</string>
+		<string>ycircumflex.sc</string>
+		<string>ydieresis.sc</string>
+		<string>ygrave.sc</string>
+		<string>ytilde.sc</string>
 		<string>Upsilon.sc</string>
+		<string>upsilon.sc</string>
 		<string>Upsilontonos.sc</string>
 		<string>Upsilondieresis.sc</string>
+		<string>upsilontonos.sc</string>
+		<string>upsilondieresis.sc</string>
 	</array>
 	<key>public.kern2.Ya-cy.sc</key>
 	<array>
 		<string>Ya-cy.sc</string>
+		<string>ya-cy.sc</string>
 	</array>
 	<key>public.kern2.Yat-cy.sc</key>
 	<array>
 		<string>Yat-cy.sc</string>
+		<string>yat-cy.sc</string>
 	</array>
 	<key>public.kern2.Yatcyrillic</key>
 	<array>
@@ -2007,12 +2514,20 @@
 		<string>Zcaron.sc</string>
 		<string>Zdotaccent.sc</string>
 		<string>Zdotbelow.sc</string>
+		<string>z.sc</string>
+		<string>zacute.sc</string>
+		<string>zcaron.sc</string>
+		<string>zdotaccent.sc</string>
+		<string>zdotbelow.sc</string>
 		<string>Zeta.sc</string>
+		<string>zeta.sc</string>
 	</array>
 	<key>public.kern2.Zhe-cy.sc</key>
 	<array>
 		<string>Zhe-cy.sc</string>
+		<string>zhe-cy.sc</string>
 		<string>Yusbig-cy.sc</string>
+		<string>yusbig-cy.sc</string>
 	</array>
 	<key>public.kern2.Zhecyrillic</key>
 	<array>
@@ -2495,6 +3010,7 @@
 	<array>
 		<string>Ze-cy</string>
 		<string>Ze-cy.sc</string>
+		<string>ze-cy.sc</string>
 		<string>three</string>
 		<string>three.osf</string>
 	</array>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="e.sc" format="2">
+	<advance width="580"/>
+	<anchor x="290" y="0" name="bottom"/>
+	<anchor x="507" y="0" name="ogonek"/>
+	<anchor x="290" y="575" name="top"/>
+	<anchor x="20" y="575" name="topleft"/>
+	<outline>
+		<contour>
+			<point x="95" y="0" type="line"/>
+			<point x="189" y="0" type="line"/>
+			<point x="189" y="575" type="line"/>
+			<point x="95" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="118" y="0" type="line"/>
+			<point x="495" y="0" type="line"/>
+			<point x="495" y="90" type="line"/>
+			<point x="118" y="90" type="line"/>
+		</contour>
+		<contour>
+			<point x="118" y="249" type="line"/>
+			<point x="473" y="249" type="line"/>
+			<point x="473" y="339" type="line"/>
+			<point x="118" y="339" type="line"/>
+		</contour>
+		<contour>
+			<point x="118" y="484" type="line"/>
+			<point x="490" y="484" type="line"/>
+			<point x="490" y="575" type="line"/>
+			<point x="118" y="575" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H.sc</string>
+		</dict>
+	</lib>
+</glyph>

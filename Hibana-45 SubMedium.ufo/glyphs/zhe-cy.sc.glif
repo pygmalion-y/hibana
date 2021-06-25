@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zhe-cy.sc" format="2">
+	<advance width="981"/>
+	<anchor x="1034" y="0" name="bottomright"/>
+	<anchor x="492" y="575" name="top"/>
+	<outline>
+		<contour>
+			<point x="366" y="270" type="line"/>
+			<point x="476" y="280" type="line"/>
+			<point x="196" y="575" type="line"/>
+			<point x="75" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="56" y="0" type="line"/>
+			<point x="179" y="0" type="line"/>
+			<point x="435" y="276" type="line"/>
+			<point x="357" y="320" type="line"/>
+		</contour>
+		<contour>
+			<point x="445" y="0" type="line"/>
+			<point x="539" y="0" type="line"/>
+			<point x="539" y="575" type="line"/>
+			<point x="445" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="369" y="261" type="line"/>
+			<point x="616" y="261" type="line"/>
+			<point x="616" y="329" type="line"/>
+			<point x="369" y="329" type="line"/>
+		</contour>
+		<contour>
+			<point x="805" y="0" type="line"/>
+			<point x="928" y="0" type="line"/>
+			<point x="627" y="320" type="line"/>
+			<point x="549" y="276" type="line"/>
+		</contour>
+		<contour>
+			<point x="619" y="271" type="line"/>
+			<point x="909" y="575" type="line"/>
+			<point x="788" y="575" type="line"/>
+			<point x="508" y="280" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>K.sc</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eth.sc" format="2">
+	<advance width="639"/>
+	<outline>
+		<contour>
+			<point x="32" y="336" type="line"/>
+			<point x="32" y="249" type="line"/>
+			<point x="296" y="249" type="line"/>
+			<point x="296" y="336" type="line"/>
+		</contour>
+		<component base="D.sc"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>D.sc</string>
+		</dict>
+	</lib>
+</glyph>

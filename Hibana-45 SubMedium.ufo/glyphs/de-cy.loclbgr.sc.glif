@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="de-cy.loclbgr.sc" format="2">
+	<advance width="766"/>
+	<outline>
+		<contour>
+			<point x="85" y="0" type="line"/>
+			<point x="681" y="0" type="line"/>
+			<point x="681" y="90" type="line"/>
+			<point x="85" y="90" type="line"/>
+		</contour>
+		<contour>
+			<point x="596" y="-130" type="line"/>
+			<point x="681" y="-130" type="line"/>
+			<point x="681" y="0" type="line"/>
+			<point x="596" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="85" y="-130" type="line"/>
+			<point x="170" y="-130" type="line"/>
+			<point x="170" y="0" type="line"/>
+			<point x="85" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="114" y="0" type="line"/>
+			<point x="213" y="0" type="line"/>
+			<point x="425" y="575" type="line"/>
+			<point x="337" y="575" type="line"/>
+		</contour>
+		<contour>
+			<point x="560" y="0" type="line"/>
+			<point x="658" y="0" type="line"/>
+			<point x="435" y="575" type="line"/>
+			<point x="349" y="575" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>De-cy.sc</string>
+		</dict>
+	</lib>
+</glyph>

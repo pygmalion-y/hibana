@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.sc" format="2">
+	<advance width="603"/>
+	<outline>
+		<contour>
+			<point x="122" y="243" type="line"/>
+			<point x="482" y="243" type="line"/>
+			<point x="482" y="328" type="line"/>
+			<point x="122" y="328" type="line"/>
+		</contour>
+		<component base="T.sc"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>T.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>T.sc</string>
+		</dict>
+	</lib>
+</glyph>

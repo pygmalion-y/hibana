@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n.sc" format="2">
+	<advance width="726"/>
+	<anchor x="363" y="0" name="bottom"/>
+	<anchor x="363" y="575" name="top"/>
+	<outline>
+		<contour>
+			<point x="95" y="0" type="line"/>
+			<point x="189" y="0" type="line"/>
+			<point x="189" y="428" type="line"/>
+			<point x="537" y="0" type="line"/>
+			<point x="631" y="0" type="line"/>
+			<point x="631" y="575" type="line"/>
+			<point x="537" y="575" type="line"/>
+			<point x="537" y="147" type="line"/>
+			<point x="189" y="575" type="line"/>
+			<point x="95" y="575" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>H.sc</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>H.sc</string>
+		</dict>
+	</lib>
+</glyph>
