@@ -498,8 +498,6 @@
 	<string>K_aiS_ymbol.glif</string>
 	<key>KaiSymbol.sc</key>
 	<string>K_aiS_ymbol.sc.glif</string>
-	<key>Kaisymbol.sc.001</key>
-	<string>K_aisymbol.sc.001.glif</string>
 	<key>Kappa</key>
 	<string>K_appa.glif</string>
 	<key>Kappa.sc</key>
@@ -640,8 +638,6 @@
 	<string>O_dieresismacron.glif</string>
 	<key>Odieresismacron.sc</key>
 	<string>O_dieresismacron.sc.glif</string>
-	<key>Oe.sc.001</key>
-	<string>O_e.sc.001.glif</string>
 	<key>Ograve</key>
 	<string>O_grave.glif</string>
 	<key>Ograve.sc</key>
@@ -1066,10 +1062,6 @@
 	<string>a.ss01.glif</string>
 	<key>a.ss02</key>
 	<string>a.ss02.glif</string>
-	<key>aE.sc.001</key>
-	<string>aE_.sc.001.glif</string>
-	<key>aEacute.sc.001</key>
-	<string>aE_acute.sc.001.glif</string>
 	<key>aJung-ko</key>
 	<string>aJ_ung-ko.glif</string>
 	<key>aa-tibet</key>
@@ -1154,10 +1146,14 @@
 	<string>adieresismacron.sc.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
+	<key>ae.sc</key>
+	<string>ae.sc.glif</string>
 	<key>aeJung-ko</key>
 	<string>aeJ_ung-ko.glif</string>
 	<key>aeacute</key>
 	<string>aeacute.glif</string>
+	<key>aeacute.sc</key>
+	<string>aeacute.sc.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
 	<key>agrave.sc</key>
@@ -2134,8 +2130,6 @@
 	<string>i-kata.glif</string>
 	<key>i.sc</key>
 	<string>i.sc.glif</string>
-	<key>iJ.sc.001</key>
-	<string>iJ_.sc.001.glif</string>
 	<key>iJung-ko</key>
 	<string>iJ_ung-ko.glif</string>
 	<key>ia-cy</key>
@@ -2200,6 +2194,8 @@
 	<string>iishort-cy.sc.glif</string>
 	<key>ij</key>
 	<string>ij.glif</string>
+	<key>ij.sc</key>
+	<string>ij.sc.glif</string>
 	<key>imacron</key>
 	<string>imacron.glif</string>
 	<key>imacron.sc</key>
@@ -2276,6 +2272,8 @@
 	<string>ka-tibet.glif</string>
 	<key>kaiSymbol</key>
 	<string>kaiS_ymbol.glif</string>
+	<key>kaisymbol.sc</key>
+	<string>kaisymbol.sc.glif</string>
 	<key>kappa</key>
 	<string>kappa.glif</string>
 	<key>kappa.sc</key>
@@ -2666,6 +2664,8 @@
 	<string>odieresismacron.sc.glif</string>
 	<key>oe</key>
 	<string>oe.glif</string>
+	<key>oe.sc</key>
+	<string>oe.sc.glif</string>
 	<key>oeJung-ko</key>
 	<string>oeJ_ung-ko.glif</string>
 	<key>ogonek</key>

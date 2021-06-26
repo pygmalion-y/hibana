@@ -2583,6 +2583,8 @@
 		<string>aogonek.sc</string>
 		<string>aring.sc</string>
 		<string>atilde.sc</string>
+		<string>ae.sc</string>
+		<string>aeacute.sc</string>
 		<string>b.sc</string>
 		<string>bdotbelow.sc</string>
 		<string>c.sc</string>
@@ -2626,6 +2628,7 @@
 		<string>idieresis.sc</string>
 		<string>idieresisacute.sc</string>
 		<string>igrave.sc</string>
+		<string>ij.sc</string>
 		<string>imacron.sc</string>
 		<string>iogonek.sc</string>
 		<string>itilde.sc</string>
@@ -2667,6 +2670,7 @@
 		<string>oslashacute.sc</string>
 		<string>otilde.sc</string>
 		<string>otildeacute.sc</string>
+		<string>oe.sc</string>
 		<string>p.sc</string>
 		<string>thorn.sc</string>
 		<string>q.sc</string>
@@ -4067,11 +4071,7 @@
 		<string>verticallinelowmod</string>
 		<string>verticallinemod</string>
 		<string>rotate</string>
-		<string>Oe.sc.001</string>
-		<string>aE.sc.001</string>
-		<string>aEacute.sc.001</string>
-		<string>iJ.sc.001</string>
-		<string>Kaisymbol.sc.001</string>
+		<string>kaisymbol.sc</string>
 		<string>smallzero</string>
 		<string>_part.diantop</string>
 		<string>_slash.zero</string>

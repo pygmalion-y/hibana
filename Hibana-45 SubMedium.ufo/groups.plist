@@ -244,6 +244,8 @@
 		<string>Eogonek.sc</string>
 		<string>Etilde.sc</string>
 		<string>OE.sc</string>
+		<string>ae.sc</string>
+		<string>aeacute.sc</string>
 		<string>e.sc</string>
 		<string>eacute.sc</string>
 		<string>ecaron.sc</string>
@@ -258,6 +260,7 @@
 		<string>emacron.sc</string>
 		<string>eogonek.sc</string>
 		<string>etilde.sc</string>
+		<string>oe.sc</string>
 		<string>Ie-cy.sc</string>
 		<string>Iegrave-cy.sc</string>
 		<string>Io-cy.sc</string>
@@ -270,9 +273,6 @@
 		<string>xi.sc</string>
 		<string>Epsilontonos.sc</string>
 		<string>epsilontonos.sc</string>
-		<string>Oe.sc.001</string>
-		<string>aE.sc.001</string>
-		<string>aEacute.sc.001</string>
 	</array>
 	<key>public.kern1.Efcyrillic</key>
 	<array>
@@ -508,10 +508,10 @@
 	<array>
 		<string>IJ.sc</string>
 		<string>J.sc</string>
+		<string>ij.sc</string>
 		<string>j.sc</string>
 		<string>Je-cy.sc</string>
 		<string>je-cy.sc</string>
-		<string>iJ.sc.001</string>
 	</array>
 	<key>public.kern1.K</key>
 	<array>
@@ -544,7 +544,7 @@
 		<string>Kappa.sc</string>
 		<string>kappa.sc</string>
 		<string>KaiSymbol.sc</string>
-		<string>Kaisymbol.sc.001</string>
+		<string>kaisymbol.sc</string>
 	</array>
 	<key>public.kern1.L</key>
 	<array>
@@ -1636,6 +1636,8 @@
 		<string>aogonek.sc</string>
 		<string>aring.sc</string>
 		<string>atilde.sc</string>
+		<string>ae.sc</string>
+		<string>aeacute.sc</string>
 		<string>A-cy.sc</string>
 		<string>a-cy.sc</string>
 		<string>El-cy.loclBGR.sc</string>
@@ -1648,8 +1650,6 @@
 		<string>lambda.sc</string>
 		<string>Alphatonos.sc</string>
 		<string>alphatonos.sc</string>
-		<string>aE.sc.001</string>
-		<string>aEacute.sc.001</string>
 	</array>
 	<key>public.kern2.Alphatonos</key>
 	<array>
@@ -1966,6 +1966,7 @@
 		<string>idieresis.sc</string>
 		<string>idieresisacute.sc</string>
 		<string>igrave.sc</string>
+		<string>ij.sc</string>
 		<string>imacron.sc</string>
 		<string>iogonek.sc</string>
 		<string>itilde.sc</string>
@@ -2077,8 +2078,7 @@
 		<string>epsilontonos.sc</string>
 		<string>etatonos.sc</string>
 		<string>KaiSymbol.sc</string>
-		<string>iJ.sc.001</string>
-		<string>Kaisymbol.sc.001</string>
+		<string>kaisymbol.sc</string>
 	</array>
 	<key>public.kern2.Hardsign-cy.sc</key>
 	<array>
@@ -2172,6 +2172,7 @@
 		<string>oslashacute.sc</string>
 		<string>otilde.sc</string>
 		<string>otildeacute.sc</string>
+		<string>oe.sc</string>
 		<string>q.sc</string>
 		<string>G.ss02.sc</string>
 		<string>Gbreve.ss02.sc</string>
@@ -2203,7 +2204,6 @@
 		<string>phi.sc</string>
 		<string>Omicrontonos.sc</string>
 		<string>omicrontonos.sc</string>
-		<string>Oe.sc.001</string>
 	</array>
 	<key>public.kern2.Omega</key>
 	<array>

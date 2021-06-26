@@ -98,15 +98,15 @@ feature locl {
 lookup locl_latn_0 {
 	script latn;
 	language AZE;
-	sub i by i;
+	sub i by idotaccent;
 	language CRT;
-	sub i by i;
+	sub i by idotaccent;
 	language KAZ;
-	sub i by i;
+	sub i by idotaccent;
 	language TAT;
-	sub i by i;
+	sub i by idotaccent;
 	language TRK;
-	sub i by i;
+	sub i by idotaccent;
 } locl_latn_0;
 
 lookup locl_latn_1 {
@@ -635,6 +635,8 @@ sub amacron by amacron.sc;
 sub aogonek by aogonek.sc;
 sub aring by aring.sc;
 sub atilde by atilde.sc;
+sub ae by ae.sc;
+sub aeacute by aeacute.sc;
 sub b by b.sc;
 sub bdotbelow by bdotbelow.sc;
 sub c by c.sc;
@@ -677,6 +679,7 @@ sub icircumflex by icircumflex.sc;
 sub idieresis by idieresis.sc;
 sub idieresisacute by idieresisacute.sc;
 sub igrave by igrave.sc;
+sub ij by ij.sc;
 sub imacron by imacron.sc;
 sub iogonek by iogonek.sc;
 sub itilde by itilde.sc;
@@ -718,6 +721,7 @@ sub oslash by oslash.sc;
 sub oslashacute by oslashacute.sc;
 sub otilde by otilde.sc;
 sub otildeacute by otildeacute.sc;
+sub oe by oe.sc;
 sub p by p.sc;
 sub thorn by thorn.sc;
 sub q by q.sc;
