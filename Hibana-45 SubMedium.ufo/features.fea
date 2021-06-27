@@ -1,8 +1,11 @@
 # automatic
-@Uppercase = [ A Aacute Abreve Abreveacute Abrevegrave Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexgrave Acircumflextilde Adieresis Adieresismacron Agrave Amacron Aogonek Aring Atilde AE AEacute B Bdotbelow C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat Ddotbelow E Eacute Ecaron Ecedilla Ecircumflex Ecircumflexacute Ecircumflexgrave Ecircumflextilde Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcaron Gcommaaccent Gdotaccent H Hbar Hdotbelow Hturned I IJ Iacute Icaron Icircumflex Idieresis Idieresisacute Idotaccent Igrave Imacron Iogonek Itilde J K Kcommaaccent Khook L Lacute Lcaron Lcommaaccent Ldotbelow Lslash M Macute N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexgrave Ocircumflextilde Odieresis Odieresismacron Ograve Ohungarumlaut Omacron Omacronacute Omacrongrave Oslash Oslashacute Otilde Otildeacute OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow U Uacute Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow G.ss02 Gbreve.ss02 Gcaron.ss02 Gcommaaccent.ss02 Gdotaccent.ss02 S.ss02 Sacute.ss02 Scaron.ss02 Scedilla.ss02 Scommaaccent.ss02 Sdotbelow.ss02 Q.ss03 T_h A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol ];
+@Uppercase = [ A Aacute Abreve Abreveacute Abrevegrave Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexgrave Acircumflextilde Adieresis Adieresismacron Agrave Amacron Aogonek Aring Atilde AE AEacute B Bdotbelow C Cacute Ccaron Ccedilla Cdotaccent D Eth Dcaron Dcroat Ddotbelow E Eacute Ecaron Ecedilla Ecircumflex Ecircumflexacute Ecircumflexgrave Ecircumflextilde Edieresis Edotaccent Egrave Emacron Eogonek Etilde F G Gbreve Gcaron Gcommaaccent Gdotaccent H Hbar Hdotbelow Hturned I IJ Iacute Icaron Icircumflex Idieresis Idieresisacute Idotaccent Igrave Imacron Iogonek Itilde J K Kcommaaccent Khook L Lacute Lcaron Lcommaaccent Ldotbelow Lslash M Macute N Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Ntilde Eng O Oacute Ocaron Ocircumflex Ocircumflexacute Ocircumflexgrave Ocircumflextilde Odieresis Odieresismacron Ograve Ohungarumlaut Omacron Omacronacute Omacrongrave Oslash Oslashacute Otilde Otildeacute OE P Thorn Q R Racute Rcaron Rcommaaccent S Sacute Scaron Scedilla Scommaaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotbelow U Uacute Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Ugrave Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ygrave Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow G.ss02 Gbreve.ss02 Gcaron.ss02 Gcommaaccent.ss02 Gdotaccent.ss02 S.ss02 Sacute.ss02 Scaron.ss02 Scedilla.ss02 Scommaaccent.ss02 Sdotbelow.ss02 Q.ss03 Q_u Q_y T_h A-cy Be-cy Ve-cy Ge-cy Gje-cy Gheupturn-cy De-cy Ie-cy Iegrave-cy Io-cy Zhe-cy Ze-cy Ii-cy Iishort-cy Iigrave-cy Ka-cy Kje-cy El-cy Em-cy En-cy O-cy Pe-cy Er-cy Es-cy Te-cy U-cy Ef-cy Ha-cy Che-cy Tse-cy Sha-cy Shcha-cy Dzhe-cy Softsign-cy Yeru-cy Hardsign-cy Lje-cy Nje-cy Dze-cy E-cy Ereversed-cy I-cy Yi-cy Je-cy Tshe-cy Iu-cy Ia-cy Dje-cy Yat-cy Yusbig-cy De-cy.loclBGR El-cy.loclBGR Ef-cy.loclBGR Alpha Beta Gamma Delta Epsilon Zeta Eta Theta Iota Kappa Lambda Mu Nu Xi Omicron Pi Rho Sigma Tau Upsilon Phi Chi Psi Omega Alphatonos Epsilontonos Etatonos Iotatonos Omicrontonos Upsilontonos Omegatonos Iotadieresis Upsilondieresis KaiSymbol ];
 
 # automatic
 @figures = [ zero one two three four five six seven eight nine zero.zero zero.lf one.lf two.lf three.lf four.lf five.lf six.lf seven.lf eight.lf nine.lf zero.lf.zero zero.osf one.osf two.osf three.osf four.osf five.osf six.osf seven.osf eight.osf nine.osf zero.osf.zero zero.tf one.tf two.tf three.tf four.tf five.tf six.tf seven.tf eight.tf nine.tf zero.tf.zero zero.tosf one.tosf two.tosf three.tosf four.tosf five.tosf six.tosf seven.tosf eight.tosf nine.tosf zero.tosf.zero ];
+
+# automatic
+@Lowercase = [ a aacute abreve abreveacute abrevegrave abrevetilde acaron acircumflex acircumflexacute acircumflexgrave acircumflextilde adieresis adieresismacron agrave amacron aogonek aring atilde ae aeacute b bdotbelow c cacute ccaron ccedilla cdotaccent d eth dcaron dcroat ddotbelow e eacute ecaron ecedilla ecircumflex ecircumflexacute ecircumflexgrave ecircumflextilde edieresis edotaccent egrave emacron eogonek etilde f g gbreve gcaron gcommaaccent gdotaccent h hbar hdotbelow i idotless iacute icaron icircumflex idieresis idieresisacute idotaccent igrave ij imacron iogonek itilde j k kcommaaccent kgreenlandic khook l lacute lcaron lcommaaccent ldotbelow lslash m macute n nacute ncaron ncommaaccent ndotaccent ndotbelow ntilde eng o oacute ocaron ocircumflex ocircumflexacute ocircumflexgrave ocircumflextilde odieresis odieresismacron ograve ohungarumlaut omacron omacronacute omacrongrave oslash oslashacute otilde otildeacute oe p thorn q r racute rcaron rcommaaccent s sacute scaron scedilla scommaaccent sdotbelow germandbls longs t tbar tcaron tcedilla tcommaaccent tdotbelow u uacute ucaron ucircumflex udieresis udieresisacute udieresiscaron udieresisgrave udieresismacron ugrave uhungarumlaut umacron uogonek uring utilde v w wacute wcircumflex wdieresis wgrave x y yacute ycircumflex ydieresis ygrave ytilde z zacute zcaron zdotaccent zdotbelow a.ss01 aacute.ss01 abreve.ss01 acaron.ss01 acircumflex.ss01 adieresis.ss01 agrave.ss01 amacron.ss01 aogonek.ss01 aring.ss01 atilde.ss01 a.ss02 aacute.ss02 abreve.ss02 acaron.ss02 acircumflex.ss02 adieresis.ss02 agrave.ss02 amacron.ss02 aogonek.ss02 aring.ss02 atilde.ss02 e.ss02 eacute.ss02 ecaron.ss02 ecircumflex.ss02 edieresis.ss02 edotaccent.ss02 egrave.ss02 emacron.ss02 eogonek.ss02 g.ss02 gbreve.ss02 gcommaaccent.ss02 gdotaccent.ss02 s.ss02 sacute.ss02 scaron.ss02 scedilla.ss02 scommaaccent.ss02 g.ss04 gbreve.ss04 gcommaaccent.ss04 gdotaccent.ss04 c_h c_k c_l c_t f_b f_f f_f_b f_f_h f_f_i f_f_j f_f_k f_f_l f_f_t f_h f_j f_k f_t fi fl longs_t s_h s_k s_l s_p s_t longs_b longs_h longs_i longs_j longs_k longs_l longs_s longs_longs longs_longs_b longs_longs_h longs_longs_i longs_longs_j longs_longs_k longs_longs_l longs_longs_t t_t a-cy be-cy ve-cy ge-cy gje-cy gheupturn-cy de-cy ie-cy iegrave-cy io-cy zhe-cy ze-cy ii-cy iishort-cy iigrave-cy ka-cy kje-cy el-cy em-cy en-cy o-cy pe-cy er-cy es-cy te-cy u-cy ef-cy ha-cy che-cy tse-cy sha-cy shcha-cy dzhe-cy softsign-cy yeru-cy hardsign-cy lje-cy nje-cy dze-cy e-cy ereversed-cy i-cy yi-cy je-cy tshe-cy iu-cy ia-cy dje-cy yat-cy yusbig-cy ve-cy.loclBGR ge-cy.loclBGR de-cy.loclBGR zhe-cy.loclBGR ze-cy.loclBGR ii-cy.loclBGR iishort-cy.loclBGR iigrave-cy.loclBGR ka-cy.loclBGR el-cy.loclBGR pe-cy.loclBGR te-cy.loclBGR tse-cy.loclBGR sha-cy.loclBGR shcha-cy.loclBGR softsign-cy.loclBGR hardsign-cy.loclBGR yu-cy.loclBGR be-cy.loclSRB a-cy.ss01 alpha beta gamma delta epsilon zeta eta theta iota kappa lambda mu nu xi omicron pi rho sigmafinal sigma tau upsilon phi chi psi omega iotatonos iotadieresis iotadieresistonos upsilontonos upsilondieresis upsilondieresistonos omicrontonos omegatonos alphatonos epsilontonos etatonos kaiSymbol ];
 
 # Prefix: Languagesystems
 # automatic
@@ -257,13 +260,21 @@ sub N o period by numero;
 
 feature calt {
 lookup colonsub {
-	sub @figures @figures @figures colon' @figures by colon;
-	sub @figures @figures colon' @figures @figures @figures by colon;
+	sub @figures @figures @figures @figures colon' @figures @figures @figures @figures by colon.calt;
+	sub @figures @figures @figures @figures colon' @figures @figures @figures by colon.calt;
+	sub @figures @figures @figures @figures colon' @figures @figures by colon.calt;
+	sub @figures @figures @figures @figures colon' @figures by colon.calt;
+	sub @figures @figures @figures colon' @figures @figures @figures by colon.calt;
+	sub @figures @figures @figures colon' @figures @figures by colon.calt;
+	sub @figures @figures @figures colon' @figures by colon.calt;
+	sub @figures @figures colon' @figures @figures @figures @figures by colon.calt;
+	sub @figures @figures colon' @figures @figures @figures by colon.calt;
 	sub @figures @figures colon' @figures @figures by colon.calt;
-	sub @figures @figures colon' @figures by colon;
-	sub @figures colon' @figures @figures @figures by colon;
+	sub @figures @figures colon' @figures by colon.calt;
+	sub @figures colon' @figures @figures @figures @figures by colon.calt;
+	sub @figures colon' @figures @figures @figures by colon.calt;
 	sub @figures colon' @figures @figures by colon.calt;
-	sub @figures colon' @figures by colon;
+	sub @figures colon' @figures by colon.calt;
 } colonsub;
 } calt;
 
@@ -883,6 +894,7 @@ sub omegatonos by omegatonos.sc;
 sub alphatonos by alphatonos.sc;
 sub epsilontonos by epsilontonos.sc;
 sub etatonos by etatonos.sc;
+sub kaiSymbol by kaiSymbol.sc;
 } smcp;
 
 feature case {
@@ -912,8 +924,23 @@ sub nine.tosf by nine.lf;
 
 feature hlig {
 # automatic
+sub longs longs b by longs_longs_b;
+sub longs longs h by longs_longs_h;
+sub longs longs i by longs_longs_i;
+sub longs longs j by longs_longs_j;
+sub longs longs k by longs_longs_k;
+sub longs longs l by longs_longs_l;
+sub longs longs t by longs_longs_t;
+sub longs b by longs_b;
+sub longs h by longs_h;
+sub longs i by longs_i;
+sub longs idieresis by longs_idieresis;
+sub longs j by longs_j;
+sub longs k by longs_k;
+sub longs l by longs_l;
 sub longs longs by longs_longs;
 sub longs s by longs_s;
+sub longs t by longs_t;
 } hlig;
 
 feature dlig {
@@ -924,14 +951,42 @@ sub f f h by f_f_h;
 sub f f j by f_f_j;
 sub f f k by f_f_k;
 sub f f t by f_f_t;
+sub longs longs b by longs_longs_b;
+sub longs longs h by longs_longs_h;
+sub longs longs i by longs_longs_i;
+sub longs longs j by longs_longs_j;
+sub longs longs k by longs_longs_k;
+sub longs longs l by longs_longs_l;
+sub longs longs t by longs_longs_t;
+sub Q u by Q_u;
+sub Q y by Q_y;
 sub T h by T_h;
+sub c h by c_h;
+sub c k by c_k;
+sub c l by c_l;
+sub c t by c_t;
 sub f b by f_b;
 sub f h by f_h;
+sub f idieresis by f_idieresis;
 sub f j by f_j;
 sub f k by f_k;
 sub f t by f_t;
+sub longs b by longs_b;
+sub longs h by longs_h;
+sub longs i by longs_i;
+sub longs idieresis by longs_idieresis;
+sub longs j by longs_j;
+sub longs k by longs_k;
+sub longs l by longs_l;
 sub longs longs by longs_longs;
 sub longs s by longs_s;
+sub longs t by longs_t;
+sub s h by s_h;
+sub s k by s_k;
+sub s l by s_l;
+sub s p by s_p;
+sub s t by s_t;
+sub t t by t_t;
 } dlig;
 
 feature liga {

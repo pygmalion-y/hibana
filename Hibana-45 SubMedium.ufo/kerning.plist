@@ -5625,6 +5625,53 @@
 		<key>public.kern2.zeta</key>
 		<integer>-47</integer>
 	</dict>
+	<key>public.kern1.longs</key>
+	<dict>
+		<key>public.kern2.A</key>
+		<integer>-92</integer>
+		<key>public.kern2.B</key>
+		<integer>-13</integer>
+		<key>public.kern2.C</key>
+		<integer>-35</integer>
+		<key>public.kern2.Eth</key>
+		<integer>-28</integer>
+		<key>public.kern2.J</key>
+		<integer>-98</integer>
+		<key>public.kern2.S</key>
+		<integer>-33</integer>
+		<key>public.kern2.a</key>
+		<integer>-98</integer>
+		<key>public.kern2.b</key>
+		<integer>-20</integer>
+		<key>public.kern2.c</key>
+		<integer>-92</integer>
+		<key>public.kern2.f</key>
+		<integer>-79</integer>
+		<key>public.kern2.gone</key>
+		<integer>-112</integer>
+		<key>public.kern2.i</key>
+		<integer>-44</integer>
+		<key>public.kern2.j</key>
+		<integer>-44</integer>
+		<key>public.kern2.m</key>
+		<integer>-102</integer>
+		<key>public.kern2.s</key>
+		<integer>-94</integer>
+		<key>public.kern2.t</key>
+		<integer>-84</integer>
+		<key>public.kern2.u</key>
+		<integer>-83</integer>
+		<key>public.kern2.v</key>
+		<integer>-114</integer>
+		<key>public.kern2.w</key>
+		<integer>-115</integer>
+		<key>public.kern2.x</key>
+		<integer>-112</integer>
+		<key>public.kern2.y</key>
+		<integer>-100</integer>
+		<key>public.kern2.z</key>
+		<integer>-89</integer>
+	</dict>
 	<key>public.kern1.nu</key>
 	<dict>
 		<key>eta</key>

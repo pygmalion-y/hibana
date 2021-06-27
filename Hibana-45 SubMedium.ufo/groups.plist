@@ -544,7 +544,7 @@
 		<string>Kappa.sc</string>
 		<string>kappa.sc</string>
 		<string>KaiSymbol.sc</string>
-		<string>kaisymbol.sc</string>
+		<string>kaiSymbol.sc</string>
 	</array>
 	<key>public.kern1.L</key>
 	<array>
@@ -1010,8 +1010,12 @@
 		<string>aogonek.ss02</string>
 		<string>aring.ss02</string>
 		<string>atilde.ss02</string>
+		<string>c_h</string>
 		<string>f_f_h</string>
 		<string>f_h</string>
+		<string>s_h</string>
+		<string>longs_h</string>
+		<string>longs_longs_h</string>
 		<string>Tshe-cy</string>
 		<string>a-cy</string>
 		<string>tshe-cy</string>
@@ -1052,8 +1056,12 @@
 		<string>otildeacute</string>
 		<string>p</string>
 		<string>thorn</string>
+		<string>qpdigraph</string>
 		<string>f_b</string>
 		<string>f_f_b</string>
+		<string>s_p</string>
+		<string>longs_b</string>
+		<string>longs_longs_b</string>
 		<string>o-cy</string>
 		<string>er-cy</string>
 		<string>ef-cy</string>
@@ -1108,8 +1116,10 @@
 		<string>lcommaaccent</string>
 		<string>ldotbelow</string>
 		<string>lslash</string>
+		<string>c_l</string>
 		<string>f_f_l</string>
 		<string>fl</string>
+		<string>s_l</string>
 	</array>
 	<key>public.kern1.dcroat</key>
 	<array>
@@ -1189,7 +1199,6 @@
 	<key>public.kern1.f</key>
 	<array>
 		<string>f</string>
-		<string>longs</string>
 		<string>f_f</string>
 		<string>longs_longs</string>
 	</array>
@@ -1264,8 +1273,12 @@
 		<string>j</string>
 		<string>f_f_i</string>
 		<string>f_f_j</string>
+		<string>f_idieresis</string>
 		<string>f_j</string>
 		<string>fi</string>
+		<string>longs_i</string>
+		<string>longs_idieresis</string>
+		<string>longs_longs_i</string>
 		<string>i-cy</string>
 		<string>yi-cy</string>
 		<string>je-cy</string>
@@ -1277,14 +1290,23 @@
 		<string>iotadieresis</string>
 		<string>iotadieresistonos</string>
 	</array>
+	<key>public.kern1.j</key>
+	<array>
+		<string>longs_j</string>
+		<string>longs_longs_j</string>
+	</array>
 	<key>public.kern1.k</key>
 	<array>
 		<string>k</string>
 		<string>kcommaaccent</string>
 		<string>kgreenlandic</string>
 		<string>khook</string>
+		<string>c_k</string>
 		<string>f_f_k</string>
 		<string>f_k</string>
+		<string>s_k</string>
+		<string>longs_k</string>
+		<string>longs_longs_k</string>
 		<string>zhe-cy</string>
 		<string>ka-cy</string>
 		<string>kje-cy</string>
@@ -1296,6 +1318,11 @@
 	<array>
 		<string>kaiSymbol</string>
 	</array>
+	<key>public.kern1.l</key>
+	<array>
+		<string>longs_l</string>
+		<string>longs_longs_l</string>
+	</array>
 	<key>public.kern1.lambda</key>
 	<array>
 		<string>lambda</string>
@@ -1305,6 +1332,10 @@
 		<string>greaterequal</string>
 		<string>lessequal</string>
 		<string>plusminus</string>
+	</array>
+	<key>public.kern1.longs</key>
+	<array>
+		<string>longs</string>
 	</array>
 	<key>public.kern1.nu</key>
 	<array>
@@ -1425,8 +1456,13 @@
 		<string>tcedilla</string>
 		<string>tcommaaccent</string>
 		<string>tdotbelow</string>
+		<string>c_t</string>
 		<string>f_f_t</string>
 		<string>f_t</string>
+		<string>longs_t</string>
+		<string>s_t</string>
+		<string>longs_longs_t</string>
+		<string>t_t</string>
 	</array>
 	<key>public.kern1.tau</key>
 	<array>
@@ -1457,6 +1493,7 @@
 	</array>
 	<key>public.kern1.u</key>
 	<array>
+		<string>Q_u</string>
 		<string>u</string>
 		<string>uacute</string>
 		<string>ucaron</string>
@@ -1506,6 +1543,7 @@
 	</array>
 	<key>public.kern1.v</key>
 	<array>
+		<string>Q_y</string>
 		<string>v</string>
 		<string>y</string>
 		<string>yacute</string>
@@ -2078,7 +2116,7 @@
 		<string>epsilontonos.sc</string>
 		<string>etatonos.sc</string>
 		<string>KaiSymbol.sc</string>
-		<string>kaisymbol.sc</string>
+		<string>kaiSymbol.sc</string>
 	</array>
 	<key>public.kern2.Hardsign-cy.sc</key>
 	<array>
@@ -2236,6 +2274,11 @@
 	<array>
 		<string>Psi.sc</string>
 		<string>psi.sc</string>
+	</array>
+	<key>public.kern2.Q</key>
+	<array>
+		<string>Q_u</string>
+		<string>Q_y</string>
 	</array>
 	<key>public.kern2.S</key>
 	<array>
@@ -2640,6 +2683,7 @@
 		<string>otildeacute</string>
 		<string>oe</string>
 		<string>q</string>
+		<string>qpdigraph</string>
 		<string>a.ss01</string>
 		<string>aacute.ss01</string>
 		<string>abreve.ss01</string>
@@ -2660,6 +2704,10 @@
 		<string>egrave.ss02</string>
 		<string>emacron.ss02</string>
 		<string>eogonek.ss02</string>
+		<string>c_h</string>
+		<string>c_k</string>
+		<string>c_l</string>
+		<string>c_t</string>
 		<string>ie-cy</string>
 		<string>iegrave-cy</string>
 		<string>io-cy</string>
@@ -2757,13 +2805,29 @@
 		<string>f_f_l</string>
 		<string>f_f_t</string>
 		<string>f_h</string>
+		<string>f_idieresis</string>
 		<string>f_j</string>
 		<string>f_k</string>
 		<string>f_t</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>longs_t</string>
+		<string>longs_b</string>
+		<string>longs_h</string>
+		<string>longs_i</string>
+		<string>longs_idieresis</string>
+		<string>longs_j</string>
+		<string>longs_k</string>
+		<string>longs_l</string>
 		<string>longs_s</string>
 		<string>longs_longs</string>
+		<string>longs_longs_b</string>
+		<string>longs_longs_h</string>
+		<string>longs_longs_i</string>
+		<string>longs_longs_j</string>
+		<string>longs_longs_k</string>
+		<string>longs_longs_l</string>
+		<string>longs_longs_t</string>
 	</array>
 	<key>public.kern2.five</key>
 	<array>
@@ -2975,6 +3039,11 @@
 		<string>scaron.ss02</string>
 		<string>scedilla.ss02</string>
 		<string>scommaaccent.ss02</string>
+		<string>s_h</string>
+		<string>s_k</string>
+		<string>s_l</string>
+		<string>s_p</string>
+		<string>s_t</string>
 		<string>dze-cy</string>
 	</array>
 	<key>public.kern2.seven</key>
@@ -2993,6 +3062,7 @@
 		<string>tcedilla</string>
 		<string>tcommaaccent</string>
 		<string>tdotbelow</string>
+		<string>t_t</string>
 	</array>
 	<key>public.kern2.tau</key>
 	<array>

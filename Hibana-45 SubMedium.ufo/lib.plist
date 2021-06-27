@@ -2182,6 +2182,8 @@
 		<string>Scommaaccent.ss02</string>
 		<string>Sdotbelow.ss02</string>
 		<string>Q.ss03</string>
+		<string>Q_u</string>
+		<string>Q_y</string>
 		<string>T_h</string>
 		<string>a</string>
 		<string>aacute</string>
@@ -2294,6 +2296,7 @@
 		<string>p</string>
 		<string>thorn</string>
 		<string>q</string>
+		<string>qpdigraph</string>
 		<string>r</string>
 		<string>racute</string>
 		<string>rcaron</string>
@@ -2389,6 +2392,10 @@
 		<string>gbreve.ss04</string>
 		<string>gcommaaccent.ss04</string>
 		<string>gdotaccent.ss04</string>
+		<string>c_h</string>
+		<string>c_k</string>
+		<string>c_l</string>
+		<string>c_t</string>
 		<string>f_b</string>
 		<string>f_f</string>
 		<string>f_f_b</string>
@@ -2399,13 +2406,35 @@
 		<string>f_f_l</string>
 		<string>f_f_t</string>
 		<string>f_h</string>
+		<string>f_idieresis</string>
 		<string>f_j</string>
 		<string>f_k</string>
 		<string>f_t</string>
 		<string>fi</string>
 		<string>fl</string>
+		<string>longs_t</string>
+		<string>s_h</string>
+		<string>s_k</string>
+		<string>s_l</string>
+		<string>s_p</string>
+		<string>s_t</string>
+		<string>longs_b</string>
+		<string>longs_h</string>
+		<string>longs_i</string>
+		<string>longs_idieresis</string>
+		<string>longs_j</string>
+		<string>longs_k</string>
+		<string>longs_l</string>
 		<string>longs_s</string>
 		<string>longs_longs</string>
+		<string>longs_longs_b</string>
+		<string>longs_longs_h</string>
+		<string>longs_longs_i</string>
+		<string>longs_longs_j</string>
+		<string>longs_longs_k</string>
+		<string>longs_longs_l</string>
+		<string>longs_longs_t</string>
+		<string>t_t</string>
 		<string>A.sc</string>
 		<string>Aacute.sc</string>
 		<string>Abreve.sc</string>
@@ -3126,6 +3155,7 @@
 		<string>epsilontonos.sc</string>
 		<string>etatonos.sc</string>
 		<string>KaiSymbol.sc</string>
+		<string>kaiSymbol.sc</string>
 		<string>uni4ECA</string>
 		<string>uni56FD</string>
 		<string>uni706B</string>
@@ -4071,7 +4101,6 @@
 		<string>verticallinelowmod</string>
 		<string>verticallinemod</string>
 		<string>rotate</string>
-		<string>kaisymbol.sc</string>
 		<string>smallzero</string>
 		<string>_part.diantop</string>
 		<string>_slash.zero</string>
@@ -5219,6 +5248,8 @@
 		<string>uni0F40</string>
 		<key>kaiSymbol</key>
 		<string>uni03D7</string>
+		<key>kaiSymbol.sc</key>
+		<string>uni03D7.sc</string>
 		<key>kasmall-kata</key>
 		<string>uni30F5</string>
 		<key>kcommaaccent</key>
@@ -5611,6 +5642,8 @@
 		<string>uni2117</string>
 		<key>punctuationspace</key>
 		<string>uni2008</string>
+		<key>qpdigraph</key>
+		<string>uni0239</string>
 		<key>quarternote-musical</key>
 		<string>uni2669</string>
 		<key>question.full</key>

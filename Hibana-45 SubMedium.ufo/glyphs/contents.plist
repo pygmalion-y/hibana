@@ -718,6 +718,10 @@
 	<string>Q_.ss03.glif</string>
 	<key>Q.ss03.sc</key>
 	<string>Q_.ss03.sc.glif</string>
+	<key>Q_u</key>
+	<string>Q__u.glif</string>
+	<key>Q_y</key>
+	<string>Q__y.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>R.sc</key>
@@ -1354,6 +1358,14 @@
 	<string>c.glif</string>
 	<key>c.sc</key>
 	<string>c.sc.glif</string>
+	<key>c_h</key>
+	<string>c_h.glif</string>
+	<key>c_k</key>
+	<string>c_k.glif</string>
+	<key>c_l</key>
+	<string>c_l.glif</string>
+	<key>c_t</key>
+	<string>c_t.glif</string>
 	<key>ca-tibet</key>
 	<string>ca-tibet.glif</string>
 	<key>cacute</key>
@@ -1820,6 +1832,8 @@
 	<string>f_f_t.glif</string>
 	<key>f_h</key>
 	<string>f_h.glif</string>
+	<key>f_idieresis</key>
+	<string>f_idieresis.glif</string>
 	<key>f_j</key>
 	<string>f_j.glif</string>
 	<key>f_k</key>
@@ -2272,8 +2286,8 @@
 	<string>ka-tibet.glif</string>
 	<key>kaiSymbol</key>
 	<string>kaiS_ymbol.glif</string>
-	<key>kaisymbol.sc</key>
-	<string>kaisymbol.sc.glif</string>
+	<key>kaiSymbol.sc</key>
+	<string>kaiS_ymbol.sc.glif</string>
 	<key>kappa</key>
 	<string>kappa.glif</string>
 	<key>kappa.sc</key>
@@ -2388,10 +2402,40 @@
 	<string>logicalnot.glif</string>
 	<key>longs</key>
 	<string>longs.glif</string>
+	<key>longs_b</key>
+	<string>longs_b.glif</string>
+	<key>longs_h</key>
+	<string>longs_h.glif</string>
+	<key>longs_i</key>
+	<string>longs_i.glif</string>
+	<key>longs_idieresis</key>
+	<string>longs_idieresis.glif</string>
+	<key>longs_j</key>
+	<string>longs_j.glif</string>
+	<key>longs_k</key>
+	<string>longs_k.glif</string>
+	<key>longs_l</key>
+	<string>longs_l.glif</string>
 	<key>longs_longs</key>
 	<string>longs_longs.glif</string>
+	<key>longs_longs_b</key>
+	<string>longs_longs_b.glif</string>
+	<key>longs_longs_h</key>
+	<string>longs_longs_h.glif</string>
+	<key>longs_longs_i</key>
+	<string>longs_longs_i.glif</string>
+	<key>longs_longs_j</key>
+	<string>longs_longs_j.glif</string>
+	<key>longs_longs_k</key>
+	<string>longs_longs_k.glif</string>
+	<key>longs_longs_l</key>
+	<string>longs_longs_l.glif</string>
+	<key>longs_longs_t</key>
+	<string>longs_longs_t.glif</string>
 	<key>longs_s</key>
 	<string>longs_s.glif</string>
+	<key>longs_t</key>
+	<string>longs_t.glif</string>
 	<key>lowernumeral-greek</key>
 	<string>lowernumeral-greek.glif</string>
 	<key>lowlinecomb</key>
@@ -2884,6 +2928,8 @@
 	<string>q.sc.glif</string>
 	<key>q.ss03.sc</key>
 	<string>q.ss03.sc.glif</string>
+	<key>qpdigraph</key>
+	<string>qpdigraph.glif</string>
 	<key>quarternote-musical</key>
 	<string>quarternote-musical.glif</string>
 	<key>question</key>
@@ -3042,6 +3088,16 @@
 	<string>s.ss02.glif</string>
 	<key>s.ss02.sc</key>
 	<string>s.ss02.sc.glif</string>
+	<key>s_h</key>
+	<string>s_h.glif</string>
+	<key>s_k</key>
+	<string>s_k.glif</string>
+	<key>s_l</key>
+	<string>s_l.glif</string>
+	<key>s_p</key>
+	<string>s_p.glif</string>
+	<key>s_t</key>
+	<string>s_t.glif</string>
 	<key>sa-hira</key>
 	<string>sa-hira.glif</string>
 	<key>sa-kata</key>
@@ -3238,6 +3294,8 @@
 	<string>t.glif</string>
 	<key>t.sc</key>
 	<string>t.sc.glif</string>
+	<key>t_t</key>
+	<string>t_t.glif</string>
 	<key>ta-hira</key>
 	<string>ta-hira.glif</string>
 	<key>ta-kata</key>

@@ -42,6 +42,8 @@
 	<string>Q_.sc.glif</string>
 	<key>Q.ss03</key>
 	<string>Q_.ss03.glif</string>
+	<key>Q_u</key>
+	<string>Q__u.glif</string>
 	<key>R</key>
 	<string>R_.glif</string>
 	<key>S.ss02</key>
@@ -124,6 +126,8 @@
 	<string>s.ss02.glif</string>
 	<key>s.ss02.sc</key>
 	<string>s.ss02.sc.glif</string>
+	<key>s_p</key>
+	<string>s_p.glif</string>
 	<key>section</key>
 	<string>section.glif</string>
 	<key>softsign-cy</key>
