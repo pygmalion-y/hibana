@@ -1,4 +1,9 @@
-# hibana 火花
+<h1 align="center">
+  <picture>
+    <img src="/hibana.svg" alt="hibana" title="hibana">
+  </picture>
+</h1>
+
 “If our voice is loud enough to threaten the fireworks, there may still be a chance to make a difference, but in fact, our voice is so faint that only those who curious can hear it.”
 
 “如果我们的声音大得足以威胁到烟火，或许还有可能改变什么结果，但实际上我们的声音小得可怜，只有认真想听的人才听得见。”
