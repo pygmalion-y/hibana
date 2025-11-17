@@ -48,6 +48,7 @@ There is a complimentary font specimen in the list, enjoy.
 ## Your Simple Guide to SIL Open Font License 1.1
 
 别担心，这个协议其实很友好！让我用人话告诉你能做什么 😊
+
 Don't worry, this license is actually very friendly! Let me explain in plain language.
 
 
@@ -55,18 +56,23 @@ Don't worry, this license is actually very friendly! Let me explain in plain lan
 ### ✅ What You Can Freely Do
 #### 📱 随便用 | Free to Use
 个人项目、商业项目都可以 — 做网站、设计Logo、印刷品...想怎么用就怎么用
+
 Use freely for personal or commercial projects - websites, logos, print materials... whatever you need
 #### ✏️ 随便改 | Free to Modify
 觉得字体哪里不够好？自己改！ 加个字符、调整曲线、优化间距都行
+
 Think something could be better? Modify it! Add characters, adjust curves, fix spacing
 #### 🎁 随便分享 | Free to Share
 改完了可以分享给别人 — 朋友、同事、整个互联网都行
+
 Share your improvements with friends, colleagues, or the entire internet
 #### 📦 打包带走 | Free to Bundle
 做了个软件？把字体一起打包 — 开源项目、商业软件都没问题
+
 Building software? Bundle the fonts with it - open source or commercial, both fine
 #### 🌐 嵌入使用 | Free to Embed
 网页字体、PDF、App 里用 — 完全没问题
+
 Web fonts, PDFs, apps - all good
 
 ### ⚠️ 只有这几条红线别碰
@@ -80,32 +86,73 @@ But you CAN sell designs made with the font
 
 ### 例子 | Example:
 不能在淘宝卖字体包，但可以用这字体设计T恤然后卖T恤
+
 Can't sell font packs on online stores, but you can design T-shirts with the font and sell those T-shirts
+
 🏷️ 改了就得换名字 | Rename If Modified
+
 如果你修改了字体，而且原名字是"保留名称"，就得改个新名字
+
 比如改了"思源黑体"，就不能还叫"思源黑体"，得叫"我的改良黑体"之类的
+
 If you modify a font with a "Reserved Font Name", rename your version
+
 For example, if you modify "Source Han Sans", call it "My Enhanced Sans" instead
+
 📜 别把协议扔了 | Keep the License
+
 分享字体时记得带上这份协议文本和版权信息
+
 就像转发时注明出处一样简单
+
 Keep the license and copyright notices when sharing
+
 It's as simple as crediting sources when reposting
 
 ### 🤔 几个常见场景
 ### 🤔 Common Scenarios
-问 | Q: 我能用它做公司网站吗？ | Can I use it for my company website?
-答 | A: 当然！商用完全免费。| Absolutely! Commercial use is completely free.
-问 | Q: 我能修改后放到自己的开源项目里吗？ | Can I include modified versions in my open source project?
-答 | A: 可以！记得附上协议就行。| Yes! Just include the license.
-问 | Q: 我能用它设计Logo然后卖给客户吗？ | Can I design logos with it and sell to clients?
-答 | A: 没问题！你卖的是设计服务，不是字体本身。| No problem! You're selling design services, not the font itself.
-问 | Q: 我能把它放在 App 里卖吗？ | Can I include it in an app I'm selling?
-答 | A: 可以！字体作为 App 的一部分完全合法。| Yes! Fonts as part of your app are completely legal.
-问 | Q: 我能单独把字体包拿去卖吗？ | Can I sell the font pack by itself?
-答 | A: 这个不行。字体文件本身不能单独售卖。| This is not allowed. Font files themselves cannot be sold separately.
+问 | Q: 我能用它做公司网站吗？ 
+
+Can I use it for my company website?
+
+答 | A: 当然！商用完全免费。
+
+Absolutely! Commercial use is completely free.
+
+问 | Q: 我能修改后放到自己的开源项目里吗？ 
+
+Can I include modified versions in my open source project?
+
+答 | A: 可以！记得附上协议就行。
+
+Yes! Just include the license.
+
+问 | Q: 我能用它设计Logo然后卖给客户吗？ 
+
+Can I design logos with it and sell to clients?
+
+答 | A: 没问题！你卖的是设计服务，不是字体本身。
+
+No problem! You're selling design services, not the font itself.
+
+问 | Q: 我能把它放在 App 里卖吗？ 
+
+Can I include it in an app I'm selling?
+
+答 | A: 可以！字体作为 App 的一部分完全合法。
+
+Yes! Fonts as part of your app are completely legal.
+
+问 | Q: 我能单独把字体包拿去卖吗？ 
+
+Can I sell the font pack by itself?
+
+答 | A: 这个不行。字体文件本身不能单独售卖。
+
+This is not allowed. Font files themselves cannot be sold separately.
 
 ### 🎯 一句话总结
 ### 🎯 Bottom Line
 这个协议的精神就是: 尽情使用和分享，别拿字体文件本身去赚钱就好。
+
 The spirit: Use and share freely, just don't sell the font files themselves.
