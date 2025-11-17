@@ -45,17 +45,67 @@ There is a complimentary font specimen in the list, enjoy.
 
 一并在列表中附上一份自制字样，请按需取用。
 ## Clarify on license 您可以做什么和不可以做什么
-1. Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
-字体软件或其任何个别构件，无论原版或修改版，均不能单独销售。
+✅ 你可以放心做这些
+📱 随便用
 
-2. Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
-原版或修改版字体软件可以与任何软件捆绑、一并再分发和/或一并销售，但每份副本都需要包含上述版权标记和本许可证。可以采用包括独立文本文件、人类可读信息头或在文本或二进制文件内适当的、用户易于查阅的机器可读元数据字段的形式。
+个人项目、商业项目都可以——做网站、设计Logo、印刷品...想怎么用就怎么用
+Use freely for personal or commercial projects - websites, logos, print materials... whatever you need
 
-3. No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
-修改版字体软件不能使用保留字体名称，除非相应版权持有者授予明确书面许可。此项限制仅适用于对用户显示的主要字体名称。
+✏️ 随便改
 
-4. The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
-除向版权持有者和作者的贡献致谢或具有其明确书面许可外，不得将版权持有者或作者的名字用于推广、认可或宣传任何修改版。
+觉得字体哪里不够好?自己改! 加个字符、调整曲线、优化间距都行
+Think something could be better? Modify it! Add characters, adjust curves, fix spacing
 
-5. The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
-字体软件无论修改或未修改，无论部分或整体，均必须完全在本许可证下分发，不得在任何其他许可证下分发。字体处于本许可证下的要求不适用于使用字体软件创建的任何文档。
+🎁 随便分享
+
+改完了可以分享给别人——朋友、同事、整个互联网都行
+Share your improvements with friends, colleagues, or the entire internet
+
+📦 打包带走
+
+做了个软件?把字体一起打包——开源项目、商业软件都没问题
+Building software? Bundle the fonts with it - open source or commercial, both fine
+
+🌐 嵌入使用
+
+网页字体、PDF、App 里用——完全没问题
+Web fonts, PDFs, apps - all good
+
+
+⚠️ 只有这几条红线别碰
+💰 别拿字体文件本身赚钱
+
+❌ 不能把字体单独拿去卖(不管是原版还是你改过的)
+✅ 但可以用字体做设计然后卖设计作品
+例子: 不能在淘宝卖字体包,但可以用这字体设计T恤然后卖T恤
+
+Cannot sell the font files themselves (original or modified)
+But you CAN sell designs made with the font
+🏷️ 改了就得换名字
+
+如果你修改了字体,而且原名字是"保留名称",就得改个新名字
+比如改了"思源黑体",就不能还叫"思源黑体",得叫"我的改良黑体"之类的
+
+If you modify a font with a "Reserved Font Name", rename your version
+📜 别把协议扔了
+
+分享字体时记得带上这份协议文本和版权信息
+就像转发时注明出处一样简单
+
+Keep the license and copyright notices when sharing
+
+🤔 几个常见场景
+问: 我能用它做公司网站吗?
+答: 当然!商用完全免费。
+问: 我能修改后放到自己的开源项目里吗?
+答: 可以!记得附上协议就行。
+问: 我能用它设计Logo然后卖给客户吗?
+答: 没问题!你卖的是设计服务,不是字体本身。
+问: 我能把它放在 App 里卖吗?
+答: 可以!字体作为 App 的一部分完全合法。
+问: 我能单独把字体包拿去卖吗?
+答: 这个不行。字体文件本身不能单独售卖。
+
+🎯 一句话总结
+这个协议的精神就是: 尽情使用和分享,别拿字体文件本身去赚钱就好。
+The spirit: Use and share freely, just don't sell the font files themselves.
