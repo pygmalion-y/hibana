@@ -44,16 +44,14 @@ To use current design on your website: download the woff &/ woff2 file and deplo
 There is a complimentary font specimen in the list, enjoy.
 
 一并在列表中附上一份自制字样，请按需取用。
-## SIL Open Font License 1.1 - 给你的简明指南
-## Your Simple Guide to SIL Open Font License 1.1
+## SIL Open Font License 1.1 - 给你的简明指南 | Your Simple Guide to SIL Open Font License 1.1
 
 别担心，这个协议其实很友好！让我用人话告诉你能做什么 😊
 
 Don't worry, this license is actually very friendly! Let me explain in plain language.
 
 
-### ✅ 你可以放心做这些
-### ✅ What You Can Freely Do
+### ✅ 你可以放心做这些 | What You Can Freely Do
 #### 📱 随便用 | Free to Use
 个人项目、商业项目都可以 — 做网站、设计Logo、印刷品...想怎么用就怎么用
 
@@ -75,8 +73,7 @@ Building software? Bundle the fonts with it - open source or commercial, both fi
 
 Web fonts, PDFs, apps - all good
 
-### ⚠️ 只有这几条红线别碰
-### ⚠️ A Few Red Lines to Avoid
+### ⚠️ 只有这几条红线别碰 | A Few Red Lines to Avoid
 #### 💰 别拿字体文件本身赚钱 | Don't Sell the Font Files
 
 #### ❌ 不能把字体单独拿去卖（不管是原版还是你改过的）
@@ -109,8 +106,7 @@ Keep the license and copyright notices when sharing
 
 It's as simple as crediting sources when reposting
 
-### 🤔 几个常见场景
-### 🤔 Common Scenarios
+### 🤔 几个常见场景 | Common Scenarios
 问 | Q: 我能用它做公司网站吗？ 
 
 Can I use it for my company website?
@@ -151,8 +147,7 @@ Can I sell the font pack by itself?
 
 This is not allowed. Font files themselves cannot be sold separately.
 
-### 🎯 一句话总结
-### 🎯 Bottom Line
+### 🎯 一句话总结 | Bottom Line
 这个协议的精神就是: 尽情使用和分享，别拿字体文件本身去赚钱就好。
 
 The spirit: Use and share freely, just don't sell the font files themselves.
